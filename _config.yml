@@ -92,7 +92,7 @@ author:
   bio              : "Making Democracy Work"
   location         : "Pullman, WA"
   links:
-    - label: "League od Women Voters"
+    - label: "League of Women Voters"
       icon: "fas fa-fw fa-link"
       url: "http://www.lwvpullman.org/index.html"
     - label: "Facebook"
