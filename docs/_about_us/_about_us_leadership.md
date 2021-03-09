@@ -1,3 +1,9 @@
+---
+title: "About Us Leadership"
+classes: wide
+excerpt: "All about Pullman League of Women Voters"
+---
+
 ##Board:
 
 Chair of the Board: Bobbie Ryder 
