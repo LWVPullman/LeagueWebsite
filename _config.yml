@@ -76,6 +76,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://www.facebook.com/LWVPullman"
+    - "https://www.instagram.com/lwvpullman/"
 
 # Analytics
 analytics:
@@ -103,7 +104,7 @@ author:
       url: "https://github.com/LWVPullman"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://www.instagram.com/lwvpullman/"
 
 
 # Site Footer
@@ -117,7 +118,7 @@ footer:
       url: "https://github.com/LWVPullman"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://www.instagram.com/lwvpullman/"
 
 
 # Reading Files
@@ -310,7 +311,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+#http://lwvpullman.org/pdf/KnowGovt2017-18.pdf
 
 # HTML Compression
 # - http://jch.penibelst.de/
