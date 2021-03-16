@@ -16,6 +16,10 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
+{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+
+[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+
 ## Mission
 
 The League of Women Voters, a nonpartisan political organization, encourages the informed and active participation of citizens in government, and influences public policy through education and advocacy.
