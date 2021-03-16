@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Voter Information"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
+  - title: "Advocacy"
+    url: /docs/_advocacy/
+  - title: "About Us"
+    url: /docs/_about_us/
+  - title: "Observer Core"
+    url: /docs/_observer_core/
+  - title: "Blogs"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
 
 # documentation links
 docs:
