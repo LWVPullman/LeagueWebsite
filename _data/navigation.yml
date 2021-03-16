@@ -5,7 +5,7 @@ main:
   - title: "Advocacy"
     url: /docs/_advocacy/
   - title: "About Us"
-    url: /docs/_about_us/
+    url: /about/
   - title: "Observer Core"
     url: /docs/_observer_core/
   - title: "Blogs"
