@@ -17,9 +17,11 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
-{% include gallery id="layouts_gallery" %}
+# About The Pullman League
 
 [Join!]({{ "http://www.lwvpullman.org/contact.html" | relative_url }}){: .btn .btn--success .btn--large}
+
+{% include gallery id="layouts_gallery" %}
 
 ## Mission
 
