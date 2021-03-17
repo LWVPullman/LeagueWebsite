@@ -18,7 +18,6 @@ toc: true
 ---
 
 # About The Pullman League
-
 [Join!]({{ "http://www.lwvpullman.org/contact.html" | relative_url }}){: .btn .btn--success .btn--large}
 {% include gallery id="layouts_gallery" %}
 ## Mission
