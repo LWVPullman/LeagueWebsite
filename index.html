@@ -14,9 +14,17 @@ header:
     - label: "DONATE!"
       url: "http://www.lwvpullman.org/donate.html"
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
+  - excerpt: 'The League of Women Voters, a nonpartisan political organization, encourages the informed and active participation of citizens in government, and influences public policy through education and advocacy.'
+feature_events:
+  - image_path: /assets/images/meeting.jpg
+    alt: "Image of cork board with article about the League pinned to it and a LWV button"
+    title: "Join us for our events!"
+    excerpt: 'Join us for all of uor latest events, including monthly brown bags and general evening meetings on local and national topics'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row:
-  - image_path: assets/images/meeting.jpg
+  - image_path: assets/images/flag.png
     alt: "placeholder image 1"
     title: "Meeting information"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -53,22 +61,14 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/flag.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_events" type="center" %}
 
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
