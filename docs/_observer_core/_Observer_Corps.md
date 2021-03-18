@@ -36,9 +36,8 @@ Port of Whitman County Commissioners– Carolyn Joswig-Jones and Kimberly Thomps
 Solid Waste Advisory Committee for Whitman County (SWAC) – Deb Olson
 
 
-[Observer Corp 3x4 2021]
+![Observer Corp 3x4 2021](https://user-images.githubusercontent.com/79179642/111711867-d4ba6280-8809-11eb-897a-668d2fe267e0.jpg)
 
-(https://user-images.githubusercontent.com/79179642/111705290-b2224c80-87fd-11eb-9437-a04820035b14.jpg)
 
 
 http://lwvpullman.org/images/ObsArticle1.jpg 
