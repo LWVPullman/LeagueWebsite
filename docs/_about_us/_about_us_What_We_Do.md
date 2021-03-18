@@ -67,9 +67,13 @@ Established to study a public issues of League concern, a study committee resear
 
 There are also committees for other categories of League work (Voters Service, Membership, Budget, etc.). These committees carry out the balance of the League's work.
 
-## Ovserver Corps
+## Observer Corps
 
 The League maintains observers at meetings of various local, regional, state and national governmental bodies. Observers do not speak for the League but attend these meetings to listen, learn and to make factual reports of the proceedings. The League's reputation as a civic monitor has been earned by the Observer Corps of the local Leagues.
+
+## Positions
+
+The League of Women Voters of Pullman adopts Position statements based on study and member agreement. Once the League adopts a position it can then be used to shape public policy. See the complete list of Positions for the LWV of Pullman.
 
 ## Public Relations
 
@@ -77,7 +81,11 @@ Voters Service and results of League studies and League action are conveyed to t
 
 ## Publications
 
-The League has a large and growing list of educational publications on local, state and national issues. Highly respected, League publications are the result of thorough research.
+The League has a large and growing list of educational publications on local, state and national issues. Highly respected, League publications are the result of thorough research.  Members receive many useful and informative publications from the League:
+
+* Pullman Voter – LWV of Pullman's Monthly Newsletter
+* Washington State Voter – LWV of Washington's Quarterly Newsletter
+* TRY, They Represent You - Directory of Elected Officials
 
 # What We Have Done
 
