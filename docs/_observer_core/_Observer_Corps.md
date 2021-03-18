@@ -11,16 +11,44 @@ Pullman Arts Commission - Pullman City Council – Pullman Library Board – Pul
 ## Becoming an Observer
 If you are fascinated by the idea of observing the goings-on of a local governmental entity, and have an agency in mind that interests you please contact Judy Stone at judy.stone.bandaid@gmail.com 
 
-![Observer Corp 3x4 2021](https://user-images.githubusercontent.com/79179642/111705290-b2224c80-87fd-11eb-9437-a04820035b14.jpg)
+## Current Observer Corps Team Members:
+
+Pullman Arts Commission – Uta Hutnak
+    
+Pullman City Council – Libby Walker and Karyn Hardy as backup
+    
+Neill Public Library Board – Francy Bose and Anne Lewis as backup
+    
+Pullman Planning Commission –  Helen Catanese
+    
+Pullman Regional Airport – Lennis Boyer Watts
+    
+Pullman Regional Hospital – Judy Stone
+    
+Pullman School Board –Carol Ndambuki
+  
+Whitman County Commissioners – Paul Spencer and Mary Collins as backup
+    
+Whitman County Planning Commission – Shelley Chambers-Fox
+    
+Port of Whitman County Commissioners– Carolyn Joswig-Jones and Kimberly Thompson as backup
+    
+Solid Waste Advisory Committee for Whitman County (SWAC) – Deb Olson
+
+
+[Observer Corp 3x4 2021]
+
+(https://user-images.githubusercontent.com/79179642/111705290-b2224c80-87fd-11eb-9437-a04820035b14.jpg)
 
 
 http://lwvpullman.org/images/ObsArticle1.jpg 
+
 http://lwvpullman.org/images/ObsArticle2.jpg
 
 ## Observer Corps Calendar (Judy makes a new PDF each month)
 
-## Observer Reports
+## Observer Reports (add link to where all the reports are posted)
 
-## Observer Guidlines
+## Observer Guidelines (add link to the guidelines)
 
 ## Observer Report Form (add link to blank forms)
