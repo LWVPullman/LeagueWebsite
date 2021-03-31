@@ -1,3 +1,19 @@
+# Current TO DOs:
+## For Developers
+1. meetings like posts
+2. link observer corp  main pages to buttons, and bring in via merge
+3. navigation drop downs
+
+## Things to do for anyone: 
+1. PDF’s from observer corp
+2. write into the readme, what photos are
+3. content for voter info, advocacy
+
+
+
+
+
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
