@@ -1,85 +1,59 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "About Us"
+layout: splash
+excerpt: "The League of Women Voters, a nonpartisan political organization, encourages the informed and active participation of citizens in government, and influences public policy through education and advocacy."
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2021-02-05T20:54:41-05:00
+  - url: /assets/images/original_league.jpg
+    image_path: /assets/images/original_league.jpg
+    alt: "Picture of the original League Members"
+  - url: /assets/images/group_photo.jpg
+    image_path: /assets/images/group_photo.jpg
+    alt: "Recent photo of the League"
+  - url: /assets/images/we_luv.jpg
+    image_path: /assets/images/we_luv.jpg
+    alt: "Photo of League Members on Zoom meeting"
+last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+# About The Pullman League
+[Join!]({{ "http://www.lwvpullman.org/contact.html" | relative_url }}){: .btn .btn--success .btn--large}
+{% include gallery id="layouts_gallery" %}
+## Mission
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+The League of Women Voters, a nonpartisan political organization, encourages the informed and active participation of citizens in government, and influences public policy through education and advocacy.
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+## Organization
 
-## Notable Features
+The structure of the League parallels the representative system of government under which we live. Our local, state and national governments are dependent one upon the other; the base is the individual citizen. The several League levels are also interdependent. Members determine the policies and program of all league levels. Membership is simultaneous on all three levels where applicable.
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+## Nonpartisanship
 
-## Demo Pages
+The League acts in support of, or in opposition to, selected governmental issues which its members have studied. It does not support or oppose candidates, factions or political parties. League members, as individuals, are urged to work in the political party of their choice. In order to protect the League's nonpartisanship policy, guidelines regarding the political activities of the Board of Directors are reviewed frequently.
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+## Diversity, Equity, and Inclusion
 
-For even more demo pages check the [posts archive][year-archive].
+LWV is an organization fully committed to diversity, equity, and inclusion in principle and in practice. Diversity, equity, and inclusion are central to the organization’s current and future success in engaging all individuals, households, communities, and policy makers in creating a more perfect democracy.
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+There shall be no barriers to full participation in this organization on the basis of gender, gender identity, ethnicity, race, native or indigenous origin, age, generation, sexual orientation, culture, religion, belief system, marital status, parental status, socioeconomic status, language, accent, ability status, mental health, educational level or background, geography, nationality, work style, work experience, job role function, thinking style, personality type, physical appearance, political perspective or affiliation and/or any other characteristic that can be identified as recognizing or illustrating diversity.
 
----
+## Financing
 
-## Credits
+The League is a non-profit organization financed by member dues and contributions, and through community and national finance drives which enable public-spirited citizens to help support the work of the League. Dues are collected at the local League level with Per Member Payment (PMP's) assessments made by National and State Leagues upon the local Leagues. A tax deductible LWV Education Fund can be used for publications and Voter Service information.
 
-### Icons + Demo Images:
+## Principles
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+The League of Women Voters Believes...
 
-### Other:
+* in representative government and in the individual liberties established in the Constitution of the United States.
 
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
+* that democratic government depends upon the informed and active participation of its citizens and requires that governmental bodies protect the citizen's right to know by giving adequate notice of proposed actions, holding open meetings and making public records accessible.
 
----
+* that every citizen should be protected in the right to vote; that every person should have access to free public education which provides equal opportunity for all; and that no person or group should suffer legal, economic or administrative discrimination.
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+* that efficient and economical government requires competent personnel, the clear assignment of responsibility, adequate financing and coordination among the different agencies and levels of government.
+
+* that responsible government should be responsive to the will of the people; that government should maintain an equitable and flexible system of taxation, promote the conservation and development of natural resources in the public interest, share in the solution of economic and social problems which affect the general welfare, promote a sound economy and adopt domestic policies which facilitate the solution of international problems.
+
+* that cooperation with other nations is essential in the search for solutions to world problems, and that the development of international organization and international law is imperative in the promotion of world peace.
