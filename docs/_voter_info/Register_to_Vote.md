@@ -35,3 +35,6 @@ Fax: 509-397-5281
 Email: elections@co.whitman.wa.us
 Whitman County Auditors Website 
 http://www.whitmancounty.org/Page.aspx?pn=Auditor
+
+Local and State election and Candidate information
+Vote 411 https://www.vote411.org/
