@@ -16,31 +16,33 @@ excerpt: "All about Pullman League of Women Voters"
 
 ## Committee Leaders:
 
-**Civics Education:**
+**Civics Education Coordinator:**
 
-**Community Outreach:**
+**Community Outreach Coordinator:**  Libby Walker
 
-**Community Update:**
+**Community Update Editor:**  Susan Daniels
 
-**Finance Drive:**
+**Finance Drive Coordinator:** Libby Walker
 
-**MELD:**
+**Legislative Coordinator:**  Karl Johanson
 
-**Membership:**  
+**MELD Coordinator:**  Paul Spencer
 
-**Nominating:**
+**Membership Chair:**  Judy Stone
 
-**Observer Corps:**  Judy Stone
+**Nominating Coordinator:** Mary Collins
+
+**Observer Corps Chair:**  Judy Stone
 
 **Social Media:**  Carolyn Joswig-Jones
 
-**The Voter Publication:**
+**The Voter Publication:**  Anne Lewis
 
-**TMIL:**
+**TWIL:**
 
-**TRY:**
+**TRY Coordinator:**  Susan Daniels
 
-**Voter Services:**  Anne Lewis
+**Voter Services Coordinator:**  Deb Olson
 
 **Website:**  Leah Zulas, Helen Catanese, Paul Spencer
 
