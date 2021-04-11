@@ -20,9 +20,8 @@ toc: true
 # About The Pullman League
 [Join!]({{ "http://www.lwvpullman.org/contact.html" | relative_url }}){: .btn .btn--success .btn--large}
 {% include gallery id="layouts_gallery" %}
-## Mission
 
-test
+## Mission
 
 The League of Women Voters, a nonpartisan political organization, encourages the informed and active participation of citizens in government, and influences public policy through education and advocacy.
 
