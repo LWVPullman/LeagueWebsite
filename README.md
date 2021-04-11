@@ -1,8 +1,7 @@
 # Current TO DOs:
 ## For Developers
 1. meetings like posts
-2. link observer corp  main pages to buttons, and bring in via merge
-3. navigation drop downs
+2. navigation drop downs
 
 ## Things to do for anyone: 
 1. PDF’s from observer corp
