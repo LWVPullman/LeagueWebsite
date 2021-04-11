@@ -4,18 +4,20 @@ title: "Observer Corp"
 layout: splash
 excerpt: "The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies."
 layouts_gallery:
-  - url: /assets/images/original_league.jpg
-    image_path: /assets/images/original_league.jpg
+  - url: /assets/images/OC_team.jpg
+    image_path: /assets/images/OC_team.jpg
     alt: "Picture of the original League Members"
-  - url: /assets/images/group_photo.jpg
-    image_path: /assets/images/group_photo.jpg
+  - url: /assets/images/ObsArticle1.jpg
+    image_path: /assets/images/ObsArticle1.jpg
     alt: "Recent photo of the League"
-  - url: /assets/images/we_luv.jpg
-    image_path: /assets/images/we_luv.jpg
+  - url: /assets/images/ObsArticle2.jpg
+    image_path: /assets/images/ObsArticle2.jpg
     alt: "Photo of League Members on Zoom meeting"
 last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
+
+{% include gallery id="layouts_gallery" %}
 
 # Observer Corps
 
@@ -53,15 +55,6 @@ Whitman County Planning Commission – Shelley Chambers-Fox
 Port of Whitman County Commissioners– Carolyn Joswig-Jones and Kimberly Thompson as backup
 
 Solid Waste Advisory Committee for Whitman County (SWAC) – Deb Olson
-
-
-![Observer Corp 3x4 2021](https://user-images.githubusercontent.com/79179642/111711867-d4ba6280-8809-11eb-897a-668d2fe267e0.jpg)
-
-
-
-http://lwvpullman.org/images/ObsArticle1.jpg
-
-http://lwvpullman.org/images/ObsArticle2.jpg
 
 ## Observer Corps Calendar (Judy makes a new PDF each month)
 
