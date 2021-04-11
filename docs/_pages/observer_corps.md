@@ -10,9 +10,9 @@ layouts_gallery:
   - url: /assets/images/ObsArticle1.jpg
     image_path: /assets/images/ObsArticle1.jpg
     alt: "Recent photo of the League"
-  - url: /assets/images/ObsArticle2.jpg
-    image_path: /assets/images/ObsArticle2.jpg
-    alt: "Photo of League Members on Zoom meeting"
+#  - url: /assets/images/ObsArticle2.jpg
+#    image_path: /assets/images/ObsArticle2.jpg
+#    alt: "Photo of League Members on Zoom meeting"
 last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
