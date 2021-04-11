@@ -71,7 +71,7 @@ GEM
       jekyll-titles-from-headings (= 0.5.3)
       jemoji (= 0.12.0)
       kramdown (= 2.3.1)
-      kramdown-parser-gfm (= 1.1.0)
+      kramdown-parser-gfm (= 2.0.0)
       liquid (= 4.0.3)
       mercenary (~> 0.3)
       minima (= 2.5.1)
