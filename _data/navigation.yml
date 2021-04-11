@@ -7,7 +7,7 @@ main:
   - title: "About Us"
     url: /about/
   - title: "Observer Corp"
-    url: /docs/_observer_corp/
+    url: /observer_corps/
   - title: "Blogs"
     url: /year-archive/
 
