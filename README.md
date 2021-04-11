@@ -2,8 +2,9 @@
 ## For Developers
 1. meetings like posts
 2. navigation drop downs
-3. Merge in and connect Voters Info
-4. Merge in and connect Advocacy
+3. Social Media links in the nav bar
+4. Merge in and connect Voters Info
+5. Merge in and connect Advocacy
 
 ## Things to do for anyone: 
 1. PDF’s from observer corp
