@@ -1,20 +1,20 @@
 ---
-title: "Mental Health on the Palouse:
-The Beginning of the Conversation"
+title: "Pullman Regional Hospital Pandemic Update"
 header:
   video:
-    id: r61ARK4Qv9c
+    id: Ix7_BTo-2Nw
     provider: youtube
 categories:
-  - Brown bag
-  - Monthly lunch meeting
+  - General Meeting
+  - Monthly evening meeting
 tags:
   - Health Care
-  - Mental Health
+  - COVID-19
+  - Pandemic
+  - Pullman Regional
 ---
 
-# Mental Health on the Palouse:
-## The Beginning of the Conversation
+# Pullman Regional Hospital Pandemic Update
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
