@@ -3,7 +3,7 @@ main:
   - title: "Voter Information"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Advocacy"
-    url: /docs/_advocacy/
+    url: /docs/advocacy/advocacy
   - title: "About Us"
     url: /about/
   - title: "Observer Corp"
