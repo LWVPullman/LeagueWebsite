@@ -11,6 +11,12 @@ main:
   - title: "Blogs"
     url: /year-archive/
 
+about_us:
+  - title: About Us
+    children:
+      - title: "Leadership"
+        url: /about_us/about_us_leadership
+
 # documentation links
 docs:
   - title: Getting Started
