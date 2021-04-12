@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Voter Information"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /voter_info/
   - title: "Advocacy"
     url: /advocacy/
   - title: "About Us"
