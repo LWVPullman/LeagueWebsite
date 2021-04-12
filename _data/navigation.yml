@@ -9,7 +9,11 @@ main:
   - title: "Observer Corp"
     url: /observer_corps/
   - title: "Blogs"
-    url: /year-archive/
+    sublinks:
+      title: Old Blog
+      url: /year-archive/
+      title: New events
+      url: /events-page/
 
 about_us:
   - title: About Us
