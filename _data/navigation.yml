@@ -8,12 +8,11 @@ main:
     url: /about/
   - title: "Observer Corp"
     url: /observer_corps/
-  - title: "Blogs"
     sublinks:
-      title: Old Blog
-      url: /year-archive/
-      title: New events
-      url: /events-page/
+      -title: Guidelines
+       url: /observer_corps/observer_corps_guidelines
+  - title: "Blogs"
+    url: /year-archive/
 
 about_us:
   - title: About Us
