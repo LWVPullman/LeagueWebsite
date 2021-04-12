@@ -36,7 +36,7 @@ State law requires voters to show identification when they vote at the polls. Ac
 # Where can I register to vote?
 
 Voter registration forms are available online in several languages through Washington Secretary of State.
-https://www.sos.wa.gov/elections/voters/
+[Find your form here!](https://www.sos.wa.gov/elections/voters/)
 
 # Military
 
@@ -52,8 +52,7 @@ Colfax, WA 99111
 Phone:509-397-6353
 Fax: 509-397-5281
 Email: elections@co.whitman.wa.us
-Whitman County Auditors Website
-http://www.whitmancounty.org/Page.aspx?pn=Auditor
+[Whitman County Auditors Website](http://www.whitmancounty.org/Page.aspx?pn=Auditor)
 
 Local and State election and Candidate information
-Vote 411 https://www.vote411.org/
+[Vote 411](https://www.vote411.org/)
