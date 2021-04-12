@@ -9,11 +9,11 @@ main:
   - title: "Observer Corp"
     sublinks:
       -title: Observer Corp
-        url: /observer_corps/
+       url: /observer_corps/
       -title: Guidelines
        url: /observer_corps/observer_corps_guidelines
-  - title: "Blogs"
-    url: /year-archive/
+  #- title: "Blogs"
+#    url: /year-archive/
 
 about_us:
   - title: About Us
