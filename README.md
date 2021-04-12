@@ -2,8 +2,8 @@
 ## For Developers
 1. meetings like posts
 2. navigation drop downs
-    a. There might be help from this template https://lenpaul.github.io/Millennial/, but it's incredibly simplistic in comparison to our current template
-    b. This poster got a version working but it's rittled with bugs https://github.com/mmistakes/minimal-mistakes/issues/1801
+    * There might be help from this template https://lenpaul.github.io/Millennial/, but it's incredibly simplistic in comparison to our current template
+    * This poster got a version working but it's rittled with bugs https://github.com/mmistakes/minimal-mistakes/issues/1801
 3. Social Media links in the nav bar
 4. Merge in and connect Advocacy (Done, but not sure it's the right page)
 
