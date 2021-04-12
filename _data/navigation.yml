@@ -8,7 +8,7 @@ main:
     url: /about/
   - title: "Observer Corp"
     sublinks:
-      -title: Observer Corp
+      -title: "Observer Corp"
        url: /observer_corps/
       -title: Guidelines
        url: /observer_corps/observer_corps_guidelines
