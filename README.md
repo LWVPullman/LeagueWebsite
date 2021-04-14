@@ -2,14 +2,16 @@
 ## For Developers
 1. meetings like posts
 2. navigation drop downs
+    * There might be help from this template https://lenpaul.github.io/Millennial/, but it's incredibly simplistic in comparison to our current template
+    * This poster got a version working but it's rittled with bugs https://github.com/mmistakes/minimal-mistakes/issues/1801
 3. Social Media links in the nav bar
-4. Merge in and connect Voters Info
-5. Merge in and connect Advocacy
+4. Merge in and connect Advocacy (Done, but not sure it's the right page)
 
 ## Things to do for anyone: 
 1. PDF’s from observer corp
 2. write into the readme, what photos are
-3. content for voter info, advocacy
+3. Advocacy? Where is it?
+4. Bring in events information into the docs/_posts area. 
 
 
 

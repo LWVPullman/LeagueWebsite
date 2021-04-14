@@ -19,9 +19,9 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
-{% include feature_row id="top_image" type="center" %}
-
 # Observer Corps
+
+{% include feature_row id="top_image" type="center" %}
 
 The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies. “The League's reputation as a civic monitor has been earned by the Observer Corps of the local Leagues.”
 
