@@ -1,3 +1,9 @@
+010920_National Planning _election_system.png
+
+010920_helen.png
+
+012119_Mindfullness.png
+
 original_league.jpg - Photo of original league, date taken and names of those pictured needed
 
 original_league2.jpg - Edit to above photo to make it fit splash on main screen
