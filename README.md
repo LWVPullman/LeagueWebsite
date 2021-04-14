@@ -11,7 +11,7 @@
 1. PDF’s from observer corp
 2. write into the readme, what photos are
 3. Advocacy? Where is it?
-4. 
+4. Bring in events information into the docs/_posts area. 
 
 
 
