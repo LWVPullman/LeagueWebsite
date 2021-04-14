@@ -10,7 +10,8 @@
 ## Things to do for anyone: 
 1. PDF’s from observer corp
 2. write into the readme, what photos are
-3. content for voter info, advocacy
+3. Advocacy? Where is it?
+4. 
 
 
 
