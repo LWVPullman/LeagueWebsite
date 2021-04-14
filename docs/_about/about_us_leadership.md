@@ -1,7 +1,8 @@
 ---
-title: "About Us Leadership"
-classes: wide
-excerpt: "All about Pullman League of Women Voters"
+title: "About Us: Leadership"
+permalink: /about/about_us_leadership
+#classes: wide
+excerpt: "All about Pullman League of Women Voters Leadership"
 ---
 
 ## Board:

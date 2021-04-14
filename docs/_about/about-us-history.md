@@ -1,3 +1,10 @@
+---
+title: "About Us: History"
+permalink: /about/about_us_history
+#classes: wide
+excerpt: "All about Pullman League of Women Voters History"
+---
+
 ## How The League of Women Voters Began
 
 Arthur Denny, founder of Seattle, proposed woman suffrage in the first legislative meeting in Olympia in 1854. He lost on an eight to nine vote. The Washington Territory Woman Suffrage Association was formed in 1871 in Olympia. The territorial legislature gave women the vote in 1883. Women lost their vote in 1887 when the Territorial Supreme Court ruled that Congress did not intend to give territories the power to enfranchise women.

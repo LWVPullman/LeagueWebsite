@@ -1,7 +1,8 @@
 ---
-title: "About Us"
-classes: wide
-excerpt: "All about Pullman League of Women Voters"
+title: "About Us: What We Do"
+permalink: /about/about_us_What_We_Do
+#classes: wide
+excerpt: "What do Pullman League of Women Voters Do?"
 ---
 
 # What We Do...
