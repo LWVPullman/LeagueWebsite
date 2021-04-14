@@ -3,7 +3,7 @@ main:
   - title: "Events"
     url: /year-archive/
   - title: "About Us"
-    url: /about/
+    url: /about/about
   - title: "Voter Info"
     url: /voter_info/
   - title: "Advocacy"
@@ -15,6 +15,8 @@ main:
 about:
   - title: About Us
     children:
+      - title: "About us"
+        url: /about/about
       - title: "Leadership"
         url: /about/about_us_leadership
       - title: "What Do We Do"
