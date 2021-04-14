@@ -1,6 +1,6 @@
 ---
 title: "About Us: History"
-permalink: /about/about_us_history
+permalink: /about/about_us_history/
 #classes: wide
 excerpt: "All about Pullman League of Women Voters History"
 ---

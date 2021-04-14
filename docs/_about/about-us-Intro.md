@@ -1,6 +1,6 @@
 ---
 title: "About Us: Introductions"
-permalink: /about/about_us_Intro
+permalink: /about/about_us_Intro/
 #classes: wide
 excerpt: "Introductions of the Pullman League of Women Voters"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "About Us: Leadership"
-permalink: /about/about_us_leadership
+permalink: /about/about_us_leadership/
 #classes: wide
 excerpt: "All about Pullman League of Women Voters Leadership"
 ---
