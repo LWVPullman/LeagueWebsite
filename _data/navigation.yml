@@ -17,14 +17,15 @@ about:
     children:
       - title: "About us"
         url: /about/about_us/
-      - title: "Leadership"
-        url: /about/about_us_leadership/
-      - title: "What Do We Do"
-        url: /about/about_us_What_We_Do/
-      - title: "History"
-        url: /about/about_us_history/
       - title: "Introductions"
         url: /about/about_us_Intro/
+      - title: "What Do We Do"
+        url: /about/about_us_What_We_Do/
+      - title: "Leadership"
+        url: /about/about_us_leadership/
+      - title: "History"
+        url: /about/about_us_history/
+
 
 # documentation links
 docs:
