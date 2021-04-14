@@ -14,6 +14,8 @@ layouts_gallery:
     image_path: /assets/images/we_luv.jpg
     alt: "Photo of League Members on Zoom meeting"
 last_modified_at: 2021-03-016T20:54:41-05:00
+redirect_from:
+  - /theme-setup/
 toc: true
 ---
 
