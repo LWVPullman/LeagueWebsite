@@ -1,6 +1,6 @@
 ---
 permalink: /observer_corps/
-title: "Observer Corp"
+title: "Observer Corps"
 layout: splash
 excerpt: "The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies."
 top_image:

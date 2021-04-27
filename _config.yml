@@ -188,7 +188,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  recipes:
+  about:
     output: true
     permalink: /:collection/:path/
   pets:
@@ -234,12 +234,14 @@ defaults:
   # _recipes
   - scope:
       path: ""
-      type: recipes
+      type: about
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "about"
   # _pets
   - scope:
       path: ""
