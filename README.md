@@ -7,13 +7,16 @@
     * This is how 'collections' works in Jekyll. Which is likely the best way to create heirarchies https://jekyllrb.com/docs/collections/
     * This is how collections in MM works https://mmistakes.github.io/minimal-mistakes/docs/collections/
 3. Social Media links in the nav bar
-4. Merge in and connect Advocacy (Done, but not sure it's the right page)
+4. Pay Pal embedded
 
 ## Things to do for anyone: 
 1. ~~PDF’s from observer corp~~
 2. write into the readme, what photos are
 3. Advocacy? Where is it?
-4. Bring in events information into the docs/_posts area. 
+4. Bring in events information into the docs/_posts area.
+
+
+
 
 
 
