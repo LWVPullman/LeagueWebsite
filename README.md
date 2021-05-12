@@ -11,9 +11,9 @@
 
 ## Things to do for anyone: 
 1. ~~PDF’s from observer corp~~
-2. write into the readme, what photos are
-3. Advocacy? Where is it?
-4. Bring in events information into the docs/_posts area.
+2. write into the readme, what photos are (Bobbie)
+3. Advocacy? (Paul)
+4. Bring in events information into the docs/_posts area. (Carolyn)
 
 
 
