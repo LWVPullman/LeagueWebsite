@@ -9,7 +9,6 @@ tags:
   - Positive feedback loop
 ---
 
-# An Evening with Rob Curley
 ## The Virtuous Circle: Teaching a community how to be a community
 
 

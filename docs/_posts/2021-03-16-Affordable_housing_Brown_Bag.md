@@ -13,7 +13,6 @@ tags:
   - Income disparities
 ---
 
-# Affordable Housing on the Palouse
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
