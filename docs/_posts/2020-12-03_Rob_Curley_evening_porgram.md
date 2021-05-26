@@ -2,13 +2,13 @@
 title: "An Evening Wtih Rob Curley"
 categories:
   - Evening Program
-  - 
 tags:
   - Rob Curley
   - Editor of the Spokesman Review
   - The Virtuous Circle
   - Positive feedback loop
 ---
+
 # An Evening with Rob Curley
 ## The Virtuous Circle: Teaching a community how to be a community
 
