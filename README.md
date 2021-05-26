@@ -8,12 +8,12 @@
     * This is how collections in MM works https://mmistakes.github.io/minimal-mistakes/docs/collections/
 3. Social Media links in the nav bar
 4. Pay Pal embedded
+5. Integrate PDF's from observer corps
 
 ## Things to do for anyone: 
-1. ~~PDF’s from observer corp~~
-2. write into the readme, what photos are (Bobbie)
-3. Advocacy? (Paul)
-4. Bring in events information into the docs/_posts area. (Carolyn)
+1. write into the readme, what photos are (Bobbie)
+2. Advocacy? (Paul)
+3. Bring in events information into the docs/_posts area. (Carolyn)
 
 
 
