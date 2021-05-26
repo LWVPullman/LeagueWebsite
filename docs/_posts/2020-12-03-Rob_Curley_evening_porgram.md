@@ -1,5 +1,5 @@
 ---
-title: "An Evening Wtih Rob Curley"
+title: "An Evening With Rob Curley"
 categories:
   - Evening Program
 tags:

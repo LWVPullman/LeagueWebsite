@@ -1,5 +1,5 @@
 ---
-title: "Florence Nightingale Performace by Cathryn Cummings"
+title: "Florence Nightingale Performance by Cathryn Cummings"
 categories:
   - Evening Program
   - Education fund
@@ -7,7 +7,7 @@ tags:
   - Florence Nightingale
   - Cathryn Cummings performance
   - Women in history
-  - 
+  -
 ---
 # An Evening with Florence Nightingale
 ## performed by Cathryn Cummings
