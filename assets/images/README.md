@@ -6,7 +6,7 @@
 
 012119_Mindfullness.png
 
-original_league.jpg - Photo of original league, date taken and names of those pictured needed
+original_league.jpg - Photo of original league, 1954 left to right Mrs. Floyd Orton (president), Mrs. Karl Hobson (treasurer), Mrs. Robert Franco (state league), Mrs. Errol Horner (national league), Mrs. Bernard Fried and Mrs. William Firey (members)
 
 original_league2.jpg - Edit to above photo to make it fit splash on main screen
 
