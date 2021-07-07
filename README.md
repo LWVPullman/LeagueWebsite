@@ -13,7 +13,8 @@
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
 2. Advocacy? (Paul)
-3. Bring in events information into the docs/_posts area. (Carolyn)
+3. Some images Paul is adding
+4. Alt text additions to all photos (see example in Template Post at to of page)
 
 
 
