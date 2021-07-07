@@ -13,9 +13,6 @@ tags:
   - Mental Health
 ---
 
-# Mental Health on the Palouse:
-## The Beginning of the Conversation
-
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
 

@@ -12,11 +12,20 @@ main:
     url: /observer_corps/
 
 
-about_us:
+about:
   - title: About Us
     children:
+      - title: "About us"
+        url: /about/about_us/
+      - title: "Introductions"
+        url: /about/about_us_Intro/
+      - title: "What Do We Do"
+        url: /about/about_us_What_We_Do/
       - title: "Leadership"
-        url: /about_us/about_us_leadership
+        url: /about/about_us_leadership/
+      - title: "History"
+        url: /about/about_us_history/
+
 
 # documentation links
 docs:
