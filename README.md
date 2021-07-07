@@ -1,13 +1,13 @@
 # Current TO DOs:
 ## For Developers
-1. meetings like posts
-2. navigation drop downs
+1. navigation drop downs
     * There might be help from this template https://lenpaul.github.io/Millennial/, but it's incredibly simplistic in comparison to our current template
     * This poster got a version working but it's rittled with bugs https://github.com/mmistakes/minimal-mistakes/issues/1801
     * This is how 'collections' works in Jekyll. Which is likely the best way to create heirarchies https://jekyllrb.com/docs/collections/
     * This is how collections in MM works https://mmistakes.github.io/minimal-mistakes/docs/collections/
-3. Social Media links in the nav bar
-4. Pay Pal embedded
+2. Pay Pal embedded
+3. Dates on events main page (month and day)
+4. Social Media links in the nav bar
 5. Integrate PDF's from observer corps
 
 ## Things to do for anyone: 
