@@ -3,7 +3,6 @@ main:
   - title: "Events"
     url: /year-archive/
   - title: "About Us"
-    url: /about/
     sublinks:
       - title: "Who we are"
         url: /about/about_us/
