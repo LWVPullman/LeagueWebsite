@@ -5,6 +5,8 @@ main:
   - title: "About Us"
     url: /about/
     sublinks:
+      - title: "Who we are"
+        url: /about/about_us/
       - title: "Introductions"
         url: /about/about_us_Intro/
       - title: "What Do We Do"
@@ -19,22 +21,6 @@ main:
     url: /advocacy/
   - title: "Observer Corps"
     url: /observer_corps/
-
-
-about:
-  - title: About Us
-    children:
-      - title: "About us"
-        url: /about/about_us/
-      - title: "Introductions"
-        url: /about/about_us_Intro/
-      - title: "What Do We Do"
-        url: /about/about_us_What_We_Do/
-      - title: "Leadership"
-        url: /about/about_us_leadership/
-      - title: "History"
-        url: /about/about_us_history/
-
 
 # documentation links
 docs:
