@@ -1,6 +1,6 @@
 # Current TO DOs:
 ## For Developers
-1. navigation drop downs
+1. navigation drop downs (Helen has this working in theory, but we still need to add appropriate dropdown options to appropriate headers.)
     * There might be help from this template https://lenpaul.github.io/Millennial/, but it's incredibly simplistic in comparison to our current template
     * This poster got a version working but it's rittled with bugs https://github.com/mmistakes/minimal-mistakes/issues/1801
     * This is how 'collections' works in Jekyll. Which is likely the best way to create heirarchies https://jekyllrb.com/docs/collections/
