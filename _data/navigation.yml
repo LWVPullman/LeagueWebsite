@@ -5,7 +5,7 @@ main:
   - title: "About Us"
     sublinks:
       - title: "Who we are"
-        url: /about/about_us/
+        url: /about/
       - title: "Introductions"
         url: /about/about_us_Intro/
       - title: "What Do We Do"
