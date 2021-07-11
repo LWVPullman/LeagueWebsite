@@ -3,17 +3,18 @@ main:
   - title: "Events"
     url: /year-archive/
   - title: "About Us"
-      sublinks:
-        - title: "About us"
-          url: /about/about_us/
-        - title: "Introductions"
-          url: /about/about_us_Intro/
-        - title: "What Do We Do"
-          url: /about/about_us_What_We_Do/
-        - title: "Leadership"
-          url: /about/about_us_leadership/
-        - title: "History"
-          url: /about/about_us_history/
+    url: about_us/
+    sublinks:
+      - title: "About us"
+        url: /about/about_us/
+      - title: "Introductions"
+        url: /about/about_us_Intro/
+      - title: "What Do We Do"
+        url: /about/about_us_What_We_Do/
+      - title: "Leadership"
+        url: /about/about_us_leadership/
+      - title: "History"
+        url: /about/about_us_history/
   - title: "Voter Info"
     url: /voter_info/
   - title: "Advocacy"
