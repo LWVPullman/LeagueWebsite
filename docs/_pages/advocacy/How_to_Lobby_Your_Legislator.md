@@ -1,7 +1,13 @@
+---
+title: "Lobby Your Legislator"
+permalink: /advocacy/lobby_your_legislator/
+excerpt: "How to lobby your legislators"
+---
+
 ***Lobby Your Legislator***
 
-Lobbying to convince any individual of the merits of your position requires an understanding of the rationale that supports that belief.  Your goal is not to threaten or antagonize, but to influence on the basis of your knowledge and understanding of the issues. 
-Be Prepared —Before You Lobby, Do Your Homework 
+Lobbying to convince any individual of the merits of your position requires an understanding of the rationale that supports that belief.  Your goal is not to threaten or antagonize, but to influence on the basis of your knowledge and understanding of the issues.
+Be Prepared —Before You Lobby, Do Your Homework
 
 **Know Yourself**
 
@@ -36,12 +42,12 @@ Your maximum influence comes in addressing your comments directly to your own le
 
 **The Personal Visit**
 
-Perhaps the most effective method of transmitting your message, a personal visit allows both of you to connect names with faces. In communication afterward, you will have established yourself as a known concerned constituent. If your legislator is holding a hearing or workshop, try to attend. It is a good time to meet your legislator informally. 
+Perhaps the most effective method of transmitting your message, a personal visit allows both of you to connect names with faces. In communication afterward, you will have established yourself as a known concerned constituent. If your legislator is holding a hearing or workshop, try to attend. It is a good time to meet your legislator informally.
 If your representative is not available, ask to meet the legislative assistant. S/he can generally be expected to be at least as well informed as your representative, and may have more influence than you suspect.
 
 **The Telephone**
 
-The telephone can be an effective tool. Remind the legislator of any previous contact. If the member is not available, speak with the legislative assistant. 
+The telephone can be an effective tool. Remind the legislator of any previous contact. If the member is not available, speak with the legislative assistant.
 During the legislative session, a toll free “hotline” is available (1-800-562-6000) through which information on the status of bills can be obtained. Messages can be left for your legislator. They should be brief and specific. Leave your name, address and phone number.
 
 **The Letter**

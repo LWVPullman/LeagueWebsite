@@ -1,3 +1,9 @@
+---
+title: "Picking Candidates"
+permalink: /advocacy/picking_candidates/
+excerpt: "How to pick a candidate"
+---
+
 How To Pick A Candidate
 
 A STEP-BY-STEP GUIDE TO CHOOSING  WHO TO VOTE FOR
@@ -78,14 +84,14 @@ Get money from many people giving small amounts
 Get money from Political Action Committees (PACs, as they are known, are groups formed to raise and distribute money to candidates and issues.)
 Many types of information about money given to campaigns must be reported to the government and are watched by the press. Will people who are elected vote to support the people who gave them money? You may hear something like, "We all know Smith is backed by big money interests," or "The union has Jones in its pocket." Every candidate needs support from a wide range of people and groups who may not represent the candidate's views on all the issues.  Judge the candidate's own words and deeds. You can get information about campaign contributions:
 
-Federal Election Commission 
+Federal Election Commission
 Website https://www.fec.gov
-Phone: 1-800-424-9530 
+Phone: 1-800-424-9530
 
-State Public Disclosure Commission 
+State Public Disclosure Commission
 Website https://www.pdc.wa.gov
-Phone: 1-360-753-1111 
-Toll Free: 1-877-601-2828 
+Phone: 1-360-753-1111
+Toll Free: 1-877-601-2828
 
 **Step 6: Where can you find the information you need?**
 
@@ -108,4 +114,3 @@ Be a letter writer.  Tell candidates, newspapers and party leaders how you feel 
 Don't tolerate unfair campaign practices.  
 Call the League of Women Voters in your area to find out how to get involved and make a difference.
 VOTE for the candidate of your choice.
-

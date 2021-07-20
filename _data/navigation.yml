@@ -3,7 +3,6 @@ main:
   - title: "Events"
     url: /year-archive/
   - title: "About Us"
-    url: /about/
     sublinks:
       - title: "Who we are"
         url: /about/
@@ -18,9 +17,21 @@ main:
   - title: "Voter Info"
     url: /voter_info/
   - title: "Advocacy"
-    url: /advocacy/
+    sublinks:
+      - title: "Getting Involved"
+        url: /advocacy/
+      - title: "Lobby Your Legislator"
+        url: /advocacy/lobby_your_legislator/
+      - title: "Picking a Candidate"
+        url: /advocacy/picking_candidates/
+      - title: "League Positions"
+        url: /advocacy/League_positions/
   - title: "Observer Corps"
-    url: /observer_corps/
+    sublinks:
+      - title: "Observer Corps"
+        url: /observer_corps/
+      - title: "Observer Corps Guidelines"
+        url: /observer_corps/Guidelines/
 
 # documentation links
 docs:
