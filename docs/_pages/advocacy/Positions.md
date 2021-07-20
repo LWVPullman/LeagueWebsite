@@ -1,6 +1,7 @@
 ---
 title: "League Positions"
 permalink: /advocacy/League_positions/
+layout: splash
 excerpt: "League Positions"
 ---
 
