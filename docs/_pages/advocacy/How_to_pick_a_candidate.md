@@ -1,6 +1,7 @@
 ---
 title: "Picking Candidates"
 permalink: /advocacy/picking_candidates/
+layout: splash
 excerpt: "How to pick a candidate"
 ---
 

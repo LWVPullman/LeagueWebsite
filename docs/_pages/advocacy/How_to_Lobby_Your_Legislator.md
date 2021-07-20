@@ -1,6 +1,7 @@
 ---
 title: "Lobby Your Legislator"
 permalink: /advocacy/lobby_your_legislator/
+layout: splash
 excerpt: "How to lobby your legislators"
 ---
 
