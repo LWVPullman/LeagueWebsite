@@ -50,4 +50,16 @@ Select the type of membership and then Click the Buy Now Button below
 
 New Members, Please enter your Name, Email Address, Phone No. and Address
 
-## Paypal goes here
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="KKDU5WAWU2QLY">
+<table>
+<tr><td><input type="hidden" name="on0" value="Yearly Membership">Yearly Membership for The League of Women Voters of Pullman</td></tr><tr><td><select name="os0">
+<option value="Single">Single $67.20 USD</option>
+<option value="Family">Family $92.90 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
