@@ -24,7 +24,7 @@ main:
       url: /voter_info/
     - title: "Know Your Government"
       url: /docs/_pages/voter_info/TRY2021-22.pdf
-    - title: Links to voter infor
+    - title: Links to voter info
       url: /voter_info/links
   - title: "Advocacy"
     sublinks:
