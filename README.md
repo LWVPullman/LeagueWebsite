@@ -1,20 +1,15 @@
 # Current TO DOs:
 ## For Developers
-1. navigation drop downs (Helen has this working in theory, but we still need to add appropriate dropdown options to appropriate headers.)
-    * There might be help from this template https://lenpaul.github.io/Millennial/, but it's incredibly simplistic in comparison to our current template
-    * This poster got a version working but it's rittled with bugs https://github.com/mmistakes/minimal-mistakes/issues/1801
-    * This is how 'collections' works in Jekyll. Which is likely the best way to create heirarchies https://jekyllrb.com/docs/collections/
-    * This is how collections in MM works https://mmistakes.github.io/minimal-mistakes/docs/collections/
-2. Pay Pal embedded
-3. Dates on events main page (month and day)
-4. Social Media links in the nav bar
-5. Integrate PDF's from observer corps
+1. Dates on events main page (month and day)
+2. Social Media links in the nav bar
+3. Integrate PDF's from observer corps
 
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
-2. Advocacy? (Paul)
-3. Some images Paul is adding
-4. Alt text additions to all photos (see example in Template Post at to of page)
+2. Content for Voting Info section
+3. Advocacy? (Paul)
+4. Some images Paul is adding
+5. Alt text additions to all photos (see example in Template Post at to of page)
 
 
 
