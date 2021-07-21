@@ -1,9 +1,8 @@
 # Current TO DOs:
 ## For Developers
-1. Dates on events main page (month and day)
-2. Social Media links in the nav bar
-3. Integrate PDF's from observer corps
-4. Reduce right side padding for archive pages
+1. Integrate PDF's from observer corps
+2. Reduce right side padding for archive pages
+3. Set website URL to leagues website
 
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
