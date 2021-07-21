@@ -32,6 +32,8 @@ main:
         url: /observer_corps/
       - title: "Observer Corps Guidelines"
         url: /observer_corps/Guidelines/
+      - title: "2021 Voter Guide"
+        url: /observer_corps/TRY2021-22.pdf
 
 # documentation links
 docs:
