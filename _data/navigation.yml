@@ -23,7 +23,9 @@ main:
     - title: "How to vote!"
       url: /voter_info/
     - title: "Know Your Government"
-      url: /docs/_pages/observer_corps/TRY2021-22.pdf
+      url: /docs/_pages/voter_info/TRY2021-22.pdf
+    - title: Links to voter infor
+      url: /voter_info/links
   - title: "Advocacy"
     sublinks:
       - title: "Getting Involved"
