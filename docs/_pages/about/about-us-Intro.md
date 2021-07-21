@@ -1,7 +1,8 @@
 ---
 title: "About Us: Introductions"
 permalink: /about/about_us_Intro/
-layout: splash
+layout: archive
+author_profile: true
 excerpt: "Introductions of the Pullman League of Women Voters"
 ---
 

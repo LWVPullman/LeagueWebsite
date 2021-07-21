@@ -1,7 +1,8 @@
 ---
 title: "About Us: What We Do"
 permalink: /about/about_us_What_We_Do/
-layout: splash
+layout: archive
+author_profile: true
 excerpt: "What do Pullman League of Women Voters Do?"
 ---
 

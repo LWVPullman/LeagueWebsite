@@ -1,7 +1,8 @@
 ---
 title: "Observer Corps Guidelines"
 permalink: /observer_corps/Guidelines/
-layout: splash
+layout: archive
+author_profile: true
 excerpt: "Observer Corps Guidelines"
 ---
 
