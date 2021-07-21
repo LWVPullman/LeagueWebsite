@@ -3,8 +3,7 @@
 1. Dates on events main page (month and day)
 2. Social Media links in the nav bar
 3. Integrate PDF's from observer corps
-4. Extra top padding for pages
-5. Author info on all pages except for front page
+4. Reduce right side padding for archive pages
 
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
