@@ -30,7 +30,7 @@ main:
         url: /advocacy/picking_candidates/
       - title: "League Positions"
         url: /advocacy/League_positions/
-  - title: "Observer Corps"
+  - title: "Observers"
     sublinks:
       - title: "Observer Corps"
         url: /observer_corps/
