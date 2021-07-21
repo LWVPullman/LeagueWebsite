@@ -14,6 +14,10 @@ main:
         url: /about/about_us_leadership/
       - title: "History"
         url: /about/about_us_history/
+      - title: "JOIN!"
+        url: /Join/
+      - title: "Donate!"
+        url: /Donate/
   - title: "Voter Info"
     sublinks:
     - title: "How to vote!"
