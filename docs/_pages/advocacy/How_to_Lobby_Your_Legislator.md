@@ -6,8 +6,6 @@ author_profile: true
 excerpt: "How to lobby your legislators"
 ---
 
-***Lobby Your Legislator***
-
 Lobbying to convince any individual of the merits of your position requires an understanding of the rationale that supports that belief.  Your goal is not to threaten or antagonize, but to influence on the basis of your knowledge and understanding of the issues.
 Be Prepared —Before You Lobby, Do Your Homework
 

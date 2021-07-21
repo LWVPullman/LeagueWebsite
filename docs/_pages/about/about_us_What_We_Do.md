@@ -6,8 +6,6 @@ author_profile: true
 excerpt: "What do Pullman League of Women Voters Do?"
 ---
 
-# What We Do...
-
 ## Voter Services/Citizen Information
 
 Activity is directed toward encouraging citizens to register and vote and to participate in government and politics. The League does this by sponsoring debates and providing nonpartisan information about voting procedures, candidates and ballot issues. Voter Service projects are eligible for funding through LWV Education Fund.

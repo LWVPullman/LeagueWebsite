@@ -1,12 +1,11 @@
 ---
-title: "Observer Corps Guidelines"
+title: "Observer Corps Guidelines and FAQs"
 permalink: /observer_corps/Guidelines/
 layout: archive
 author_profile: true
 excerpt: "Observer Corps Guidelines"
 ---
 
-# THE LEAGUE OF WOMEN VOTERS of PULLMAN OBSERVER CORPS – GUIDELINES and FAQs
 September 2016
 
 The League of Women Voters of Pullman (LWVP) has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies. (6) “The

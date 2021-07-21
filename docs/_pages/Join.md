@@ -8,8 +8,6 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
-# Join Us
-
 People join the League of Women Voters for many reasons-- voter service, studies, education, public forums. What is your passion?
 
 The League of Women Voters is a nonpartisan grassroots political organization open to both women and men.

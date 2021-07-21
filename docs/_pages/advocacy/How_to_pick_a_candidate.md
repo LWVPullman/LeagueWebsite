@@ -1,12 +1,11 @@
 ---
-title: "Picking Candidates"
+title: "How to Pick a Candidates"
 permalink: /advocacy/picking_candidates/
 layout: archive
 author_profile: true
 excerpt: "How to pick a candidate"
 ---
 
-How To Pick A Candidate
 
 A STEP-BY-STEP GUIDE TO CHOOSING  WHO TO VOTE FOR
 

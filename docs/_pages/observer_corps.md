@@ -20,7 +20,6 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
-# Observer Corps
 
 {% include feature_row id="top_image" type="center" %}
 
