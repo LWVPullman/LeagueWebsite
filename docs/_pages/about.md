@@ -3,7 +3,6 @@ permalink: /about/
 title: "About Us"
 layout: splash
 excerpt: "The League of Women Voters, a nonpartisan political organization, encourages the informed and active participation of citizens in government, and influences public policy through education and advocacy."
-author_profile: true
 layouts_gallery:
   - url: /assets/images/original_league.jpg
     image_path: /assets/images/original_league.jpg
