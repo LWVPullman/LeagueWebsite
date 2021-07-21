@@ -2,6 +2,7 @@
 title: "About Us: History"
 permalink: /about/about_us_history/
 layout: splash
+author_profile: true
 excerpt: "All about Pullman League of Women Voters History"
 ---
 
