@@ -5,7 +5,8 @@ layout: archive
 author_profile: true
 excerpt: "All about Pullman League of Women Voters History"
 top_image:
-  - image_path: /assets/images/original_league.jpg
+  - url: /assets/images/original_league.jpg
+    image_path: /assets/images/original_league.jpg
     alt: "Picture of the original League Members"
 ---
 
