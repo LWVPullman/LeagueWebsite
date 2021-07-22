@@ -4,7 +4,13 @@ permalink: /about/about_us_history/
 layout: archive
 author_profile: true
 excerpt: "All about Pullman League of Women Voters History"
+top_image:
+  - url: /assets/images/original_league.jpg
+    image_path: /assets/images/original_league.jpg
+    alt: "Picture of the original League Members"
 ---
+
+{% include feature_row id="top_image" type="center" %}
 
 ## How The League of Women Voters Began
 
