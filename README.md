@@ -1,11 +1,12 @@
 # Current TO DOs:
 ## For Developers
 1. Bug on drop down bar on mobile. Cannot see all items 
-2. Instead of saying "check out our events" include whatever the newest post is in events.
+2. Can newsletter PDF's be displayed in events? If not, should they have their own page?
+3. Instead of saying "check out our events" include whatever the newest post is in events.
       - This one might be difficult, I haven't found anything that suggests that this is possible.
-3. Integrate PDF's from observer corps
-4. Reduce right side padding for archive pages
-5. Set website URL to leagues website
+4. Integrate PDF's from observer corps
+5. Reduce right side padding for archive pages
+6. Set website URL to leagues website
 
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
