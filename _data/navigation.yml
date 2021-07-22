@@ -36,6 +36,8 @@ main:
         url: /advocacy/picking_candidates/
       - title: "League Positions"
         url: /advocacy/League_positions/
+      - title: "Debate watching 101"
+        url: /advocacy/debate_watching/
   - title: "Observers"
     sublinks:
       - title: "Observer Corps"
