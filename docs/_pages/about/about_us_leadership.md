@@ -1,7 +1,8 @@
 ---
 title: "About Us: Leadership"
 permalink: /about/about_us_leadership/
-#classes: wide
+layout: archive
+author_profile: true
 excerpt: "All about Pullman League of Women Voters Leadership"
 ---
 

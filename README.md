@@ -1,19 +1,19 @@
 # Current TO DOs:
 ## For Developers
-1. meetings like posts
-2. navigation drop downs
-    * There might be help from this template https://lenpaul.github.io/Millennial/, but it's incredibly simplistic in comparison to our current template
-    * This poster got a version working but it's rittled with bugs https://github.com/mmistakes/minimal-mistakes/issues/1801
-    * This is how 'collections' works in Jekyll. Which is likely the best way to create heirarchies https://jekyllrb.com/docs/collections/
-    * This is how collections in MM works https://mmistakes.github.io/minimal-mistakes/docs/collections/
-3. Social Media links in the nav bar
-4. Pay Pal embedded
-5. Integrate PDF's from observer corps
+1. Bug on drop down bar on mobile. Cannot see all items 
+2. Can newsletter PDF's be displayed in events? If not, should they have their own page?
+3. Instead of saying "check out our events" include whatever the newest post is in events.
+      - This one might be difficult, I haven't found anything that suggests that this is possible.
+4. Integrate PDF's from observer corps
+5. Reduce right side padding for archive pages
+6. Set website URL to leagues website
 
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
-2. Advocacy? (Paul)
-3. Bring in events information into the docs/_posts area. (Carolyn)
+2. Content for Voting Info section
+3. Advocacy? (Paul)
+4. Some images Paul is adding
+5. Alt text additions to all photos (see example in Template Post at to of page)
 
 
 
