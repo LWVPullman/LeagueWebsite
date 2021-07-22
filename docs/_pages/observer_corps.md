@@ -5,16 +5,13 @@ layout: archive
 author_profile: true
 excerpt: "The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies."
 top_image:
-  - url: /assets/images/OC_team.jpg
-    image_path: /assets/images/OC_team.jpg
+  - image_path: /assets/images/OC_team.jpg
     alt: "Picture of the original League Members"
 article1:
-  - url: /assets/images/ObsArticle1.jpg
-    image_path: /assets/images/ObsArticle1.jpg
+  - image_path: /assets/images/ObsArticle1.jpg
     alt: "Recent photo of the League"
 article2:
-  - url: /assets/images/ObsArticle2.jpg
-    image_path: /assets/images/ObsArticle2.jpg
+  - image_path: /assets/images/ObsArticle2.jpg
     alt: "Photo of League Members on Zoom meeting"
 last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
