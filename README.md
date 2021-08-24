@@ -1,13 +1,15 @@
 # Current TO DOs:
 ## For Developers
-1. Bug on drop down bar on mobile. Cannot see all items 
-2. Can newsletter PDF's be displayed in events? If not, should they have their own page?
-3. Instead of saying "check out our events" include whatever the newest post is in events.
+1. Move donate and join buttons, remove "Pullman league" title - Front page
+2. Remove RSS feed
+3. Bug on drop down bar on mobile. Cannot see all items 
+4. Can newsletter PDF's be displayed in events? If not, should they have their own page?
+5. Instead of saying "check out our events" include whatever the newest post is in events.
       - This one might be difficult, I haven't found anything that suggests that this is possible.
-4. Integrate PDF's from observer corps
-5. Reduce right side padding for archive pages
-6. Set website URL to leagues website
-7. Move donate and join buttons, remove "Pullman league" title - Front page
+6. Integrate PDF's from observer corps
+7. Reduce right side padding for archive pages
+8. Set website URL to leagues website
+
 
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
