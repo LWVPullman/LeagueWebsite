@@ -7,6 +7,7 @@
 4. Integrate PDF's from observer corps
 5. Reduce right side padding for archive pages
 6. Set website URL to leagues website
+7. Move donate and join buttons, remove "Pullman league" title - Front page
 
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
@@ -14,6 +15,7 @@
 3. Advocacy? (Paul)
 4. Some images Paul is adding
 5. Alt text additions to all photos (see example in Template Post at to of page)
+6. Publications section? Or does it fit elsewhere. Get publications from Paul
 
 
 
