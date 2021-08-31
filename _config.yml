@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "League Of Women Voters of Pullman"
 title_separator          : "-"
 subtitle                 : "Making Democracy Work"
-name                     : &name "League Of Women Voters of Pullman" # &name is a YAML anchor which can be *referenced later
+name                     : &name "" # &name is a YAML anchor which can be *referenced later
 description              : &description "Making Democracy Work"
 url                      : https://lwvpullman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/LeagueWebsite" # the subpath of your site, e.g. "/blog"
