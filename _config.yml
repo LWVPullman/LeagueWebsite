@@ -41,7 +41,7 @@ reCaptcha:
   siteKey                : # "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
   secret                 : # "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
 
-atom_feed:
+atom_feed: hide
   path                   : # blank (default) uses feed.xml
 
 search                   : true # true, false (default)
@@ -56,7 +56,7 @@ search_provider          : lunr # lunr (default), algolia
 #    - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : #"UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -64,7 +64,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : #&twitter "mmistakes"
-facebook:
+
+:
   username               : &facebook "LWVPullman"
   app_id                 :
   publisher              :
