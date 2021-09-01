@@ -1,6 +1,6 @@
 # Current TO DOs:
 ## For Developers
-1. Move donate and join buttons, remove "Pullman league" title - Front page
+1. Removing overlay items made front image smaller, fix image.
 2. Bug on drop down bar on mobile. Cannot see all items 
 3. Can newsletter PDF's be displayed in events? If not, should they have their own page?
 4. Instead of saying "check out our events" include whatever the newest post is in events.
