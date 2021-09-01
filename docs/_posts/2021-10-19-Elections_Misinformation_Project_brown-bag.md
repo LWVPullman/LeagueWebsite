@@ -11,7 +11,6 @@ tags:
   - Elections Misinformation
   -
 ---
-# Elections Misinformation Project
 
 Speaker: Linnea Hurst
 
