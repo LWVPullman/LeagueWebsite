@@ -7,6 +7,6 @@ excerpt: ""
 ---
 
 Something about what this is
-What are these? Why would you read these? 
+What are these? Why would you read these?
 
-![Newsletter March 2021](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/VoterNewsletters3/2021-3.pdf)
+[Newsletter March 2021](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/VoterNewsletters3/2021-3.pdf)
