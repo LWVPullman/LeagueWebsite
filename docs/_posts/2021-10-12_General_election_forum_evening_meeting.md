@@ -12,14 +12,13 @@ tags:
   - election forums
   - evening meeting
 ---
-# General Election Forums
 
-Speakers: 
+Speakers:
 
 Coordinator: Deb Olson, Sue Hinz, Helen Catanese
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
+[//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
 
 Copyright LWV of Pullman

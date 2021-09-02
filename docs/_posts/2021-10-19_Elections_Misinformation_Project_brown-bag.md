@@ -9,15 +9,14 @@ categories:
   - Monthly lunch meeting
 tags:
   - Elections Misinformation
-  - 
+  -
 ---
-# Elections Misinformation Project
 
 Speaker: Linnea Hurst
 
 Coordinator: Deb Olson
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
+[//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
 
 Copyright LWV of Pullman
