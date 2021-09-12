@@ -25,6 +25,7 @@ Below are links to reports created by the observer corps. Each report details wh
 * [ObsArts-2021-1-26-special](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2021-1-26-specialPub.pdf)
 * [ObsArts-2021-2-9](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2021-2-9-Pub.pdf)
 * [ObsArts-2021-3-9](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2021-3-9-Pub.pdf)
+* [ObsArts-2021-4-13](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2021-4-13-Redacted.pdf)
 
 ## Pullman City Council
 

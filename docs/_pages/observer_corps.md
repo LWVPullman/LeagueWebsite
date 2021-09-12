@@ -60,6 +60,12 @@ Port of Whitman County Commissioners– Carolyn Joswig-Jones and Kimberly Thomps
 
 Solid Waste Advisory Committee for Whitman County (SWAC) – Deb Olson
 
-## Observer Corps Calendar (Judy makes a new PDF each month)
+## Observer Corps Calendar
 
-## Observer Report Form (add link to blank forms)
+* [September 2021](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
+
+## Observer Report Form
+
+This form is used for all reports made by observers. 
+
+[Observer Report Form](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/Schedule-September-2021.pdf)
