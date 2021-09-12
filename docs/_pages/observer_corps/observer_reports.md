@@ -51,7 +51,6 @@ Below are links to reports created by the observer corps. Each report details wh
 * [Observer City Council Report 2020-6-9](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2020-6-9-Pub.pdf)
 * [Observer City Council Report 2020-6-16](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2020-6-16-Pub.pdf)
 * [Observer City Council Report 2020-6-23](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2020-6-23-Pub.pdf)
-* [Observer City Council Report 2020-6-920](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2020-6-920-Pub.pdf)
 * [Observer City Council Report 2020-7-7](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2020-7-7-Pub.pdf)
 * [Observer City Council Report 2020-7-14](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2020-7-14-Pub.pdf)
 * [Observer City Council Report 2020-7-28](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2020-7-28-Pub.pdf)
@@ -67,20 +66,23 @@ Below are links to reports created by the observer corps. Each report details wh
 * [Observer City Council Report 2021-2-23](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-2-23-Pub.pdf)
 * [Observer City Council Report 2021-3-9](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-3-9-Pub.pdf)
 * [Observer City Council Report 2021-3-23](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-3-23-Pub.pdf)
+* [Observer City Council Report 2021-4-13](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-4-13.pdf)
+* [Observer City Council Report 2021-4-27](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-4-27.pdf)
+
 
 ## Neill Public Library Board
 
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2018-12-12-pg1Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-4-10-Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-5-8-Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-6-12-pg2Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-6-12-Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-8-14-Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2020-8-12-Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2020-11-12-Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-1-13-Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-2-10-Pub.pdf)
-* [Observer Neill Public Library Board Report ](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-3-10-Pub.pdf)
+* [Observer Neill Public Library Board Report 2018-12-12](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2018-12-12-pg1Pub.pdf)
+* [Observer Neill Public Library Board Report 2019-4-10](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-4-10-Pub.pdf)
+* [Observer Neill Public Library Board Report 2019-5-8](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-5-8-Pub.pdf)
+* [Observer Neill Public Library Board Report 2019-6-12](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-6-12-Pub.pdf)
+* [Observer Neill Public Library Board Report 2019-6-12 pg2](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-6-12-pg2Pub.pdf)
+* [Observer Neill Public Library Board Report 2019-8-14](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2019-8-14-Pub.pdf)
+* [Observer Neill Public Library Board Report 2020-8-12](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2020-8-12-Pub.pdf)
+* [Observer Neill Public Library Board Report 2020-11-12](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2020-11-12-Pub.pdf)
+* [Observer Neill Public Library Board Report 2021-1-13](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-1-13-Pub.pdf)
+* [Observer Neill Public Library Board Report 2021-2-10](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-2-10-Pub.pdf)
+* [Observer Neill Public Library Board Report 2021-3-10](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-3-10-Pub.pdf)
 
 ## Pullman Planning Commission
 
