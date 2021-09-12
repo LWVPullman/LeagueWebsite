@@ -39,52 +39,6 @@ Select the type of membership and then Click the Buy Now Button below
 
 New Members, Please enter your Name, Email Address, Phone No. and Address
 
-## New attempt 1
-
-<html>
-<head>
-<script src="https://www.paypalobjects.com/js/external/dg.js" type="text/javascript"></script>
-</head>
-
-<body>
-<form action="https://www.sandbox.paypal.com/webapps/adaptivepayment/flow/pay" target="PPDGFrame" class="standard">
-<label for="buy">Buy Now:</label>
-<input type="image" id="submitBtn" value="Pay with PayPal" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif">
-<input id="type" type="hidden" name="expType" value="light">
-<input id="paykey" type="hidden" name="paykey" value="KKDU5WAWU2QLY">
-</form>
-
-<script type="text/javascript" charset="utf-8">
-var embeddedPPFlow = new PAYPAL.apps.DGFlow({trigger: 'submitBtn'});
-</script>
-</body>
-
-</html>
-
-## New attempt 2
-
-<html>
-<head>
-<script src="https://www.paypalobjects.com/js/external/apdg.js" type="text/javascript"></script>
-</head>
-
-<body>
-<form action="https://www.sandbox.paypal.com/webapps/adaptivepayment/flow/pay" target="PPDGFrame" class="standard">
-
-<label for="buy">Buy Now:</label>
-<input type="image" id="submitBtn" value="Pay with PayPal" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif">
-<input id="type" type="hidden" name="expType" value="mini">
-<input id="paykey" type="hidden" name="paykey" value="KKDU5WAWU2QLY">
-</form>
-<script type="text/javascript" charset="utf-8">
-var dgFlowMini = new PAYPAL.apps.DGFlowMini({trigger: 'submitBtn'});
-</script>
-</body>
-
-</html>
-
-## Old version
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="KKDU5WAWU2QLY">
@@ -96,5 +50,5 @@ var dgFlowMini = new PAYPAL.apps.DGFlowMini({trigger: 'submitBtn'});
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="3" height="3">
 </form>
