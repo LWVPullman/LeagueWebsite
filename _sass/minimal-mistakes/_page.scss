@@ -169,9 +169,9 @@ body {
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 3em 0;
+    padding: 6em 0;
     @include clearfix;
-    background-size: 6em auto;
+    background-size: auto auto;
     background-repeat: no-repeat;
     background-position: center;
     -webkit-animation: $intro-transition;
