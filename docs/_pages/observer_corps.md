@@ -62,8 +62,4 @@ Solid Waste Advisory Committee for Whitman County (SWAC) – Deb Olson
 
 ## Observer Corps Calendar (Judy makes a new PDF each month)
 
-## Observer Reports (add link to where all the reports are posted)
-
-## Observer Guidelines (add link to the guidelines)
-
 ## Observer Report Form (add link to blank forms)
