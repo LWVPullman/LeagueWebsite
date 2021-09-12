@@ -39,7 +39,7 @@ Select the type of membership and then Click the Buy Now Button below
 
 New Members, Please enter your Name, Email Address, Phone No. and Address
 
-## attempt 2
+## attempt 3
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -52,5 +52,5 @@ New Members, Please enter your Name, Email Address, Phone No. and Address
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" width="400" height = "200" border="2" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="2" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="3" height="3">
+<img alt="" border="2" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="400" height="200">
 </form>
