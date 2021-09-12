@@ -239,5 +239,5 @@ Below are links to reports created by the observer corps. Each report details wh
 
 ## Solid Waste Advisory Committee for Whitman County (SWAC)
 
-* [Solid Waste Advisory Committee for Whitemand County Observer Report 2019-12-10](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsSWAC-2019-12-10-Pub.pdf)
-* [Solid Waste Advisory Committee for Whitemand County Observer Report 2020-12-8](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsSWAC-2020-12-8-Pub.pdf)
+* [Solid Waste Advisory Committee for Whitman County Observer Report 2019-12-10](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsSWAC-2019-12-10-Pub.pdf)
+* [Solid Waste Advisory Committee for Whitman County Observer Report 2020-12-8](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsSWAC-2020-12-8-Pub.pdf)
