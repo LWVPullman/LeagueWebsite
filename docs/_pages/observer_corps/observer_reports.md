@@ -9,11 +9,11 @@ excerpt: "Observer Corps Reports"
 Below are links to reports created by the observer corps. Each report details what is going on in the Pullman area, and are organized by department, and then by date of the meeting attended.
 
 ## Pullman Arts Commission
-(https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2015-9-8-Pub.pdf)
-(https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArtsCouncil-2018-11-13-Pub.pdf)
-(https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-1-8-Pub.pdf)
-(https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-3-12-Pub.pdf)
-(https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-4-9-Pub.pdf)
+[ObsArts-2015-9-8](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2015-9-8-Pub.pdf)
+[ObsArtsCouncil-2018-11-13](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArtsCouncil-2018-11-13-Pub.pdf)
+[ObsArts-2019-1-8](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-1-8-Pub.pdf)
+[ObsArts-2019-3-12](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-3-12-Pub.pdf)
+[ObsArts-2019-4-9](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-4-9-Pub.pdf)
 (https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-5-14-Pub.pdf)
 (https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-6-11-Pub.pdf)
 (https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2019-11-12-Pub.pdf)
