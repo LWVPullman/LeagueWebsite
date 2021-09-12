@@ -49,6 +49,6 @@ New Members, Please enter your Name, Email Address, Phone No. and Address
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="3" height="3">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="2" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="2" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="3" height="3">
 </form>
