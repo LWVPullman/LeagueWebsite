@@ -17,8 +17,7 @@ Evening Meeting Speaker: Jeanne Weiller, Community Relations
 
 Coordinator: Bobbie Ryder
 
-
-[Brown Bag Lunch for Downtown Pullman Association]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-09-21-BBLunch_Downtown+Pullman_Association_corkboard.jpg)
+![Brown Bag Lunch for Downtown Pullman Association]({{ site.url }}{{ site.baseurl }}/assets/images/2021-09-21-BBLunch_Downtown+Pullman_Association_corkboard.jpg)
 
 
 Copyright LWV of Pullman
