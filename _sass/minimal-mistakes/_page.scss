@@ -171,7 +171,7 @@ body {
     margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
-    background-size: contain;
+    background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
     -webkit-animation: $intro-transition;
@@ -211,7 +211,7 @@ body {
         font-size: $type-size-1;
       }
     }
-  }
+ 1 }
 }
 
 .page__hero-image {
