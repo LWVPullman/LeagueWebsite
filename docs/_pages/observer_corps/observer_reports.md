@@ -8,6 +8,8 @@ excerpt: "Observer Corps Reports"
 
 Below are links to reports created by the observer corps. Each report details what is going on in the Pullman area, and are organized by department, and then by date of the meeting attended.
 
+If you're an observer and need a copy of the form, [click here](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
+
 ## Pullman Arts Commission
 * [Pullman Arts Commission Observer Report 2015-9-8](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2015-9-8-Pub.pdf)
 * [Pullman Arts Commission Observer Report 2018-11-13](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsArts-2018-11-13-Pub.pdf)
