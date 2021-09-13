@@ -1,6 +1,6 @@
 # Current TO DOs:
 ## For Developers
-~~1. Removing overlay items made front image smaller, fix image.~~
+~~1. Removing overlay items made front image smaller, fix image.
 2. Bug on drop down bar on mobile. Cannot see all items  (Do you mean how the run off the page? Not sure how we could fix this besides removing some, or reducing font size... they can use desktop mode to workwround. 
 3. Can newsletter PDF's be displayed in events? If not, should they have their own page?
 4. Instead of saying "check out our events" include whatever the newest post is in events.
