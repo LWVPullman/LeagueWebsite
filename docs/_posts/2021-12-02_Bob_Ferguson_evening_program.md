@@ -1,5 +1,5 @@
 ---
-title: Bob Ferguson: Missing & Murdered Indigenous Women
+title: Bob Ferguson - Missing & Murdered Indigenous Women
 header:
   video:
     id:
