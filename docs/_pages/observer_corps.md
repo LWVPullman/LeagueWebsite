@@ -23,47 +23,46 @@ toc: true
 
 {% include feature_row id="top_image" type="center" %}
 
-The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies. “The League's reputation as a civic monitor has been earned by the Observer Corps of the local Leagues.”
+The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as members attend and observe the workings of governmental bodies. “The League's reputation as a civic monitor has been earned by the Observer Corps of the local Leagues.”
 
 ## What is the Observer Corps and what is its function within the League?
 Observer Corps members attend council, board, commission, and advisory committees to listen, learn, observe, and report back to the League with factual information about the proceedings and any information about which the Board may be interested. In particular, the Observer calls the League Board’s attention to community and public policy issues that the League may wish to act/testify on based on League Position Statements. Observers also identify trends or problems for possible future study and action by the League.
 
 {% include feature_row id="article1" type="center" %}
 
-## The League is currently observing 6 City and 4 County entities with 13 observers!
-Pullman Arts Commission - Pullman City Council – Pullman Library Board – Pullman Planning Commission – Pullman Regional Hospital Board of Commissioners – Pullman School District #267 Board of Directors – Whitman County Board of Commissioners - Whitman County Planning Commission – Whitman County Solid Waste Advisory Committee – Port of Whitman County Commissioners
-
-## Becoming an Observer
-If you are fascinated by the idea of observing the goings-on of a local governmental entity, and have an agency in mind that interests you please contact Judy Stone at judy.stone.bandaid@gmail.com
-
-## Current Observer Corps Team Members:
+## The League is currently observing 7 City and 4 County entities with 13 observers!
 
 Pullman Arts Commission – Uta Hutnak
 
-Pullman City Council – Libby Walker and Karyn Hardy as backup
+Pullman City Council – Anne Lewis
 
-Neill Public Library Board – Francy Bose and Anne Lewis as backup
+Pullman Neill Public Library Board – Francy Pavlas Bose
 
-Pullman Planning Commission –  Helen Catanese
+Pullman-Moscow Regional Airport Board – Lennis Boyer Watts
 
-Pullman Regional Airport – Lennis Boyer Watts
+Pullman Planning Commission – Jessica Cassleman
 
-Pullman Regional Hospital – Judy Stone
+Pullman Regional Hospital Board of Commissioners – Judy Stone
 
-Pullman School Board –Carol Ndambuki
+Pullman School District Board of Directors – Carol Ndambuki
 
-Whitman County Commissioners – Paul Spencer and Mary Collins as backup
+Whitman County Board of Commissioners – Mary Collins
 
-Whitman County Planning Commission – Shelley Chambers-Fox
+Whitman County Planning Commission – Shelley Chambers Fox
 
-Port of Whitman County Commissioners– Carolyn Joswig-Jones and Kimberly Thompson as backup
+Whitman County Solid Waste Advisory Committee – Deb Olson
 
-Solid Waste Advisory Committee for Whitman County (SWAC) – Deb Olson
+Port of Whitman County Commissioners – Carolyn Joswig Jones
 
-## Observer Corps Calendar (Judy makes a new PDF each month)
+## Becoming an Observer
+If you are looking for a way to become involved in your League by observing the business conducted by a local governmental entity, please check out the Observer Corp Guidelines and  contact [Judy Stone](mailto:judy.stone.bandaid@gmail.com) at judy.stone.bandaid@gmail.com.
 
-## Observer Reports (add link to where all the reports are posted)
+## Observer Corps Calendar
 
-## Observer Guidelines (add link to the guidelines)
+* [September 2021](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/Schedule-September-2021.pdf)
 
-## Observer Report Form (add link to blank forms)
+## Observer Report Form
+
+This form is used for all reports made by observers.
+
+[Observer Report Form](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
