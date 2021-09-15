@@ -10,7 +10,7 @@ excerpt: "League Positions"
 Voter with Flag
 All of the League's advocacy efforts are based on Positions. A Position is a statement of the League's point of view on a particular issue. It is developed after careful and thorough studies by members who try to examine the issue from all sides. The final Position statement captures general agreement among members, arrived at through discussion and consensus, on the issue.
 
-Our Impact on Issues PDF file (https://www.lwv.org/impact-issuesoffers) more insight on a natioal level of whats going on and the Program in Action PDF (http://lwvpullman.org/pdf/Program%20In%20Action%202015%20-%202017.pdf) is designed to help League Leaders make effective use of state program. It is a brief summary of studies, consensus and action taken by the League of Women Voters of Washington since the 1920s. League positions are included in their entirety.
+Our Impact on [Issues PDF file](https://www.lwv.org/impact-issuesoffers) more insight on a national level of whats going on and the Program in [Action PDF](http://lwvpullman.org/pdf/Program%20In%20Action%202015%20-%202017.pdf) is designed to help League Leaders make effective use of state program. It is a brief summary of studies, consensus and action taken by the League of Women Voters of Washington since the 1920s. League positions are included in their entirety.
 
 All levels of the League (local, state, national) have developed Positions that may be used for League advocacy. They cover a wide range of public policy issues.
 
@@ -29,7 +29,7 @@ Topics Include:
 Citizen's Right to Vote, DC Self-Government and Full Voting Representation, Apportionment, Campaign Finance, Selection of the President, Citizen's Right to Know/Citizen Participation, Individual Liberties, Public Policy on Reproductive Choices, Congress, Presidency, United Nations, Liberal Trade Policies, US Relations with Developing Countries, International Development Assistance, Private Investment and Commodity Arrangements, Arms Control, Military Policy and Defense Spending, Natural Resources, Federal Agriculture Policy, Equality of Opportunity, Fiscal Policy, Health Care, Meeting Basic Human Needs, Child Care, Early Intervention for Children at Risk, Violence Prevention, Gun Control, Urban Policy, and Death Penalty.
 
 
-Local Positions: League of Women Voters of Pullman - Positions For 2017-2019 Bienniun
+Local Positions: League of Women Voters of Pullman - Positions For 2017-2019 Biennium
 
 1. Whitman County Health Services:
 
