@@ -49,3 +49,5 @@ League of Women Voters of Pullman was organized in February 1950. In 1952 it bec
 * **UAL**: a group of Members-at-Large (MAL's) who meet together as a Unit-at-Large prior to becoming a Provisional League.
 * **Unit/Committee**: small discussion group which meets regularly to discuss and act upon League program.
 * **VOTER**: newsletter issued by local and state Leagues in print or electronic format.
+
+For a larger list of lingo, see this [full list at the Washington State Leagues website](https://www.lwvwa.org/resources/Documents/Glossary%20of%20League%20Terms_12.31.19.pdf)!
