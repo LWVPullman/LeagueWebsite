@@ -14,7 +14,6 @@ tags:
   - Pullman Regional
 ---
 
-# Pullman Regional Hospital Pandemic Update
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding

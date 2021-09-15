@@ -12,8 +12,6 @@ tags:
   - Colfax
 ---
 
-# Colfax Voters Forum
-
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
 
