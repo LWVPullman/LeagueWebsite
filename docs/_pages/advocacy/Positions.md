@@ -64,17 +64,18 @@ Support of the principle of separation of administrative and policy-making funct
 Support: (1) equitable salaries for library employees in comparison with other city employees, (2) additional sources of funding and any expansion to maintain at least the present level of services, and (3) cooperative relationships with other area libraries while maintaining local autonomy.
 
 9. Addressing Poverty in Whitman County:
-    a. Resource Accessibility and Data Gathering:
 
-1). Support of a uniform system which collects, updates and distributes information on services available for those in poverty in Whitman County. The League promotes participation of this system by both public and private entities.
+  a. Resource Accessibility and Data Gathering:
 
-2). Support the removal of interest charges on delayed court payments for fines or fees. The LWV of Pullman finds that such fees are unfair additional punishment placed on low income offenders and often result in continuous debt or jail simply because the person cannot afford them.
+1. Support of a uniform system which collects, updates and distributes information on services available for those in poverty in Whitman County. The League promotes participation of this system by both public and private entities.
+
+2. Support the removal of interest charges on delayed court payments for fines or fees. The LWV of Pullman finds that such fees are unfair additional punishment placed on low income offenders and often result in continuous debt or jail simply because the person cannot afford them.
 
     b. Legal issues:
 
-1). Support of the establishment of a system to connect those in poverty who need affordable legal assistance with legal services.
+1. Support of the establishment of a system to connect those in poverty who need affordable legal assistance with legal services.
 
-2). Support the removal of interest charges on delayed court payments for fines or fees. The LWV of Pullman finds that such fees are unfair additional punishment placed on low income offenders and often result in continuous debt or jail simply because the person cannot afford them.
+2. Support the removal of interest charges on delayed court payments for fines or fees. The LWV of Pullman finds that such fees are unfair additional punishment placed on low income offenders and often result in continuous debt or jail simply because the person cannot afford them.
 
     c. Food Security:
 
