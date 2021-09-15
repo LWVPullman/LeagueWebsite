@@ -3,11 +3,15 @@
 ~~1. Removing overlay items made front image smaller, fix image.~~
 
 2. Bug on drop down bar on mobile. Cannot see all items  (Do you mean how the run off the page? Not sure how we could fix this besides removing some, or reducing font size... they can use desktop mode to workwround. 
+
 ~~4. Can newsletter PDF's be displayed in events? If not, should they have their own page?~~
+
 5. Instead of saying "check out our events" include whatever the newest post is in events.
       - This one might be difficult, I haven't found anything that suggests that this is possible.
       - Looks like you accomplished this?
+
 ~~6. Integrate PDF's from observer corps~~
+
 7. Reduce right side padding for archive pages (archive pages?)
 8. Set website URL to leagues website
 
