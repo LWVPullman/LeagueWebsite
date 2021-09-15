@@ -11,8 +11,7 @@
 
 ## Things to do for anyone: 
 1. write into the readme, what photos are (Bobbie)
-2. Content for Voting Info section
-3. Advocacy? (Paul)
+3. Advocacy - Getting Involved (Paul)
 4. Some images Paul is adding
 5. Alt text additions to all photos (see example in Template Post at to of page)
 6. Publications section? Or does it fit elsewhere. Get publications from Paul
