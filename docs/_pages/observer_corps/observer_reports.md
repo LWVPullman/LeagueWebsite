@@ -98,6 +98,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Planning Commission Observer Report 2020-1-22](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2020-1-22-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2020-6-24](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2020-6-24-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2021-4-28](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2021-4-28-Revised.pdf)
+* [Pullman Planning Commission Observer Report 2021-6-23](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2021-6-23-Pub.pdf)
 
 ## Pullman/Moscow Regional Airport Board
 
@@ -134,6 +135,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Regional Hospital Board Observer Report 2021-1-6](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsPRH-2021-1-6-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2021-2-3](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsPRH-2021-2-3-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2021-3-3](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsPRH-2021-3-3-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2021-6-2](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsPRH-2021-6-2.pdf)
 
 ## Pullman School Board
 
@@ -184,11 +186,13 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman School Board Observer Report 2021-4-1](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-4-1-State-of-the-District.pdf)
 * [Pullman School Board Observer Report 2021-4-14](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-4-14.pdf)
 * [Pullman School Board Observer Report 2021-4-28](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-4-28.pdf)
+* [Pullman School Board Observer Report 2021-6-23](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-6-23-Pub.pdf)
 
 ## Whitman County Commissioners
 
 * [Whitman County Commissioners Observer Report 2019-2-19](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsWCBoardofComm-2019-2-19-Pub.pdf)
 * [Whitman County Commissioners Observer Report 2021-4-5](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsWCBoardofComm-2021-4-5.pdf)
+* [Whitman County Commissioners Observer Report 2021-6-7](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReportsObsWCBoardofComm-2021-6-7-Pub.pdf)
 
 ## Whitman County Planning Commission
 
@@ -208,6 +212,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2021-2-3](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-2-3-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2021-3-10](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-3-10-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2021-4-21](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-4-21.pdf)
+* [Whitman County Planning Commission Observer Report 2021-6-2](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-6-2-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
