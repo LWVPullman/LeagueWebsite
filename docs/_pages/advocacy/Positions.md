@@ -29,7 +29,7 @@ Topics Include:
 Citizen's Right to Vote, DC Self-Government and Full Voting Representation, Apportionment, Campaign Finance, Selection of the President, Citizen's Right to Know/Citizen Participation, Individual Liberties, Public Policy on Reproductive Choices, Congress, Presidency, United Nations, Liberal Trade Policies, US Relations with Developing Countries, International Development Assistance, Private Investment and Commodity Arrangements, Arms Control, Military Policy and Defense Spending, Natural Resources, Federal Agriculture Policy, Equality of Opportunity, Fiscal Policy, Health Care, Meeting Basic Human Needs, Child Care, Early Intervention for Children at Risk, Violence Prevention, Gun Control, Urban Policy, and Death Penalty.
 
 
-Local Positions: League of Women Voters of Pullman - Positions For 2017-2019 Bienniun
+Local Positions: League of Women Voters of Pullman - Positions For 2017-2019 Biennium
 
 1. Whitman County Health Services:
 
@@ -64,43 +64,44 @@ Support of the principle of separation of administrative and policy-making funct
 Support: (1) equitable salaries for library employees in comparison with other city employees, (2) additional sources of funding and any expansion to maintain at least the present level of services, and (3) cooperative relationships with other area libraries while maintaining local autonomy.
 
 9. Addressing Poverty in Whitman County:
-    a. Resource Accessibility and Data Gathering:
 
-1). Support of a uniform system which collects, updates and distributes information on services available for those in poverty in Whitman County. The League promotes participation of this system by both public and private entities.
+* Resource Accessibility and Data Gathering:
 
-2). Support the removal of interest charges on delayed court payments for fines or fees. The LWV of Pullman finds that such fees are unfair additional punishment placed on low income offenders and often result in continuous debt or jail simply because the person cannot afford them.
+    1. Support of a uniform system which collects, updates and distributes information on services available for those in poverty in Whitman County. The League promotes participation of this system by both public and private entities.
 
-    b. Legal issues:
+    2. Support the removal of interest charges on delayed court payments for fines or fees. The LWV of Pullman finds that such fees are unfair additional punishment placed on low income offenders and often result in continuous debt or jail simply because the person cannot afford them.
 
-1). Support of the establishment of a system to connect those in poverty who need affordable legal assistance with legal services.
+* Legal issues:
 
-2). Support the removal of interest charges on delayed court payments for fines or fees. The LWV of Pullman finds that such fees are unfair additional punishment placed on low income offenders and often result in continuous debt or jail simply because the person cannot afford them.
+    1. Support of the establishment of a system to connect those in poverty who need affordable legal assistance with legal services.
 
-    c. Food Security:
+    2. Support the removal of interest charges on delayed court payments for fines or fees. The LWV of Pullman finds that such fees are unfair additional punishment placed on low income offenders and often result in continuous debt or jail simply because the person cannot afford them.
+
+* Food Security:
 
 Support for improved food security for those in or near poverty in traditional and innovative ways.
 
-    d. Housing:
+* Housing:
 
 Support of efforts and incentives to create more transitional and permanent housing opportunities for low-income residents. We encourage building more housing that is affordable, socially integrated, architecturally innovative and geographically distributed in towns and throughout the county. We support incentives for landlords to accept subsidized tenants.
 
-    e. Transportation:
+* Transportation:
 
 Support the development of a variety of county-wide transportation systems for Whitman County. It should include both on-demand and regular, dependable transportation to employment opportunities and to services.
 
-    f. Child Care:
+* Child Care:
 
 Support access to affordable childcare in Whitman County, with special consideration for rural and small communities. This includes adequate public and private funding, providing incentives to increase capacities, greater flexibility in rules of eligibility and support of adequate provider compensation.
 
-    g. Elder Care:
+* Elder Care:
 
 Support basic services for the elderly, without consideration of their economic status, to avoid impoverishment in Whitman County.
 
-    h. Education and job training:
+* Education and job training:
 
 Support improvement of education in Whitman County, including county-wide efforts to increase high school graduation rates. We also support efforts to encourage more students to take post secondary training -- vocational, academic, professional and artistic. The League supports a Community College presence in Whitman County.
 
-    i. Health Care:
+* Health Care:
 
 Support measures to provide access to and the availability of affordable health care in Whitman County. This should include medical, behavioral health, and dental care, especially for residents living in poverty or having inadequate health insurance.
 
