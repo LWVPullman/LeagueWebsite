@@ -19,10 +19,9 @@ Coordinator: Bobbie Ryder
 
 The League of Women Voters of Pullman will be hosting a Brown Bag on September 21, at noon about the Downtown Pullman Association. Jeanne Weiler, WSU Community Engagement Director will talk about the DPA and what initiatives they are working on to help local downtown business owners build Pullman's economic center, activate the community, and promote downtown.
 
-The public is invited to attend over Zoom. 
+The public is invited to attend over Zoom.
 
-Join Zoom Meeting
-https://us02web.zoom.us/j/89579513682?pwd=cGFoNFNIajZYUWdXdVAzVFQ1bHBCUT09
+[Join Zoom Meeting](https://us02web.zoom.us/j/89579513682?pwd=cGFoNFNIajZYUWdXdVAzVFQ1bHBCUT09)
 
 Meeting ID: 895 7951 3682
 Passcode: 483899
