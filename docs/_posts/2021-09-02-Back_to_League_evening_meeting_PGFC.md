@@ -22,3 +22,5 @@ This event will be over Zoom on Thursday, September 2nd as the feature of the â€
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-09-04-CoOp_News_Article.jpg)
 
 To read the full article on the Moscow-Pullman Daily News website, [click here!!](https://dnews.com/local/pullman-food-co-op-closer-to-identifying-location/article_92c687ee-9a8f-58e4-9a87-ea75693a041b.html)
+
+[![Watch the recording](https://img.youtube.com/vi/fsGeiOciKaQ/maxresdefault.jpg)](https://youtu.be/fsGeiOciKaQ)
