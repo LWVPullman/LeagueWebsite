@@ -30,10 +30,10 @@ Two candidates for the Pullman City Council Ward 1: Francis Benjamin and Al Sore
 
 Two candidates from Pullman School Board District 4: Nathan Roberts and Carolina Silva.
 
-Questions can be for any of these candidates can be sent to Deb Olson olsonbones@aol.com. Please indicate which race Ward 1 or 3, school board, hospital district.  
+Questions can be for any of these candidates can be emailed to Deb Olson olsonbones@aol.com by Oct 11th. Specify which Candidate/Race they are for when you send questions.
 
 
-Coordinator: Deb Olson, Sue Hinz, Helen Catanese
+Coordinators: Deb Olson, Sue Hinz, Helen Catanese
 
 
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-12-Cadidate_Forums_evening-program.jpg
