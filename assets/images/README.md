@@ -32,3 +32,44 @@ group_photo - Photo from league event (unknown event), date taken and names of t
 
 2019-05-18_Art_Walk.png - posters, pictures and information of suffregagettes
 
+2019-07-04 4th of July Johnson Parade.png - group of LVW people at parade, Anne Lewis and daughter, Mary Collins?, ?, ?, Alice Schroeder, Libby Walker, Paul SPencer, Bobbie Ryder, Karl Johanson
+
+2019-07-04 4th of July.png - Paul Spencer, Libby Walker, Judy Stone and Anne Lewis assembling messages on flags
+
+2019-08-16 Helen Lentil Fest booth.png - Helen Cantanese standing at LWV Booth at Lentil Festival
+
+2019-08-16 National Lentil Festival.png - Cool People Always Vote LWV stickers
+
+2019-09-05 Back to League Potluck.png - People at Potluck gathering food in kitchen, ?, Paul Spencer, ? Sue Hinz, Helen Cantanese
+
+2019-10-15 poverty awarness study .png - Task Force panel with Jeff Guyette, Nathan Weller, and Judy Stone
+
+2019-11-07_Rob_Curley.png - Rob Curley evening event collage with Bobby Ryder, Rob Curley and ?
+
+2019_2020_Year_Review.png - Title page
+
+2019_LWV_files_notebooks_2.png - Judy Stone sorting through files
+
+2019_WSDOT .png - Shaun Darveshi (RTPO) and Jerry Webber (WSDOT) presenting to group of LWV members
+
+2020-01-09_National Planning _election_system.png - Paul Spencer, Helen Cantanese, Judy Stone, Anne Lewis, Susan , Libby Walker, Lennis Boyer, Mary Collins, Karyn Hardy, Carolyn Joswig-Jones
+
+2020-02-14_70thBday_PullmanLWV.png - League birthday cake
+
+2020-02-14_70thBday_PullmanLWV_2.png - Libby Walker and Counsilmember Chapman and Helen Cantanese presenting cake
+
+2020-02-18_Whitman_County_auditor.png - Sandy Jamison, Whitman County Auditor presentation
+
+2020-02-20_Eva_Abram.png - Eva Abram's performance of suffragette, Nettie Craig Asberry
+
+2020-02-20_Neill_Library_display.png - Judy Stone putting together the library display
+
+2020-02-20_Neill_Library_display_2.png - the complete library display for the LWV 
+
+
+
+2021-09-28-WSU_Voter_Registration.jpeg - League of Women Voters table in the WSU CUB with Carol Ndambuki, Paul Spencer and Amy Honeywel
+
+2021-09-WSU_Voter_Registration.jpg - Collage of Cougs Vote registration table with Carol Ndambuki, Paul Spencer and Amy Honeywel
+
+
