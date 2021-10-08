@@ -1,13 +1,11 @@
 # Current TO DOs:
 ## For Developers
 
-~~1. Bug on drop down bar on mobile. Cannot see all items  (Do you mean how the run off the page? Not sure how we could fix this besides removing some, or reducing font size... they can use desktop mode to workwround. ~~
-
-2. Instead of saying "check out our events" include whatever the newest post is in events.
+1. Instead of saying "check out our events" include whatever the newest post is in events.
       - This one might be difficult, I haven't found anything that suggests that this is possible.
       - Looks like you accomplished this?
-3. Reduce right side padding for archive pages (archive pages?)
-4. Set website URL to leagues website
+2. Incrase upper padding for splash pages (see about us)
+3. Set website URL to leagues website
 
 
 ## Things to do for anyone: 
