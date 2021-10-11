@@ -2,7 +2,7 @@
 title: Downtown Pullman Association Brown Bag
 header:
   video:
-    id:
+    id: ZVYnVrDUkBA
     provider: youtube
 categories:
   - Brown bag
@@ -18,6 +18,8 @@ Evening Meeting Speaker: Jeanne Weiler, WSU Community Engagement Director
 Coordinator: Bobbie Ryder
 
 The League of Women Voters of Pullman will be hosting a Brown Bag on September 21, at noon about the Downtown Pullman Association. Jeanne Weiler, WSU Community Engagement Director will talk about the DPA and what initiatives they are working on to help local downtown business owners build Pullman's economic center, activate the community, and promote downtown.
+
+![Brown Bag Lunch for Downtown Pullman Association]({{ site.url }}{{ site.baseurl }}/assets/images/2021-09-21-Downtown_Pullman_Association.JPG)
 
 You can watch the recording [here](https://www.youtube.com/watch?v=ZVYnVrDUkBA)
 
