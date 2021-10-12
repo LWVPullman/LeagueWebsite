@@ -59,7 +59,7 @@ If you are looking for a way to become involved in your League by observing the 
 
 ## Observer Corps Calendar
 
-* [October 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Calendar-October-2021.pdf)
+* [October 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Schedule-October-2021.pdf)
 * [September 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Schedule-September-2021.pdf)
 
 ## Observer Report Form

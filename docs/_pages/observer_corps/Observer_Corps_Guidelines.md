@@ -6,7 +6,7 @@ author_profile: true
 excerpt: "Observer Corps Guidelines"
 ---
 
-Revised September 2021
+Revised October 2021
 
 The League of Women Voters of Pullman (LWVP) has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as members attend and observe the workings of governmental bodies at in-person or virtual public meetings.
 
