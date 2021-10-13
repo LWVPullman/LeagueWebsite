@@ -26,6 +26,10 @@ Candidate for Pullman City Council Ward 3:  Megan Guido. 
 
 **Thursday October 14, 7:00 - 9:00 pm**
 
+[Join Zoom Meeting](https://us02web.zoom.us/j/86865460571?pwd=VmlqVEd2VC82U0JjNmk3V29VaDZndz09) <br/>
+
+Zoom Meeting ID: 868 6546 0571  Passcode: 891627
+
 Two candidates for the Pullman City Council Ward 1: Francis Benjamin and Al Sorensen.
 
 Two candidates from Pullman School Board District 4: Nathan Roberts and Carolina Silva.
