@@ -1,10 +1,11 @@
 # Current TO DOs:
 ## For Developers
 
-1. Instead of saying "check out our events" include whatever the newest post is in events.
+1. Mobile menu scrolling issue
+2. Instead of saying "check out our events" include whatever the newest post is in events.
       - This one might be difficult, I haven't found anything that suggests that this is possible.
       - Looks like you accomplished this?
-2. Incrase upper padding for splash pages (see about us)
+3. Incrase upper padding for splash pages (see about us)
 
 
 ## Things to do for anyone: 
