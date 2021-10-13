@@ -5,7 +5,6 @@
       - This one might be difficult, I haven't found anything that suggests that this is possible.
       - Looks like you accomplished this?
 2. Incrase upper padding for splash pages (see about us)
-3. Set website URL to leagues website
 
 
 ## Things to do for anyone: 
