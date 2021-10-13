@@ -20,7 +20,7 @@ Once you become a member, you will be partnered with a mentor during your first 
 Yearly Dues:
 * Single membership $65
 * Family Membership (2 people) $90
-* Student membership FREE for this year
+* Students and Lifetime Members are FREE!
 
 Send Name, Address, Phone number, and email address (if any) and a check for the dues to:
 League of Women Voters of Pullman
