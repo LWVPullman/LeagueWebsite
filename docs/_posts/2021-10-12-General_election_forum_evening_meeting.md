@@ -11,7 +11,7 @@ tags:
   - Pullman elections
   - election forums
   - evening meeting
-  - Pullman City Council 
+  - Pullman City Council
   - Pullman School Board
   - Pullman Hospital District
 ---
@@ -29,6 +29,8 @@ Candidate for Pullman City Council Ward 3:  Megan Guido. 
 [Join Zoom Meeting](https://us02web.zoom.us/j/86865460571?pwd=VmlqVEd2VC82U0JjNmk3V29VaDZndz09) <br/>
 
 Zoom Meeting ID: 868 6546 0571  Passcode: 891627
+
+[One tap mobile](tel:+12532158782,,86865460571#) US (Tacoma)
 
 Two candidates for the Pullman City Council Ward 1: Francis Benjamin and Al Sorensen.
 
