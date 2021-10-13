@@ -2,10 +2,11 @@
 ## For Developers
 
 1. Mobile menu scrolling issue
-2. Instead of saying "check out our events" include whatever the newest post is in events.
+2. Add padding or reduce size of embedded videos.
+3. Instead of saying "check out our events" include whatever the newest post is in events.
       - This one might be difficult, I haven't found anything that suggests that this is possible.
       - Looks like you accomplished this?
-3. Incrase upper padding for splash pages (see about us)
+4. Incrase upper padding for splash pages (see about us)
 
 
 ## Things to do for anyone: 
