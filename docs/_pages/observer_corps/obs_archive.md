@@ -148,8 +148,8 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman Regional Hospital Board Observer Report 2021-2-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2021-2-3-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2021-3-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2021-3-3-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2021-6-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2021-6-2.pdf)
-* [Pullman Regional Hospital Board Observer Report 2021-7-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2021-7-7.pdf)
-* [Pullman Regional Hospital Board Observer Report 2021-10-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2021-10-6.pdf)
+* [Pullman Regional Hospital Board Observer Report 2021-7-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2021-7-7-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2021-10-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2021-10-6-Pub.pdf)
 
 ## Pullman School Board
 
