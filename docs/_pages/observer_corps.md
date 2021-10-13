@@ -59,10 +59,11 @@ If you are looking for a way to become involved in your League by observing the 
 
 ## Observer Corps Calendar
 
-* [September 2021](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/Schedule-September-2021.pdf)
+* [October 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Schedule-October-2021.pdf)
+* [September 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Schedule-September-2021.pdf)
 
 ## Observer Report Form
 
 This form is used for all reports made by observers.
 
-[Observer Report Form](https://lwvpullman.github.io/LeagueWebsite/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
+[Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)

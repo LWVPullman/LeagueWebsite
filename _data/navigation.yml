@@ -8,7 +8,7 @@ main:
         url: /about/
       - title: "Introductions"
         url: /about/about_us_Intro/
-      - title: "What Do We Do"
+      - title: "What do we do"
         url: /about/about_us_What_We_Do/
       - title: "Leadership"
         url: /about/about_us_leadership/
@@ -16,7 +16,7 @@ main:
         url: /about/about_us_history/
       - title: "Publications"
         url: /about/publications/
-      - title: "JOIN!"
+      - title: "Join!"
         url: /Join/
       - title: "Donate!"
         url: /Donate/
@@ -24,29 +24,29 @@ main:
     sublinks:
     - title: "How to vote!"
       url: /voter_info/
-    - title: "Know Your Government"
+    - title: "Know your government"
       url: /docs/_pages/voter_info/TRY2021-22.pdf
     - title: Links to voter info
       url: /voter_info/links
   - title: "Advocacy"
     sublinks:
-      - title: "Getting Involved"
+      - title: "Getting involved"
         url: /advocacy/
-      - title: "Lobby Your Legislator"
+      - title: "Lobby your legislator"
         url: /advocacy/lobby_your_legislator/
-      - title: "Picking a Candidate"
+      - title: "Picking a candidate"
         url: /advocacy/picking_candidates/
-      - title: "League Positions"
+      - title: "League positions"
         url: /advocacy/League_positions/
       - title: "Debate watching 101"
         url: /advocacy/debate_watching/
   - title: "Observers"
     sublinks:
-      - title: "Observer Corps"
+      - title: "Observer corps"
         url: /observer_corps/
-      - title: "Observer Corps Guidelines"
+      - title: "Observer corps guidelines"
         url: /observer_corps/Guidelines/
-      - title: "Oberserve Reports"
+      - title: "Observer reports"
         url: /observer_corps/Observer_reports/
 
 # documentation links

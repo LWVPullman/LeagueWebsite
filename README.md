@@ -1,28 +1,18 @@
 # Current TO DOs:
 ## For Developers
-~~1. Removing overlay items made front image smaller, fix image.~~
 
-2. Bug on drop down bar on mobile. Cannot see all items  (Do you mean how the run off the page? Not sure how we could fix this besides removing some, or reducing font size... they can use desktop mode to workwround. 
-
-~~4. Can newsletter PDF's be displayed in events? If not, should they have their own page?~~
-
-5. Instead of saying "check out our events" include whatever the newest post is in events.
+1. Instead of saying "check out our events" include whatever the newest post is in events.
       - This one might be difficult, I haven't found anything that suggests that this is possible.
       - Looks like you accomplished this?
-
-~~6. Integrate PDF's from observer corps~~
-
-7. Reduce right side padding for archive pages (archive pages?)
-8. Set website URL to leagues website
+2. Incrase upper padding for splash pages (see about us)
+3. Set website URL to leagues website
 
 
 ## Things to do for anyone: 
-1. write into the readme, what photos are (Bobbie)
-2. Content for Voting Info section
-3. Advocacy? (Paul)
-4. Some images Paul is adding
-5. Alt text additions to all photos (see example in Template Post at to of page)
-6. Publications section? Or does it fit elsewhere. Get publications from Paul
+1. Write into the readme, what photos are (Bobbie)
+2. Advocacy - Getting Involved (Paul)
+3. Alt text additions to all photos (see example in Template Post at to of page)
+4. Publications section? Or does it fit elsewhere. Get publications from Paul
 
 
 
