@@ -4,6 +4,9 @@ permalink: /observer_corps/Observer_reports/
 layout: archive
 author_profile: true
 excerpt: "Observer Corps Reports"
+tags:
+  - "Observer"
+  - "Observer Reports"
 ---
 
 Below are links to reports created by the observer corps. Each report details what is going on in the Pullman area, and are organized by department, and then by date of the meeting attended.
