@@ -1,5 +1,5 @@
 ---
-title: General Election Forums
+title: General Election Forums City Council Ward 3 and Hospital District 1A
 header:
   video:
       id: zu4bDg6f9q0
