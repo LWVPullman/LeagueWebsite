@@ -2,7 +2,7 @@
 title: General Election Forums: City Council Ward 1 and School Board District 4
 header:
   video:
-      id: Gel6YcZNRQo
+    id: Gel6YcZNRQo
     provider: youtube
 categories:
   - Evening meeting
