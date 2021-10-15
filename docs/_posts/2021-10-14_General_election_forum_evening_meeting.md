@@ -1,5 +1,5 @@
 ---
-title: General Election Forums: City Council Ward 1 and School Board District 4
+title: General Election Forums City Council Ward 1 and School Board District 4
 header:
   video:
     id: Gel6YcZNRQo
