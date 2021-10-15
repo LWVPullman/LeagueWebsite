@@ -1,5 +1,5 @@
 ---
-title: "White Rage" Bookclub Brown Bag
+title: \"White Rage\" Bookclub Brown Bag
 
 categories:
   - Brown bag
