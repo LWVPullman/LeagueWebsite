@@ -21,7 +21,7 @@ In response to the cries of election fraud from the past year, particularly beca
 On October19 from noon to 1 pm, the project chair, Linnea Hirst (Seattle-King County League) will discuss the project (where we are and where we are going) over zoom for the Pullman League of Women Voter Brown Bag series. Everyone is invited to attend. The zoom link will be on our website lwvpullman.org.
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-19-election_misinformation_SMpost.jpg
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-19-election_misinformation_SMpost.jpg)
 alt: "Be a Voter logo, a quote saying we want people to be confident as they vote and a picture of the Spokesman Review insert called Your Vote and date and time of the upcoming elections misinformation brown bag lunch meeting"
 
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
