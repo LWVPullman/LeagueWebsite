@@ -98,7 +98,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "http://www.lwvpullman.org/index.html"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-mail"
       url: "mailto:lwvpull@yahoo.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -118,7 +118,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-mail"
       url: "mailto:lwvpull@yahoo.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
