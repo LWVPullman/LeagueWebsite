@@ -2,7 +2,7 @@
 title: Elections Misinformation Project
 header:
   video:
-    id:
+    id: MPCkgy2Kz9A
     provider: youtube
 categories:
   - Brown bag
@@ -23,7 +23,7 @@ On October19 from noon to 1 pm, the project chair, Linnea Hirst (Seattle-King Co
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-19-election_misinformation_YouTube.jpg
 alt: "Screen shot of speaker Linnea Hirst and of her's presentation with LWVwa.org website and the Your Vote Tabloid cover"
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-19-election_misinformation_SMpost.jpg
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-19-election_misinformation_SMpost.jpg)
 alt: "Be a Voter logo, a quote saying we want people to be confident as they vote and a picture of the Spokesman Review insert called Your Vote and date and time of the upcoming elections misinformation brown bag lunch meeting"
 
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
