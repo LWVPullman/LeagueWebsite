@@ -23,13 +23,12 @@ There are two Comprehensive Plan Updates underway in 2021. The City of Pullman a
 
 The Comprehensive Plans can be found on the Whitman County and City of Pullman websites:
 
-https://whitmancounty.org/513/Comprehensive-Plan
+<https://whitmancounty.org/513/Comprehensive-Plan>
 
-https://www.pullman-wa.gov/government/departments/planning/comprehensive_plan
+<https://www.pullman-wa.gov/government/departments/planning/comprehensive_plan>
 
 
-[//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-04-Comp_Plan_Updates.jpg
-alt: "Collage of images from the City of Pullman website with a bridge and the Whitman County website with a red barn and frosted trees and the title of this meeting."
+![Collage of images from the City of Pullman website with a bridge and the Whitman County website with a red barn and frosted trees and the title of this meeting.]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-04-Comp_Plan_Updates.jpg)
 
 
 Copyright LWV of Pullman
