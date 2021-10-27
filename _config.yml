@@ -97,6 +97,9 @@ author:
     - label: "League of Women Voters"
       icon: "fas fa-fw fa-link"
       url: "http://www.lwvpullman.org/index.html"
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "mailto:lwvpull@yahoo.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/LWVPullman/"
@@ -114,6 +117,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "mailto:lwvpull@yahoo.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/LWVPullman/"
