@@ -21,6 +21,13 @@ Coordinator: Shelly Fox and Jessica Castleman
 
 There are two Comprehensive Plan Updates underway in 2021. The City of Pullman and Whitman County are both working with teams of planners and engineers to re-write documents that look to the future for their jurisdictions. The comprehensive plan is the guiding document for all zoning codes and covers land use, transportation, public services, economic development, parks, trails, recreation facilities and utilities. A presentation by the planners will summarize these important plans and the process that is being followed.
 
+[Join Zoom Meeting](https://us02web.zoom.us/j/85257886293?pwd=Y25zclM5REJkZjJXdTh5dHAvbFhNZz09)
+<br/>
+Zoom Meeting ID: 852 5788 6293  Passcode: 031759
+    
+One tap mobile](tel:+12532158782,,85257886293#) US (Tacoma)
+
+
 The Comprehensive Plans can be found on the Whitman County and City of Pullman websites:
 
 <https://whitmancounty.org/513/Comprehensive-Plan>
