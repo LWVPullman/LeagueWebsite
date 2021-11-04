@@ -13,10 +13,15 @@ tags:
   - Brown Bag Lunch meeting
 ---
 
-Speaker: 
+Speaker:
 
 Coordinator: Bobbie Ryder
 
+[Join Zoom Meeting](https://us02web.zoom.us/j/83296254138?pwd=eVdQRUZSenZGT3AvSFRKdFNoVy8vQT09)
+
+Meeting ID: 832 9625 4138
+Passcode: 440620
+[One tap mobile](tel:+12532158782,,83296254138#) US (Tacoma)
 
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
