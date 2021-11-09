@@ -17,13 +17,11 @@ Speakers: Bob Ferguson
 
 Coordinator: Libby Walker
 
-The public is invited to attend over Zoom. 
-<br/>
 [Join Zoom Meeting](https://us02web.zoom.us/j/87266258253?pwd=UzE1UHNGVjRDeVpwUjBQbGVLWlQ4QT09)
-<br/>
-Zoom Meeting ID: 872 6625 8253  Passcode: 986358
-<br/>
-[One tap mobile](tel:+12532158782,,87266258253#) US (Tacoma)'
+
+Meeting ID: 872 6625 8253
+Passcode: 986358
+[One tap mobile](tel:+12532158782,,87266258253#) US (Tacoma)
 
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
