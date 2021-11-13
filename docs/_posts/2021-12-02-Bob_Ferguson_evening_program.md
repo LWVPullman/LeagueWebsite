@@ -23,6 +23,8 @@ Meeting ID: 872 6625 8253
 Passcode: 986358
 [One tap mobile](tel:+12532158782,,87266258253#) US (Tacoma)
 
+![Bob Ferguson MMIWP Task Force]({{ site.url }}{{ site.baseurl }}/assets/images/2021-12-02-Ferguson_MMIWP.JPG)
+
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
 
