@@ -13,9 +13,11 @@ tags:
   - Brown Bag Lunch meeting
 ---
 
-Speaker:
+Speaker:  Malden Mayor Dan Harwood 
 
 Coordinator: Bobbie Ryder
+
+On Labor Day weekend, Malden, WA, was devastated when the Babb Road fire destroyed more than 120 or 80% of the homes in the town of roughly 200 people. The fire started when a tree fell onto power lines.  One year later, the town continues to show resilience.  Mayor Dan Harwood will be our speaker over zoom for the Brown Bag on November 16th at noon.  All are welcome to join.
 
 [Join Zoom Meeting](https://us02web.zoom.us/j/83296254138?pwd=eVdQRUZSenZGT3AvSFRKdFNoVy8vQT09)
 
