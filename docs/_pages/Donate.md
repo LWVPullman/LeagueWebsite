@@ -25,8 +25,7 @@ One very special activity being considered involves inviting a professional ente
 
 * **Poverty Study:** A two-year study in Whitman County published in 2016, the League is still presenting the results to town and county governments.
 
-* **Directory of local Elected and Appointed Officials:** It is now available on our website.
-* [Click to view this directory ](https://lwvpullman.org/docs/_pages/voter_info/TRY2021-22.pdf)
+* **Directory of local Elected and Appointed Officials:** It is now available on our website.[Click to view this directory ](https://lwvpullman.org/docs/_pages/voter_info/TRY2021-22.pdf)
 
 * **Our Website:** contains valuable information on the activities of the League.
 
