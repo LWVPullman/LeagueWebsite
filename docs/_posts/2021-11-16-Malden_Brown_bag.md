@@ -19,7 +19,19 @@ Coordinator: Bobbie Ryder
 
 On Labor Day weekend, Malden, WA, was devastated when the Babb Road fire destroyed more than 120 or 80% of the homes in the town of roughly 200 people. The fire started when a tree fell onto power lines.  One year later, the town continues to show resilience.  Mayor Dan Harwood spoke over zoom for the Brown Bag on November 16th at noon.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-16-Malden_Brown_Bag_Lunch.jpg
+Funds to help rebuild Malden are  being collected by the Pine Creek Community Recovery Long Term Recovery Organization (PCCRLTRO).  For more information call 509-508-9806 or email: PCCRLTRO@gmail.com
+<br/>
+Donation checks can be made out to PCCRLTRO and mail to:
+<br/>
+PCCRLTRO
+<br/>
+P.O. Box 47
+<br/>
+Rosalia, WA 99170
+
+
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-16-Malden.JPG)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
