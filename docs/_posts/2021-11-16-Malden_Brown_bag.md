@@ -2,7 +2,7 @@
 title: Malden, WA - One Year After the Fire
 header:
   video:
-    id:
+    id: 9Y8nalQMiCE
     provider: youtube
 categories:
   - Brown bag
@@ -17,13 +17,7 @@ Speaker:  Malden Mayor Dan Harwood
 
 Coordinator: Bobbie Ryder
 
-On Labor Day weekend, Malden, WA, was devastated when the Babb Road fire destroyed more than 120 or 80% of the homes in the town of roughly 200 people. The fire started when a tree fell onto power lines.  One year later, the town continues to show resilience.  Mayor Dan Harwood will be our speaker over zoom for the Brown Bag on November 16th at noon.  All are welcome to join.
-
-[Join Zoom Meeting](https://us02web.zoom.us/j/83296254138?pwd=eVdQRUZSenZGT3AvSFRKdFNoVy8vQT09)
-
-Meeting ID: 832 9625 4138
-Passcode: 440620
-[One tap mobile](tel:+12532158782,,83296254138#) US (Tacoma)
+On Labor Day weekend, Malden, WA, was devastated when the Babb Road fire destroyed more than 120 or 80% of the homes in the town of roughly 200 people. The fire started when a tree fell onto power lines.  One year later, the town continues to show resilience.  Mayor Dan Harwood spoke over zoom for the Brown Bag on November 16th at noon.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-16-Malden_Brown_Bag_Lunch.jpg
 
