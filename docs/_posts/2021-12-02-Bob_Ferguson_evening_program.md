@@ -2,7 +2,7 @@
 title: Bob Ferguson - Missing & Murdered Indigenous Women
 header:
   video:
-    id:
+    id: i6Qz6cvgtmU
     provider: youtube
 categories:
   - Evening meeting
