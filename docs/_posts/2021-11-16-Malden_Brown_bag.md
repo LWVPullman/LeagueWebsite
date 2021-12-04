@@ -29,9 +29,9 @@ P.O. Box 47
 <br/>
 Rosalia, WA 99170
 
-
-
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-16-Malden.JPG)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-16-Malden_Brown_Bag_Lunch.jpg)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
