@@ -20,13 +20,11 @@ Speakers: Bob Ferguson
 
 Coordinator: Libby Walker
 
-An evening presentation by Attorney General Bob Ferguson on recent major work of the Attorney General’s Office, including the inaugural meeting of the Washington State Missing and Murdered Indigenous Women and People Task Force and the ongoing trial in his case against the nation’s major opioids distributors.  This event is co-sponsored by the League of Women Voters of Pullman and the WSU Foley Institute.
+An evening presentation by Attorney General Bob Ferguson on recent major work of the Attorney General’s Office, including the inaugural meeting of the Washington State Missing and Murdered Indigenous Women and People Task Force and the ongoing trial in his case against the nation’s major opioids distributors.  This event was co-sponsored by the League of Women Voters of Pullman and the WSU Foley Institute.
 
-[Join Zoom Meeting](https://us02web.zoom.us/j/87266258253?pwd=UzE1UHNGVjRDeVpwUjBQbGVLWlQ4QT09)
+ [Attorney General Bob Ferguson's website](https://www.atg.wa.gov/about-bob-ferguson)
 
-Meeting ID: 872 6625 8253
-Passcode: 986358
-[One tap mobile](tel:+12532158782,,87266258253#) US (Tacoma)
+![Bob Ferguson MMIWP Task Force]({{ site.url }}{{ site.baseurl }}/assets/images/2021-12-02-AG_Ferguson_YouTube.jpg)
 
 ![Bob Ferguson MMIWP Task Force]({{ site.url }}{{ site.baseurl }}/assets/images/2021-12-02-Ferguson_ MMIWP_and_Opioids.JPG)
 
