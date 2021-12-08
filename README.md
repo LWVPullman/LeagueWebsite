@@ -7,12 +7,14 @@
       - This one might be difficult, I haven't found anything that suggests that this is possible.
       - Looks like you accomplished this?
 4. Incrase upper padding for splash pages (see about us)
+5. Adding LWV US link to the index page
 
 
 ## Things to do for anyone: 
 1. Write into the readme, what photos are (Bobbie)
 2. Advocacy - Getting Involved (Paul)
 3. Alt text additions to all photos (see example in Template Post at to of page)
+4. Judy requests
 
 
 
