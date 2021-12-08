@@ -8,7 +8,7 @@ excerpt: ""
 
 The Pullman League of Women voters can frequently be found in the news! So much so that it's overwhelming to find all on one page! We do a lot of work in the community, so we pop up in the local newspaper and the community update. This is the archive page that includes ALL of our past publications!!
 
-## Newsletters
+## The Voter Newsletter
 
 * [Pullman League Newsletter July 2008](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2008-7.pdf)
 * [Pullman League Newsletter August 2008](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2008-8.pdf)

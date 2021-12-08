@@ -1,8 +1,8 @@
 ---
-title: General Election Forums City Council Ward 3 and Hospital District 1A
+title: General Election Forums City Council Ward 1 and School Board District 4
 header:
   video:
-    id: zu4bDg6f9q0
+    id: Gel6YcZNRQo
     provider: youtube
 categories:
   - Evening meeting
@@ -12,16 +12,16 @@ tags:
   - election forums
   - evening meeting
   - Pullman City Council
-  - Pullman Hospital District
+  - Pullman School Board
 ---
 
 The League of Women Voters of Pullman will hold two candidate forums over zoom.  Candidates will be present to answer questions.
 
-**Tuesday, October 12, 7:00 - 9:00 pm**
+**Thursday October 14, 7:00 - 9:00 pm**
 
-Two candidates for Pullman Hospital District 1A: Tricia Grantham and Reid West.
+Two candidates for the Pullman City Council Ward 1: Francis Benjamin and Al Sorensen.
 
-Candidate for Pullman City Council Ward 3:  Megan Guido. 
+Two candidates from Pullman School Board District 4: Nathan Roberts and Carolina Silva.
 
 Questions can be for any of these candidates can be emailed to Deb Olson olsonbones@aol.com by Oct 11th. Specify which Candidate/Race they are for when you send questions.
 
@@ -29,7 +29,7 @@ Questions can be for any of these candidates can be emailed to Deb Olson olsonbo
 Coordinators: Deb Olson, Sue Hinz, Helen Catanese
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-12-Cadidate_Forums_evening-program.jpg)
+[//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-12-Cadidate_Forums_evening-program.jpg
 
 
 Copyright LWV of Pullman
