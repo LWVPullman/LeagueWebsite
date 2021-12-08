@@ -29,7 +29,7 @@ Questions can be for any of these candidates can be emailed to Deb Olson olsonbo
 Coordinators: Deb Olson, Sue Hinz, Helen Catanese
 
 
-[//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-12-Cadidate_Forums_evening-program.jpg
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-12-Cadidate_Forums_evening-program.jpg)
 
 
 Copyright LWV of Pullman

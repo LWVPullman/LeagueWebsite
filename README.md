@@ -13,7 +13,6 @@
 1. Write into the readme, what photos are (Bobbie)
 2. Advocacy - Getting Involved (Paul)
 3. Alt text additions to all photos (see example in Template Post at to of page)
-4. Publications section? Or does it fit elsewhere. Get publications from Paul
 
 
 
