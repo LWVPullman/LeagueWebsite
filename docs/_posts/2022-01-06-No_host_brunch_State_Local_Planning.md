@@ -23,7 +23,7 @@ Anyone interested in these topics (both League Members and Non-Members) are invi
 Zoom Meeting ID: 860 8723 0269  Passcode: 194502
 <br/>
 
-![national planning meeting]({{ site.url }}{{ site.baseurl }}/assets/images/2022-01-06-Planning_meeting.JPG
+![national planning meeting]({{ site.url }}{{ site.baseurl }}/assets/images/2022-01-06-Planning_meeting.JPG)
 
 
 Copyright LWV of Pullman
