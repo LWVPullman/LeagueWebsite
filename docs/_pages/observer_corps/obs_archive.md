@@ -79,6 +79,9 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman City Council Observer Report 2021-9-28](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-9-28.pdf)
 * [Pullman City Council Observer Report 2021-10-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-10-12-Pub.pdf)
 * [Pullman City Council Observer Report 2021-10-19](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-10-19-Pub.pdf)
+* [Pullman City Council Observer Report 2021-11-16](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-11-16-Pub.pdf)
+* [Pullman City Council Observer Report 2021-11-30](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-11-30-Pub.pdf)
+* [Pullman City Council Observer Report 2021-12-14](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-12-14-Pub.pdf)
 
 ## Neill Public Library Board
 
@@ -97,6 +100,8 @@ There have been so many over the years, that we now have this archive page to co
 * [Neill Public Library Board Observer Report 2021-7-21](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-7-21.pdf)
 * [Neill Public Library Board Observer Report 2021-9-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-9-8.pdf)
 * [Neill Public Library Board Observer Report 2021-10-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-10-13-Pub.pdf)
+* [Neill Public Library Board Observer Report 2021-11-17](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-11-17-Pub.pdf)
+* [Neill Public Library Board Observer Report 2021-12-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-12-08-Pub.pdf)
 
 ## Pullman Planning Commission
 
@@ -211,6 +216,8 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman School Board Observer Report 2021-8-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-8-11-Pub.pdf)
 * [Pullman School Board Observer Report 2021-8-25](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-8-25-Pub.pdf)
 * [Pullman School Board Observer Report 2021-10-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-10-13-Pub.pdf)
+* [Pullman School Board Observer Report 2021-11-10](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-11-10-Pub.pdf)
+* [Pullman School Board Observer Report 2021-12-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-12-08-Pub.pdf)
 
 ## Whitman County Commissioners
 
@@ -245,6 +252,9 @@ There have been so many over the years, that we now have this archive page to co
 * [Whitman County Planning Commission Observer Report 2021-9-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-9-15-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2021-10-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-10-6-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2021-11-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-11-3-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2021-11-17](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-11-17-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2021-12-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-12-01-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2021-12-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2021-12-15-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
