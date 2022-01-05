@@ -23,6 +23,10 @@ Anyone interested in these topics (both League Members and Non-Members) are invi
 Zoom Meeting ID: 860 8723 0269  Passcode: 194502
 <br/>
 
+In preparation for this meeting, the Leaders Guide will give you a good idea of the purpose and procedure for our meeting, and the League postions summary is for reference.
+* [Leaders Guide to LWVUS Program Planning 2022-2024](https://lwvpullman.org/assets/PDFs/program_planning_leaders_guide._2022-2024.pdf)
+* [Summary of LWVUS Public Policy Positions](https://lwvpullman.org/assets/PDFs/2022-01-06-LWV_positions_in_brief_2016-2018.pdf)
+
 ![national planning meeting]({{ site.url }}{{ site.baseurl }}/assets/images/2022-01-06-Planning_meeting.JPG)
 
 
