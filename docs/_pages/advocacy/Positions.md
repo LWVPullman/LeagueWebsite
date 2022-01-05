@@ -6,8 +6,6 @@ author_profile: true
 excerpt: "League Positions"
 ---
 
-
-Voter with Flag
 All of the League's advocacy efforts are based on Positions. A Position is a statement of the League's point of view on a particular issue. It is developed after careful and thorough studies by members who try to examine the issue from all sides. The final Position statement captures general agreement among members, arrived at through discussion and consensus, on the issue.
 
 [Our Impact on Issues PDF file](https://www.lwv.org/impact-issues) offers more insight on a national level of whats going on and the [Program in Action PDF](http://lwvpullman.org/pdf/Program%20In%20Action%202015%20-%202017.pdf) is designed to help League leaders make effective use of state program. It is a brief summary of studies, consensus and action taken by the League of Women Voters of Washington since the 1920s. League positions are included in their entirety.
