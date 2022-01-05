@@ -13,7 +13,7 @@ The League of Women Voters of Pullman has been active in the Pullman Community a
 * Publishing the Directory of Elected Officials
 * Conducting Studies of Issues
 * Voter Registration
-* Organizing Monthly Meetings
+* Organizing Monthly Educational Meetings
 * Observing Local Government Meetings
 * Publishing a Monthly Newsletter
 * And Much More!
@@ -21,7 +21,7 @@ The League of Women Voters of Pullman has been active in the Pullman Community a
 ## Meetings
 
 The Pullman League generally holds monthly meetings September through April.
-* Board Meetings are usually held on the last Tuesday of the month at 10am-12pm. The League is a "Board of the Whole" so anyone is welcome to attend
+* Board Meetings are usually held on the 4th Tuesday of the month at 11am-1pm. The League is a "Board of the Whole" so all members are welcome and encouraged to attend
 * General Evening Meetings are usually held on the first Thursday of the month featuring a guest speaker and are open to the public.
 * Brown Bag Lunch Meetings are usually held on the third Tuesday of the month at noon and features a topic of discussion.    
 * Annual membership meeting is usually held in May when members elect officers, adopt a budget, etc.

@@ -33,7 +33,7 @@ Action methods include:
 
 It is the responsibility of each League Board to direct and plan League Action which may include "calls for Action" to the membership.
 
-## You as a Member You May
+## As a Member You Can
 
 * Elect officers and directors
 * Attend unit meetings
@@ -61,7 +61,7 @@ At each level of League, Boards are elected by the membership to manage the acti
 
 ## Study Committees
 
-Established to study a public issues of League concern, a study committee researches, clarifies, and develops a focus for League consideration. It then becomes a resource committee with responsibility to present facts to the members. In small Leagues the material is presented directly to the membership. In large Leagues where there are several units, the material is presented at a briefing session which is attended by representatives from each unit. They in turn present the material to the members of their unit.
+Established to study public issues of League concern A study committee researches, clarifies, and develops a focus for League consideration. It then becomes a resource committee with responsibility to present facts to the members. In small Leagues the material is presented directly to the membership. In large Leagues where there are several units, the material is presented at a briefing session which is attended by representatives from each unit. They in turn present the material to the members of their unit.
 
 ## Other Committees
 
@@ -84,7 +84,7 @@ Voters Service and results of League studies and League action are conveyed to t
 The League has a large and growing list of educational publications on local, state and national issues. Highly respected, League publications are the result of thorough research.  Members receive many useful and informative publications from the League:
 
 * Pullman Voter – LWV of Pullman's Monthly Newsletter
-* Washington State Voter – LWV of Washington's Quarterly Newsletter
+* Washington State Voter – LWV of Washington's Monthly Newsletter
 * TRY, They Represent You - Directory of Elected Officials
 
 # What We Have Done

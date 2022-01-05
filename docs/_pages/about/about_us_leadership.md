@@ -18,7 +18,7 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 ## Committee Leaders:
 
-**Civics Education Coordinator:**
+**Civics Education Coordinator:** Lennis Boyer Watts
 
 **Community Outreach Coordinator:**  Libby Walker
 
@@ -28,7 +28,7 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 **Legislative Coordinator:**  Karl Johanson
 
-**MELD Coordinator:**  Paul Spencer
+**MELD Coordinator:**  Paul Spencer, Libby Walker, and Deb Olson
 
 **Membership Chair:**  Judy Stone
 
@@ -40,13 +40,11 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 **The Voter Publication:**  Anne Lewis
 
-**TWIL:**
-
 **TRY Coordinator:**  Susan Daniels
 
 **Voter Services Coordinator:**  Deb Olson
 
-**Website:**  Leah Zulas, Helen Catanese, Paul Spencer
+**Website:**  Leah Zulas, Helen Catanese, Paul Spencer, and Carolyn Joswig-Jones
 
 
 
