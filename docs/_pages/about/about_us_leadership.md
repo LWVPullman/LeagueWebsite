@@ -6,15 +6,18 @@ author_profile: true
 excerpt: "All about Pullman League of Women Voters Leadership"
 ---
 
-## Board:
+## Excecutive Board:
 
 **Chair of the Board:**  Bobbie Ryder
 
-**Vice President:**  Helen Catanese
+**Vice President:** 
 
 **Secretary:**  Alice Schroeder, Back-up: Libby Walker
 
-**Treasurer:**  Paul Spencer
+**Treasurer:**  Shelley Ann Jones
+
+We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  Board Meetings are held on the 4th Tuesday of each month at 11:00 am – 1:00 pm, August – May.  Non-memebers may attend also if interested and need to contact the league by sending an email to lwvpull@yahoo.com
+
 
 ## Committee Leaders:
 
@@ -24,7 +27,7 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 **Community Update Editor:**  Susan Daniels
 
-**Finance Drive Coordinator:** Libby Walker
+**Finance Drive Coordinator:** Libby Walker and Paul Spencer
 
 **Legislative Coordinator:**  Karl Johanson
 
@@ -32,7 +35,7 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 **Membership Chair:**  Judy Stone
 
-**Nominating Coordinator:** Mary Collins
+**Nominating Coordinator:**  Mary Collins
 
 **Observer Corps Chair:**  Judy Stone
 
