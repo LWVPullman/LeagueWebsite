@@ -7,7 +7,6 @@
       - This one might be difficult, I haven't found anything that suggests that this is possible.
       - Looks like you accomplished this?
 4. Incrase upper padding for splash pages (see about us)
-5. Adding LWV US link to the index page
 
 
 ## Things to do for anyone: 
