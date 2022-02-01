@@ -54,7 +54,7 @@ search_provider          : lunr # lunr (default), algolia
 #  powered_by             : true # true (default), false
 #  files_to_exclude:
 #    - _posts/2017-11-28-post-exclude-search.md
-
+future: true
 # SEO Related
 google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
 bing_site_verification   :
@@ -96,7 +96,7 @@ author:
   links:
     - label: "League of Women Voters"
       icon: "fas fa-fw fa-link"
-      url: "http://www.lwvpullman.org/index.html"
+      url: "https://www.lwvpullman.org/index.html"
     - label: "Email Us"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lwvpull@yahoo.com"
