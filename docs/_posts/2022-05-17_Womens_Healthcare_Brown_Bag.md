@@ -1,18 +1,20 @@
 ---
-title: TBD
+title: Women’s Healthcare for the Future
 header:
   video:
     id:
     provider: youtube
 categories:
+  - Women's Heathcare
   - Brown bag
   - Monthly lunch meeting
 tags:
+  - Women's Healthcare
   - Brown Bag Lunch meeting
   
 ---
 
-Speaker: 
+Speaker: Noel Nicolai, PRH
 
 Coordinator:
 
