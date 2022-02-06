@@ -6,16 +6,14 @@ author_profile: true
 excerpt: ""
 ---
 
-The Pullman League of Women voters can frequently be found in the news! We do a lot of work in the community, so we pop up in the local newspaper and the community update. Also, the Pullman League releases our own newsletter quarterly. All of those items can be found linked below!
+The Pullman League of Women voters can frequently be found in the news! We do a lot of work in the community, so we pop up in the local newspaper and the Community Update. Also, the Pullman League releases our own newsletter quarterly. All of those items can be found linked below!
+
+In 2016 the Pullman League completed a poverty study for Whitman County.  Details can be found in the [Final Poverty Study Report](https://www.lwvpullman.org/assets/PDFs/Pov_Study_Final.pdf).  A summary is available in [Poverty Study Summary] (https://www.lwvpullman.org/assets/PDFs/Pov_Stdy_Exec_Summary.pdf).
 
 The League is frequently in the [Pullman Community Update](https://pullmanchamber.com/live-in-pullman/pullman-community-update/) including having our own editorials.
 
 ## The Voter Newsletter
 
-* [Pullman League Newsletter March 2019](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2019-3.pdf)
-* [Pullman League Newsletter April 2019](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2019-4.pdf)
-* [Pullman League Newsletter August 2019](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2019-8.pdf)
-* [Pullman League Newsletter October 2019](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2019-10.pdf)
 * [Pullman League Newsletter February 2020](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2020-2.pdf)
 * [Pullman League Newsletter May 2020](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2020-5.pdf)
 * [Pullman League Newsletter October 2020](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2020-10.pdf)

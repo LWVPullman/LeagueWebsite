@@ -27,6 +27,10 @@ toc: true
 
 The League of Women Voters, a nonpartisan political organization, encourages the informed and active participation of citizens in government, and influences public policy through education and advocacy.
 
+## New Members
+
+New members are invited to connect with [Judy Stone](mailto:judy.stone.bandaid@gmail.com), our membership chair. New members might also be interested in The Pullman League Primer, an online orientation resource for new members. [Pullman League of Women Voters Primer](https://lwvpullman.org/assets/PDFs/PrimerRevision-11-2021.pdf) It also contains the Pullman League Bylaws.
+
 ## Organization
 
 The structure of the League parallels the representative system of government under which we live. Our local, state and national governments are dependent one upon the other; the base is the individual citizen. The several League levels are also interdependent. Members determine the policies and program of all league levels. Membership is simultaneous on all three levels where applicable.

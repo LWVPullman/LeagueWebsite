@@ -20,7 +20,7 @@ In response to the cries of election fraud from the past year, particularly beca
 
 On October19 from noon to 1 pm, the project chair, Linnea Hirst (Seattle-King County League) discussed the project (where we are and where we are going) over zoom for the Pullman League of Women Voter Brown Bag series.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-19-election_misinformation_YouTube.jpg
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-19-election_misinformation_YouTube.jpg)
 alt: "Screen shot of speaker Linnea Hirst and of her's presentation with LWVwa.org website and the Your Vote Tabloid cover"
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-19-election_misinformation_SMpost.jpg)

@@ -14,26 +14,24 @@ The League of Women Voters is a nonpartisan grassroots political organization op
 
 It encourages informed and active participation in government, works to increase understanding of major public policy issues, and influences public policy through education and advocacy.  The LWV neither supports nor opposes any political party or candidate for elective office, but it does encourage its members as individuals to take part fully in the political process.   For more details, go to League Basics.
 
-Once you become a member, you will be partnered with a mentor during your first year of membership.
-
-
 Yearly Dues:
 * Single membership $65
-* Family Membership (2 people) $90
+* Household Membership (2 people) $90
 * Students and Lifetime Members are FREE!
 
 Send Name, Address, Phone number, and email address (if any) and a check for the dues to:
-League of Women Voters of Pullman
-P.O. Box 366
+
+League of Women Voters of Pullman  
+P.O. Box 366  
 Pullman, WA 99163
 
-If you have questions, Email: lwvpull@yahoo.com
+If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 Membership Payment by credit card or debit card
 
 Because of the transaction fee, payment by card is slightly more.
 * Single $67.20
-* Family $92.90
+* Household $92.90
 
 Select the type of membership and then Click the Buy Now Button below
 
