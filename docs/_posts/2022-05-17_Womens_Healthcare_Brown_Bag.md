@@ -1,21 +1,22 @@
 ---
-title: Pullman's Newly Elected Officials
+title: Women’s Healthcare for the Future
 header:
   video:
     id:
     provider: youtube
 categories:
+  - Women's Heathcare
   - Brown bag
   - Monthly lunch meeting
 tags:
-  - Pullman Officials
-  - New Elected Officials
+  - Women's Healthcare
   - Brown Bag Lunch meeting
+  
 ---
 
-Speaker: Pullman's Newly Elected Officials
+Speaker: Noel Nicolai, PRH
 
-Coordinator: Mary Collins & Sue Hinz 
+Coordinator:
 
 
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
