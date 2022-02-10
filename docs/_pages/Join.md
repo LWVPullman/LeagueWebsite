@@ -20,11 +20,12 @@ Yearly Dues:
 * Students and Lifetime Members are FREE!
 
 Send Name, Address, Phone number, and email address (if any) and a check for the dues to:
-League of Women Voters of Pullman
-P.O. Box 366
+
+League of Women Voters of Pullman  
+P.O. Box 366  
 Pullman, WA 99163
 
-If you have questions, Email: lwvpull@yahoo.com
+If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 Membership Payment by credit card or debit card
 
