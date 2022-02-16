@@ -18,10 +18,6 @@ The National Planning Meeting for the LWV of Pullman will be held by Zoom from 1
 
 Anyone interested in these topics (both League Members and Non-Members) are invited to participate.  It is also a chance to learn more about how the League operates.
 
-[Join Zoom Meeting](https://us02web.zoom.us/j/86087230269?pwd=U3JJQzZsU1JUWHFTelFRd2hYT3Exdz09)
-<br/>
-Zoom Meeting ID: 860 8723 0269  Passcode: 194502
-<br/>
 
 In preparation for this meeting, the Leaders Guide will give you a good idea of the purpose and procedure for our meeting, and the League postions summary is for reference.
 * [Leaders Guide to LWVUS Program Planning 2022-2024](https://lwvpullman.org/assets/PDFs/program_planning_leaders_guide._2022-2024.pdf)
