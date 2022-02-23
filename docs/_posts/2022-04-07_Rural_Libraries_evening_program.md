@@ -20,6 +20,13 @@ Coordinator: Alice Schroeder
 
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
+The public is invited to attend over Zoom.
+
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/82273066927?pwd=SFlCS05MN2g2bjhuS0xzZ2ppeWNLdz09)
+
+Zoom Meeting ID: 822 7306 6927  Passcode: 962442
+
+[One tap mobile](tel:+12532158782,,82273066927#) US (Tacoma)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding

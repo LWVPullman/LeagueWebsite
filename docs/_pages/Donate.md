@@ -8,7 +8,7 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
-# Donate to the League of Women Voters of Pullman using a Debit or Credit card
+# Donate to the League of Women Voters of Pullman by Check or with a Debit or Credit card
 
 **The League actively works on your behalf and offers many learning opportunities, including the following:**
 
@@ -22,9 +22,23 @@ toc: true
 
 * **Poverty Study:** A two-year study in Whitman County published in 2016, the League is still presenting the results to town and county governments.
 
-* **Directory of local Elected and Appointed Officials:** It is now available on our website.[Click to view this directory ](https://lwvpullman.org/docs/_pages/voter_info/TRY2021-22.pdf)
+* **Directory of local Elected and Appointed Officials:** It is now available on our website.[Click to view this directory ](https://lwvpullman.org/docs/_pages/voter_info/TRY2022.pdf)
 
 * **Our Website:** contains valuable information on the activities of the League.
+
+# Donate by Check --
+* Send Name, Address, Phone number, and email address (if any) and a check payable to **LWV of Pullman** for the amount of the donation to:<br>
+League of Women Voters of Pullman  
+P.O. Box 366  
+Pullman, WA 99163
+
+* **For tax deductible donations** make the check payable to: **LWVWA Education Fund (Pullman)**
+
+(The information requested is shared with League members only.  Please note any items which should not be shared.)
+
+# Donate with a Credit or Debit card
+* (Name, Email Address, Phone No. and Address requested below are shared with League members only.  Please note any items which should not be shared.)
+* Click the down arrow for a tax deductible donation to our Education Fund
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
