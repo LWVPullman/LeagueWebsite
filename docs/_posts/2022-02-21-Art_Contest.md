@@ -14,7 +14,7 @@ tags:
 ---
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-21-Art_contest_banner.gif)
 
-Coordinators:  Carolyn Joswig-Jones, Lennis Boyer, Deb Olsen
+Coordinators:  Carolyn Joswig-Jones, Lennis Boyer, Deb Olson
 
 ## What does Democracy look like to you?
 
