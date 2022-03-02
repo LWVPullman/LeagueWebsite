@@ -18,6 +18,14 @@ Coordinator:
 
 [//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
+The public is invited to attend over Zoom.
+
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/82478021075?pwd=d2JQNFdMKzhYYnF6QzNCWFo3SUJtZz09)
+
+Zoom Meeting ID: 824 7802 1075  Passcode: 747631
+
+[One tap mobile](tel:+12532158782,,82478021075#) US (Tacoma)
+
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
