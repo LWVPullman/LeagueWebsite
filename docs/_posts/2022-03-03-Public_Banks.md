@@ -29,10 +29,6 @@ Zoom Meeting ID: 886 8023 1462  Passcode: 229442
 
 ![clipart of a bank, LWV of Pullman zoom meeting about What is a State Bank on Thursday, March 3 at 7 pm.]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-03-State_Banks_evening_program.jpg)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-03-State_Banks_evening_program.jpg)
-alt: "clipart of a bank, LWV of Pullman zoom meeting about What is a State Bank on Thursday, March 3 at 7 pm."
-
-
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
 
