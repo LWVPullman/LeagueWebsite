@@ -29,10 +29,9 @@ Zoom Meeting ID: 813 8001 8026  Passcode: 075750
 
 [One tap mobile](tel:+12532158782,,81380018026#) US (Tacoma)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_Prevention_BB.jpg)
-alt: "LWV of Pullman brown bad lunch series talk with Annie Pillers, the founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force. Zoom meeting March 15, 2022 at noon."
+![LWV of Pullman brown bad lunch series talk with Annie Pillers, the founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force. Zoom meeting March 15, 2022 at noon.]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_Prevention_BB.jpg)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-23-Annie_Pillers_Evergreen.png)
+![Screen shot of Annie Pillers Daily Evergreen Article, titled "Privileged Work: Whitman County coroners always on call for unexpected deaths"]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-23-Annie_Pillers_Evergreen.png)
 
 [Click here for The Daily Evergreen article on Annie Piller.](https://dailyevergreen.com/tag/whitman-county-suicide-prevention-task-force/)
 

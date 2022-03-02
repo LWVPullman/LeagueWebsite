@@ -66,6 +66,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman City Council Observer Report 2021-11-30](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-11-30-Pub.pdf)
 * [Pullman City Council Observer Report 2021-12-14](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-12-14-Pub.pdf)
 * [Pullman City Council Observer Report 2022-1-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-1-11-Pub.pdf)
+* [Pullman City Council Observer Report 2022-2-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-2-15-Pub.pdf)
 
 ## Neill Public Library Board
 
