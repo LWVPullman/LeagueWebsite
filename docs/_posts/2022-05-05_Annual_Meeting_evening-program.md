@@ -20,11 +20,12 @@ Coordinator:
 
 The public is invited to attend over Zoom.
 
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/82478021075?pwd=d2JQNFdMKzhYYnF6QzNCWFo3SUJtZz09)
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/83580614861?pwd=dmJ4a3BIVmVDaUZSM1hlRkZEamlkZz09)
 
-Zoom Meeting ID: 824 7802 1075  Passcode: 747631
+Meeting ID: 835 8061 4861
+Passcode: 194623
 
-[One tap mobile](tel:+12532158782,,82478021075#) US (Tacoma)
+[One tap mobile](tel:+12532158782,,83580614861#,,,,*194623#) US (Tacoma)
 
 
 Copyright LWV of Pullman

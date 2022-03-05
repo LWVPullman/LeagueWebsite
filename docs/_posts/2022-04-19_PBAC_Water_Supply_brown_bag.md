@@ -23,11 +23,12 @@ Coordinator: Lennis Boyer-Watts & Carolyn Joswig-Jones
 
 The public is invited to attend over Zoom.
 
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/86058905939?pwd=VWFPeGpEZm9LY1Nlanpxd3ozYk1odz09)
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/86194536949?pwd=aGNsUmMxWE5XaGpIeVpmY01JMXF1QT09)
 
-Zoom Meeting ID: 860 5890 5939  Passcode: 283402
+Meeting ID: 861 9453 6949
+Passcode: 057685
 
-[One tap mobile](tel:+12532158782,,86058905939#) US (Tacoma)
+[One tap mobile](tel:+12532158782,,86194536949#,,,,*057685#) US (Tacoma)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
