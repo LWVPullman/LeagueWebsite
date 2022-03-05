@@ -23,14 +23,14 @@ Annie Pillers, Whitman County Coroner and founder of Whitman County’s Suicide 
 
 The public is invited to attend over Zoom.
 
-[Join the Zoom meeting here!](Join Zoom Meetinghttps://us02web.zoom.us/j/83679263078?pwd=Z3E4NE41dGpEbUJFMmp6dHpuZUF6UT09)
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/83679263078?pwd=Z3E4NE41dGpEbUJFMmp6dHpuZUF6UT09)
 
 
 Meeting ID: 836 7926 3078 Passcode: 412014
 
 [One tap mobile](tel:+12532158782,,83679263078#,,,,*412014#) US (Tacoma)
 
-![LWV of Pullman brown bad lunch series talk with Annie Pillers, the founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force. Zoom meeting March 15, 2022 at noon.]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_Prevention_BB.jpg)
+![LWV of Pullman brown bag lunch series talk with Annie Pillers, the founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force. Zoom meeting March 15, 2022 at noon.]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_Prevention_BB.jpg)
 
 ![Screen shot of Annie Pillers Daily Evergreen Article, titled "Privileged Work: Whitman County coroners always on call for unexpected deaths"]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-23-Annie_Pillers_Evergreen.png)
 
