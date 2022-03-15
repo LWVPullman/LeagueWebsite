@@ -28,7 +28,7 @@ The public is invited to attend over Zoom.
 
 Meeting ID: 813 8001 8026 Passcode: 075750
 
-[One tap mobile](tel:+12532158782,,83679263078#,,,,*412014#) US (Tacoma)
+[One tap mobile](tel:+12532158782,,81380018026#) US (Tacoma)
 
 ![LWV of Pullman brown bag lunch series talk with Annie Pillers, the founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force. Zoom meeting March 15, 2022 at noon.]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_Prevention_BB.jpg)
 
