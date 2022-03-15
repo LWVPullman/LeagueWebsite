@@ -2,7 +2,7 @@
 title: Task Force on Suicide Prevention and Intervention
 header:
   video:
-    id:
+    id: Zjm9uC6aPVU
     provider: youtube
 categories:
   - Brown bag
@@ -20,15 +20,6 @@ Coordinator: Libby Walker
 
 Annie Pillers, Whitman County Coroner and founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force, will address efforts being currently made by the 40 member task force to address the rise in suicide deaths locally.  She will be joined by Pastor Corey Laughary and Mike Berney, Director of Palouse River Counseling, both of whom are task force members.
 
-
-The public is invited to attend over Zoom.
-
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/83679263078?pwd=Z3E4NE41dGpEbUJFMmp6dHpuZUF6UT09)
-
-
-Meeting ID: 813 8001 8026 Passcode: 075750
-
-[One tap mobile](tel:+12532158782,,81380018026#) US (Tacoma)
 
 ![LWV of Pullman brown bag lunch series talk with Annie Pillers, the founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force. Zoom meeting March 15, 2022 at noon.]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_Prevention_BB.jpg)
 
