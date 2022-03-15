@@ -26,7 +26,7 @@ The public is invited to attend over Zoom.
 [Join the Zoom meeting here!](https://us02web.zoom.us/j/83679263078?pwd=Z3E4NE41dGpEbUJFMmp6dHpuZUF6UT09)
 
 
-Meeting ID: 836 7926 3078 Passcode: 412014
+Meeting ID: 813 8001 8026 Passcode: 075750
 
 [One tap mobile](tel:+12532158782,,83679263078#,,,,*412014#) US (Tacoma)
 
