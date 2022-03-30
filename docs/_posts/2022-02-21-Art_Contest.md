@@ -12,6 +12,8 @@ tags:
   - Civics Education
 
 ---
+## Deadline for submissions: March 31, 2022
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-21-Art_contest_banner.gif)
 
 Coordinators:  Carolyn Joswig-Jones, Lennis Boyer, Deb Olson
@@ -75,6 +77,22 @@ ATTN: Art Contest
 <br/>
 
 ## Deadline for submissions: March 31, 2022
+
+## Judges
+
+The following judges were asked by the LWV of Pullman (Whitman County) to evaluate the submitted artwork based on creativity to the theme of Democracy.  
+
+Cori Daniti 
+
+Rosalie Harms 
+
+Mayor Glenn Johnson
+
+Ann Saberi
+
+Barney Saneholtz
+
+[Click here to read more about our judges](https://lwvpullman.org/assets/PDFs/2022-03-Art_Contest_Judge_Bios.pdf)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022_art_competition.jpg)
 
