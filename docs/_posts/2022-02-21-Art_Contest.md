@@ -12,7 +12,7 @@ tags:
   - Civics Education
 
 ---
-## Deadline for submissions: March 31, 2022
+<span style="color:red; font-size:4em;"> **Deadline for submissions: March 31, 2022** </span>
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-21-Art_contest_banner.gif)
 
