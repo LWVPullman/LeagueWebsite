@@ -12,7 +12,11 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:4em;"> **Deadline for submissions: March 31, 2022** </span>
+<span style="color:red; font-size:2em;"> **This Competition has ended!** </span>
+
+Thank you to the artists and their families and the Whitman County and Neill Public Libraries for supporting this program.  All of the artists and their artwork will be posted here soon. Below are the top seven entries which recieved the prizes.  More about them coming soon...
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-04-Winners_poster.jpg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-21-Art_contest_banner.gif)
 
@@ -85,8 +89,6 @@ The following judges were asked by the LWV of Pullman (Whitman County) to evalua
 Cori Daniti 
 
 Rosalie Harms 
-
-Mayor Glenn Johnson
 
 Ann Saberi
 
