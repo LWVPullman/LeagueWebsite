@@ -104,7 +104,8 @@ There have been so many over the years, that we now have this archive page to co
 * [Neill Public Library Board Observer Report 2021-10-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-10-13-Pub.pdf)
 * [Neill Public Library Board Observer Report 2021-11-17](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-11-17-Pub.pdf)
 * [Neill Public Library Board Observer Report 2021-12-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-12-08-Pub.pdf)
-* [Neill Public Library Board Observer Report 2022-02-09](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2021-2-9-Pub.pdf)
+* [Neill Public Library Board Observer Report 2022-02-09](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2022-2-9-Pub.pdf)
+* [Neill Public Library Board Observer Report 2022-03-09](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2022-3-9-Pub.pdf)
 
 ## Pullman Planning Commission
 
@@ -167,6 +168,7 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman Regional Hospital Board Observer Report 2021-10-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2021-10-6-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2022-1-5](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2022-1-5-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2022-2-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2022-2-2-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2022-4-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2022-4-6-Pub.pdf)
 
 ## Pullman School Board
 
@@ -226,6 +228,10 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman School Board Observer Report 2021-12-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2021-12-08-Pub.pdf)
 * [Pullman School Board Observer Report 2022-1-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2022-1-12-Pub.pdf)
 * [Pullman School Board Observer Report 2022-2-9](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2022-2-9-Pub.pdf)
+* [Pullman School Board Observer Report 2022-2-23](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2022-2-23-Pub.pdf)
+* [Pullman School Board Observer Report 2022-3-9](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2022-3-9-Pub.pdf)
+* [Pullman School Board Observer Report 2022-3-23](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2022-3-23-Pub.pdf)
+* [Pullman School Board Observer Report 2022-4-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2022-4-13-Pub.pdf)
 
 ## Whitman County Commissioners
 
@@ -272,6 +278,8 @@ There have been so many over the years, that we now have this archive page to co
 * [Whitman County Planning Commission Observer Report 2022-1-5](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2022-1-5-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2022-1-19](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2022-1-19-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2022-2-16](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2022-2-16-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2022-3-16](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2022-3-16-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2022-4-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2022-4-6-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
