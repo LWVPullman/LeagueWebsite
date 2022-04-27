@@ -11,12 +11,15 @@ tags:
   - evening meeting
 ---
 
-Speakers:
+Speakers: 
 
 Coordinator:
 
+At the LWV of Pullman Annual Business Meeting we address issues that are important to you, our community, and to ways to make democracy work. We must have a quorum of no less than 18 members attending to vote on business matters. We will take a look back at activities and accomplishments during the last year with a presentation given by our president, Bobby Ryder.
 
-[//]: # ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
+Members are encouraged to invite friends who may be interested in attending to learn more about the league. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-05-Annual_Business_Meeting_2022.jpg
 
 The public is invited to attend over Zoom.
 
