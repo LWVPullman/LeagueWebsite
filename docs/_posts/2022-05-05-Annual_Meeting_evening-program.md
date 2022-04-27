@@ -11,11 +11,11 @@ tags:
   - evening meeting
 ---
 
-Speakers: 
+Speakers:
 
 Coordinator:
 
-At the LWV of Pullman Annual Business Meeting we address issues that are important to you, our community, and to ways to make democracy work. We must have a quorum of no less than 18 members attending to vote on business matters. We will take a look back at activities and accomplishments during the last year with a presentation given by our president, Bobby Ryder.
+At the LWV of Pullman Annual Business Meeting we address issues that are important to you, our community, and ways to make democracy work. We must have a quorum of no less than 18 members attending to vote on business matters. We will take a look back at activities and accomplishments during the last year with a presentation given by our president, Bobby Ryder.
 
 Members are encouraged to invite friends who may be interested in attending to learn more about the league. 
 
