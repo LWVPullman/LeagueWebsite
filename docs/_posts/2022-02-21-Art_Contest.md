@@ -18,6 +18,12 @@ Thank you to the artists and their families and the Whitman County and Neill Pub
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-04-Winners_poster.jpg)
 
+A collage of the seven winning artworks showing what Democracy looks like to our youth artist.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-Artists_at_library.jpeg)
+
+Some of the artists who were able to come to Neill Public Library to collect their prizes and show their work. 
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-21-Art_contest_banner.gif)
 
 Coordinators:  Carolyn Joswig-Jones, Lennis Boyer, Deb Olson
