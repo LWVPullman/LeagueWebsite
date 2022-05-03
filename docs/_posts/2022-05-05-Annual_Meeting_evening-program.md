@@ -23,7 +23,7 @@ At the LWV of Pullman Annual Business Meeting we address issues that are importa
 
 Members are encouraged to invite friends who may be interested in attending to learn more about the league. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-05-Annual_Business_Meeting_2022.jpg
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-05-Annual_Business_Meeting_2022.jpg)
 
 The public is invited to attend over Zoom.
 
