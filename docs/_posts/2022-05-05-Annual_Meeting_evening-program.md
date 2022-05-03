@@ -11,9 +11,13 @@ tags:
   - evening meeting
 ---
 
-Speakers:
 
-Coordinator:
+Guest Speakers:	  Council Women Megan Guido & Becky Deuben
+
+
+Coordinator:  Bobby Ryder
+
+<span style="color:red; font-size:2em;"> **Thursday, April 12th, 7:00 PM** </span> 
 
 At the LWV of Pullman Annual Business Meeting we address issues that are important to you, our community, and ways to make democracy work. We must have a quorum of no less than 18 members attending to vote on business matters. We will take a look back at activities and accomplishments during the last year with a presentation given by our president, Bobby Ryder.
 
