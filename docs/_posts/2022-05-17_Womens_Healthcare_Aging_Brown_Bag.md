@@ -5,11 +5,11 @@ header:
     id:
     provider: youtube
 categories:
-  - Women's Heathcare
+  - "Women's Heathcare"
   - Brown bag
   - Monthly lunch meeting
 tags:
-  - Women's Healthcare
+  - "Women's Healthcare"
   - Aging
   - Pullman Regional Hospital
   - Brown Bag Lunch meeting
