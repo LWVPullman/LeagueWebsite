@@ -36,7 +36,6 @@ Email: pcollinscoa@gmail.com
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-17-Aging.jpg)
 
-
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
 
