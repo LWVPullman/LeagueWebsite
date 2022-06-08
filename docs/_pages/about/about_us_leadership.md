@@ -8,13 +8,11 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 ## Excecutive Board:
 
-**Chair of the Board:**  Bobbie Ryder
+**Excecutives:**  Anne Lewis, Tricia Grantham, and one more person needed
 
-**Vice President:** 
+**Secretary:**  Mary Collins, Back-up: Paul Spencer
 
-**Secretary:**  Alice Schroeder, Back-up: Libby Walker
-
-**Treasurer:**  Shelley Ann Jones
+**Treasurer:**  Sue Hinz
 
 We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  Board Meetings are held on the 4th Tuesday of each month at 11:00 am – 1:00 pm, August – May.  Non-memebers may attend also if interested and need to contact the league by sending an email to lwvpull@yahoo.com
 
