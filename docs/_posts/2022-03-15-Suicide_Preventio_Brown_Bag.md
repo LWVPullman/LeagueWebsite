@@ -2,7 +2,7 @@
 title: Task Force on Suicide Prevention and Intervention
 header:
   video:
-    id:
+    id: Zjm9uC6aPVU
     provider: youtube
 categories:
   - Brown bag
@@ -18,18 +18,13 @@ Speaker: Annie Pillers, Pastor Corey Laughary, and Mike Berney
 
 Coordinator: Libby Walker
 
-Annie Pillers, Whitman County Coroner and founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force, will address efforts being currently made by the 40 member task force to address the rise in suicide deaths locally.  She will be joined by Pastor Corey Laughary and Mike Berney, Director of Palouse River Counseling, both of whom are task force members.
+Annie Pillers, Whitman County Coroner and founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force, addressed efforts being currently made by the 40 member task force to address the rise in suicide deaths locally.  Additional speakers included Pastor Corey Laughary and Mike Berney, Director of Palouse River Counseling, both of whom are task force members.
 
+![screen shot of the zoom meeting with Mike Berney, Corey Laughary and Annie Pllers and a thank you to the task force members]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_YouTube_post.jpg)
 
-The public is invited to attend over Zoom.
+![picture of an information card on how one can talk with a person considering or attempting suicide]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-WCSPRTF_Card.JPG)
 
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/81380018026?pwd=V2ZQNlF5VytVTmFSdmlBVWRPYXVIUT09)
-
-Zoom Meeting ID: 813 8001 8026  Passcode: 075750
-
-[One tap mobile](tel:+12532158782,,81380018026#) US (Tacoma)
-
-![LWV of Pullman brown bad lunch series talk with Annie Pillers, the founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force. Zoom meeting March 15, 2022 at noon.]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_Prevention_BB.jpg)
+![LWV of Pullman brown bag lunch series talk with Annie Pillers, the founder of Whitman County’s Suicide Prevention, Intervention, and Response Task Force. Zoom meeting March 15, 2022 at noon.]({{ site.url }}{{ site.baseurl }}/assets/images/2022-03-15-Suicide_Prevention_BB.jpg)
 
 ![Screen shot of Annie Pillers Daily Evergreen Article, titled "Privileged Work: Whitman County coroners always on call for unexpected deaths"]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-23-Annie_Pillers_Evergreen.png)
 

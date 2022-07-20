@@ -12,6 +12,29 @@ tags:
   - Civics Education
 
 ---
+<span style="color:red; font-size:1em;"> **This Competition has ended!** </span>
+
+Thank you to the artists and their families and the Whitman County and Neill Public Libraries for supporting this program.  All of the artists and their artwork will be posted here soon. Below are the top seven entries which recieved the prizes.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-04-Winners_poster.jpg)
+
+A collage of the seven winning artworks showing what Democracy looks like to our youth artist.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-Artists_at_library.jpeg)
+
+Some of the artists who were able to come to Neill Public Library to collect their prizes and show their work. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-Artist_12x12_sm.jpg)
+
+The artists with their artwork.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-Art_Comp_NeillLibrary.JPG)
+
+A collage of pictures at Neill Public Library of artists talking about their work. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-Art_Comp_NeillLibrary2.JPG)
+
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-02-21-Art_contest_banner.gif)
 
 Coordinators:  Carolyn Joswig-Jones, Lennis Boyer, Deb Olson
@@ -75,6 +98,16 @@ ATTN: Art Contest
 <br/>
 
 ## Deadline for submissions: March 31, 2022
+
+## Judges
+
+The following judges were asked by the LWV of Pullman (Whitman County) to evaluate the submitted artwork based on creativity to the theme of Democracy.  
+
+Cori Daniti, Rosalie Harms, Ann Saberi, and Barney Saneholtz
+
+[Click here to read more about our judges](https://lwvpullman.org/assets/PDFs/2022-03-Art_Contest_Judge_Bios.pdf)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-Art_Comp_Judging.JPG)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022_art_competition.jpg)
 

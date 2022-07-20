@@ -76,3 +76,5 @@ The Pullman League of Women voters can frequently be found in the news! So much 
 * [Pullman League Newsletter October 2020](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2020-10.pdf)
 * [Pullman League Newsletter March 2021](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2021-3.pdf)
 * [Pullman League Newsletter October 2021](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2021-10.pdf)
+* [Pullman League Newsletter March 2022](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2022-03.pdf)
+* [Pullman League Newsletter May 2022](https://lwvpullman.org/assets/PDFs/VoterNewsletters/2022-5.pdf)
