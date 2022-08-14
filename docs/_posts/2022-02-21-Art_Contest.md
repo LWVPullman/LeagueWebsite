@@ -24,6 +24,8 @@ A collage of the seven winning artworks showing what Democracy looks like to our
 
 Some of the artists who were able to come to Neill Public Library to collect their prizes and show their work. 
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-29_LewistonTribune_art_contest.jpeg)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-05-Artist_12x12_sm.jpg)
 
 The artists with their artwork.
