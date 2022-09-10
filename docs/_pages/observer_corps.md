@@ -66,6 +66,13 @@ If you are looking for a way to become involved in your League by observing the 
 
 ## Observer Report Form
 
-This form is used for all reports made by observers.
+Observers use this form to complete their reports.
 
 [Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
+
+## Observer Corps Reports
+
+Click below to go to the list of observer reports.
+
+[Observer Corps Reports](https://lwvpullman.org/observer_corps/Observer_reports/)
+
