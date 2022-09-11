@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-![Future Events](https://lwvpullman.org/assets/PDFs/2022-08LWVPullman2022-23calendar.pdf)
-![Future Events](https://lwvpullman.org/assets/PDFs/2022-08LWVPullman2022-23calendarPAGE2.pdf)
+![Future Events](https://lwvpullman.org/assets/PDFs/2022-09-04--2022-23calendarPAGE1.pdf)
+![Future Events](https://lwvpullman.org/assets/PDFs/2022-09-04--2022-23calendarPAGE2.pdf)
 
-For a larger version that is more easily zoomable, please use this link! [Calendar of Events](https://lwvpullman.org/assets/PDFs/2022-08LWVPullman2022-23calendar.pdf)
+For a larger version that is more easily zoomable, please use this link! [Calendar of Events](https://lwvpullman.org/assets/PDFs/2022-09-04--2022-23calendar.pdf)
