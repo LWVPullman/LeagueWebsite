@@ -29,7 +29,13 @@ Free and open to everyone, this is an in-person and Zoom event.  No registration
 
 Community Congregational United Church of Christ is a progressive and inclusive church located at 525 NE Campus St., in Pullman. Learn more at pullmanucc.org. 
 
-# ZOOM LINK will be provided here closer to the date of the event.
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/88608415092?pwd=N2NRbEd2ZWRoSjBVYWxseVZveENNQT09)
+
+Meeting ID: 886 0841 5092
+Passcode: 287807
+
+[One tap mobile](tel:+12532158782) US (Tacoma)
+
 
   
   ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-09-15-Jo_Ivester_poster.jpg)
