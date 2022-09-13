@@ -18,6 +18,8 @@ The LWV encourages informed and active participation in government, works to inc
 
 People join the League of Women Voters for many reasons-- voter service, studies, education, public forums. What is your passion?
 
+All members are invited to fill out an [Experience and Interests Survey](https://lwvpullman.org/assets/PDFs/2022-09-Experience_Interests_Survey.pdf) for volunteering opportunities. 
+
 If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 <b>Annual Membership Dues: </b> 
