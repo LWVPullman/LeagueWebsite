@@ -2,7 +2,7 @@
 title: LGBTQ & Civil Rights with author Jo Ivester
 header:
   video:
-    id:
+    id: xAZtv2axl0I
     provider: youtube
 categories:
   - Evening meeting
