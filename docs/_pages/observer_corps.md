@@ -5,8 +5,8 @@ layout: archive
 author_profile: true
 excerpt: "The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies."
 top_image:
-  - url: /assets/images/2021-12-Observer_Corp_Comm.jpg
-    image_path: /assets/images/2021-12-Observer_Corp_Comm.jpg
+  - url: /assets/images/2022-09-Observer_committee_members.jpg
+    image_path: /assets/images/2022-09-Observer_committee_members.jpg
     alt: "Picture of observer corp committee members"
 article1:
   - url: /assets/images/ObsArticle1.jpg
@@ -34,11 +34,11 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 Pullman Arts Commission – Uta Hutnak
 
-Pullman City Council – Anne Lewis, Karyn Hardy (backup)
+Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
-Pullman Neill Public Library Board – Francy Pavlas Bose, Anne Lewis (backup)
+Pullman Neill Public Library Board – Francy Pavlas Bose (leaving), OBSERVER NEEDED
 
-Pullman-Moscow Regional Airport Board – Lennis Boyer Watts
+Pullman-Moscow Regional Airport Board – Krista Gross
 
 Pullman Planning Commission – Jessica Cassleman
 
@@ -46,13 +46,13 @@ Pullman Regional Hospital Board of Commissioners – Judy Stone
 
 Pullman School District Board of Directors – Carol Ndambuki
 
-Whitman County Board of Commissioners – Mary Collins
+Whitman County Board of Commissioners – OBSERVER NEEDED
 
 Whitman County Planning Commission – Shelley Chambers Fox
 
 Whitman County Solid Waste Advisory Committee – Deb Olson
 
-Port of Whitman County Commissioners – Paul Spencer
+Port of Whitman County Commissioners – OBSERVER NEEDED
 
 ## Becoming an Observer
 If you are looking for a way to become involved in your League by observing the business conducted by a local governmental entity, please check out the Observer Corp Guidelines and  contact [Judy Stone](mailto:judy.stone.bandaid@gmail.com) at judy.stone.bandaid@gmail.com.
@@ -66,6 +66,13 @@ If you are looking for a way to become involved in your League by observing the 
 
 ## Observer Report Form
 
-This form is used for all reports made by observers.
+Observers use this form to complete their reports.
 
 [Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
+
+## Observer Corps Reports
+
+Click below to go to the list of observer reports.
+
+[Observer Corps Reports](https://lwvpullman.org/observer_corps/Observer_reports/)
+

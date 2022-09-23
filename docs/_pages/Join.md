@@ -8,37 +8,38 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
+League of Women Voters members are passionate activists who support our work in all 50 states and in more than 700 communities.
+
+Joining the LWV is a great way to get involved in your community and play an active role in our democracy.
+
+The LWV is a nonpartisan grassroots political organization open to both women and men at least 16 years of age.
+
+The LWV encourages informed and active participation in government, works to increase understanding of major public policy issues, and influences public policy through education and advocacy.  The LWV neither supports nor opposes any political party or candidate for elective office, but it does encourage its members as individuals to take part in the political process.
+
 People join the League of Women Voters for many reasons-- voter service, studies, education, public forums. What is your passion?
 
-The League of Women Voters is a nonpartisan grassroots political organization open to both women and men.
+All members are invited to fill out an [Experience and Interests Survey](https://lwvpullman.org/assets/PDFs/2022-09-Experience_Interests_Survey.pdf) for volunteering opportunities. 
 
-It encourages informed and active participation in government, works to increase understanding of major public policy issues, and influences public policy through education and advocacy.  The LWV neither supports nor opposes any political party or candidate for elective office, but it does encourage its members as individuals to take part fully in the political process.   For more details, go to League Basics.
+If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
-<b>Membership Yearly Dues Payment by check: </b> 
-* Single membership $65
-* Household Membership (2 people) $90
-* Students and Lifetime Members are FREE!
+<b>Annual Membership Dues: </b> 
+* Single membership $65 ($67.20 with credit card transaction fee)
+* Household Membership (2 people) $90 ($92.90 with credit card transaction fee)
+* Students and Lifetime Members are FREE! (Must join by mail or email)
 
-Send Name, Address, Phone number, and email address (if any) and a check for the dues to:
-(This information is shared with League members only.  Please note any items which should not be shared.)
+<span style="color:green; font-size:2em;"> **Join by Mail and Check** </span>
+
+[Click here to print and fill out membership form ](https://lwvpullman.org/assets/PDFs/2022-08-Membership_Form.pdf) and submit it along with your check to the address below.
+
+Or just mail your check for the dues along with your Name(s), Address, Phone number, and Email address to the address below.  (This information is shared with League members only but please indicate any items you do not wish to share.)
 
 League of Women Voters of Pullman  
 P.O. Box 366  
 Pullman, WA 99163
 
-If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
+<span style="color:green; font-size:2em;"> **Join with Credit or Debit Card** </span> (a PayPal account is not necessary):
 
-<b>Membership Payment by credit card or debit card</b>
-An account with PayPal is not necessary.
-
-Because of the transaction fee, payment by card is slightly more.
-* Single $67.20
-* Household $92.90
-
-Select the type of membership (click up or down arrow) and then Click the Buy Now Button below
-
-<b> New Members, Please enter your Name, Email Address, Phone No. and Address. </b>
-(This information is shared with League members only.  Please note any items which should not be shared.)
+Select the type of membership, single or family, using the up/down arrow and then click the “Buy Now” button below. <b> New Members, please enter your Name(s), Address, Phone number, and Email Address, in the Description box.</b> (This information is shared with League members only but please indicate any items you do not wish to share.)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

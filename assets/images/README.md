@@ -72,4 +72,15 @@ group_photo - Photo from league event (unknown event), date taken and names of t
 
 2021-09-WSU_Voter_Registration.jpg - Collage of Cougs Vote registration table with Carol Ndambuki, Paul Spencer and Amy Honeywel
 
+2022-05-Artist_12x12_sm.jpg - collage of artist with artwork at Library
+
+2022-09-07-WSU_Voters_signup.jpg - Deb Olsen, Brandon Chapman and Sue Hinz at voter registration signup table on WSU campus.
+
+2022-09-08-Back_To_League_Picnic.jpg - Back to Leauge Picnic collage of participants. 
+
+2022-09-08-Back_to_League_Tricia_Anne.jpeg - Tricia Grantham and Anne Lewis in Selfie frame with art contest artwork.
+
+2022-09-08-Back_to_League_Judy_Karen_Deb_Sue_Mary_Paul.jpeg - Judy Stone, Karen Kisling, Deb Olsen, Sue Hinz, Mary COllins, Paul Spenser
+
+
 
