@@ -2,7 +2,7 @@
 title: Pullman Regional Hospital Updates
 header:
   video:
-    id:
+    id: eGHaaZHN7rw
     provider: youtube
 categories:
   - Evening meeting
