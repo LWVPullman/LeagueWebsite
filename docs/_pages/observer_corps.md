@@ -40,7 +40,7 @@ Pullman Neill Public Library Board – Francy Pavlas Bose (leaving), OBSERVER NE
 
 Pullman-Moscow Regional Airport Board – Krista Gross
 
-Pullman Planning Commission – Jessica Cassleman
+Pullman Planning Commission – Jessica Cassleman, Jeff Joswig-Jones (backup)
 
 Pullman Regional Hospital Board of Commissioners – Judy Stone
 
