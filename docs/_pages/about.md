@@ -29,7 +29,7 @@ The League of Women Voters, a nonpartisan political organization, encourages the
 
 ## New Members
 
-New members are invited to connect with [Judy Stone](mailto:judy.stone.bandaid@gmail.com), our membership chair. New members should check out our [short orientation handout](https://lwvpullman.org/assets/PDFs/OnlineSelfOrientation2022-9.pdf). New members might also be interested in The Pullman League Primer, an online long form orientation resource for new members. [Pullman League of Women Voters Primer](https://lwvpullman.org/assets/PDFs/PrimerRevision-11-2021.pdf) It also contains the Pullman League Bylaws. All members are invited to fill out an [Experience and Interests Survey](https://lwvpullman.org/assets/PDFs/2022-09-Experience_Interests_Survey.pdf) for volunteering opportunities. 
+New members are invited to connect with [Judy Stone](mailto:judy.stone.bandaid@gmail.com), our membership chair. There are two methods for self-orientation offered. One is a short presentation called ["What You Need to Know"](https://lwvpullman.org/assets/PDFs/OnlineSelfOrientation2022-9.pdf). and the  other is The [Pullman League of Women Voters Primer](https://lwvpullman.org/assets/PDFs/PrimerRevision-11-2021.pdf), an online orientation resource manual. It also contains the Pullman League Bylaws. All members are invited to fill out an [Experience and Interests Survey](https://lwvpullman.org/assets/PDFs/2022-09-Experience_Interests_Survey.pdf) for volunteering opportunities. 
 
 ## Organization
 
