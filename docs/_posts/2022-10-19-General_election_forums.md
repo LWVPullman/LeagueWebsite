@@ -2,7 +2,7 @@
 title: General election forums  
 header: 
   video: 
-    id:  
+    id: 5W8T0hGhJRI
     provider: youtube
 categories:
   - Evening meeting
