@@ -10,22 +10,26 @@ categories:
 tags:
   - Brown Bag meeting
   - Shoreline Study
+  - Shoreline Management Act
 ---
 
 # LWVWA Shoreline Study Presentation
 
-Speakers:
-
 Coordinators: Deb Olson and Susan Daniels
 
-Program Description: 
+BrownBag Lunch, Tuesday, November 15, at noon over Zoom
+ 
+Shoreline Management Act:
+ 
+Fifty plus years ago Washington passed the Shoreline Management Act (SMA), one of the first environmental laws in the state. It covers virtually all the shorelines of our state, including rivers, streams, lakes, and wetlands. In 2022 the LWV of Washington made a study to analyze how effective the SMA has been. This meeting will present their findings about its effectiveness, how it has benefitted our shorelines, and issues that impact its application and effectiveness.
 
-[Click here to go to Shoreline Management Act at 56+ Years: Shorelines Study 2022](https://lwvwa.org/resources/Documents/Studies/Shorelines/Final%20Study%20pdf%202.pdf)
 
-[Click here to go to Details of Interviewee Responses to Questions](https://lwvwa.org/resources/Documents/Studies/Shorelines/2_Summary%20of%20Responses%20Table[15879].pdf)
+[Click here to go to Shoreline Management Act at 56+ Years: LWVWA Shorelines Study 2022](https://lwvwa.org/resources/Documents/Studies/Shorelines/Final%20Study%20pdf%202.pdf)
+
+[Click here to go to LWVWA Summary Questions](https://lwvwa.org/resources/Documents/Studies/Shorelines/2_Summary%20of%20Responses%20Table[15879].pdf)
  
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/202-11-15-shoreline_study.jpg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-11-15-shoreline_study.jpg)
 
 [Join us on Zoom](https://us02web.zoom.us/j/82085458531?pwd=WGtwUmlNQ3JlZ25lS3pIcENYNllGdz09)
 
@@ -39,10 +43,6 @@ One tap mobile
 Dial by your location
 Find your local number: https://us02web.zoom.us/u/kcAEur0viG
 
-
-
-Dial by your location
-Find your local number: https://us02web.zoom.us/u/kcxqHrHr7
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
