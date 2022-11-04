@@ -21,18 +21,11 @@ Program Description:
 
 Pullman League of Women Voters is sponsoring an evening presentation on “The State of Our Economy” November 3 at 7 PM.  This will be Zoom presentation.
 
-Do you have questions or concerns about the state of our national, state, and local economies? The League of Women Voters of Pullman will host a panel of experts to address these issues on November 3, 2022 at 7:00 PM over Zoom.  The Zoom link can be found on the League webpage: lwvpullman.org under “Join Us for Our Events.”
- 
-Our guests include Phil Watson and Timothy Nadreau. Dr. Watson is Professor of Applied Economics at the University of Idaho. He conducts research on regional economic development, economic policy analysis and has published extensively on these topics.   Dr. Watson will address general economic trends in Whitman County and inflationary trends nationally and in Washington State.
-
-Dr, Nadreau serves as an Assistant Research Professor at Washington State University's IMPACT Center. He is the managing editor of Washington Agribusiness: Status and Outlook.  Currently he consults of a range of regional economic development issues.
-
+Do you have questions or concerns about the state of our national, state, and local economies? The League of Women Voters of Pullman will host a panel of experts to address these issues on November 3, 2022 at 7:00 PM over Zoom.  Our guests include Phil Watson and Timothy Nadreau. Dr. Watson is Professor of Applied Economics at the University of Idaho. 
 
 Dr.Watson is currently a Professor of Applied Economics at the University of Idaho.  He conducts research on regional economic development, economic policy analysis, and general applied economics and has published extensively on these topics. He has previously worked for the U.S. Department of Commerce and the U.S. Department of Agriculture and has taught courses at the University of Idaho, Colorado State University, Washington State University and the University of Cordoba in Spain.
- 
  
 Dr. Nadreau.  During the academic year he serves as an Assistant Research Professor at Washington State University’s IMPACT Center.  He is the managing editor of Washington Agribusiness: Status and Outlook report where he co-authors the “Macroeconomic Outlook.” He has been an instructor and curriculum designer in NYU’s School of Professional Sciences.  Currently Dr. Nadreau consults on a range of regional economic development initiatives.  He has completed studies on everything from Native American wines to electricity transmission to housing studies.
-
 
 
 [Join us on Zoom](https://us02web.zoom.us/j/81406778709?pwd=QmZUYlpaVEFxRHlTc1Fwd01KODJXQT09)
