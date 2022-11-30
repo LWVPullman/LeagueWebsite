@@ -5,8 +5,8 @@ layout: archive
 author_profile: true
 excerpt: "The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies."
 top_image:
-  - url: /assets/images/2022-09-Observer_committee_members.jpg
-    image_path: /assets/images/2022-09-Observer_committee_members.jpg
+  - url: /assets/images/2023-01-Observer_Corps_team.jpg
+    image_path: /assets/images/2023-01-Observer_Corps_team.jpg
     alt: "Picture of observer corp committee members"
 article1:
   - url: /assets/images/ObsArticle1.jpg
@@ -36,7 +36,7 @@ Pullman Arts Commission – Uta Hutnak
 
 Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
-Pullman Neill Public Library Board – Francy Pavlas Bose (leaving), OBSERVER NEEDED
+Pullman Neill Public Library Board – Francy Pavlas Bose (would like to be replaced), OBSERVER NEEDED
 
 Pullman-Moscow Regional Airport Board – Krista Gross
 
