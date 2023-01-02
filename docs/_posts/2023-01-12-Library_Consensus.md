@@ -1,5 +1,5 @@
 ---
-title: Library Consensus 
+title: Library Consensus & State Program Planning Meeting 
 header:
   video:
     id: 
@@ -10,30 +10,35 @@ categories:
 tags:
   - meeting
   - Library Consensus
-  - state planning
+  - state planning meeting
 ---
 
 # Library Consensus & State Program Planning Meeting
 
-Coordinators:  Alice Schroeder, Anne Lewis, Tricia Granthem
+Coordinators:  Alice Schroeder, Paul Spencer, Tricia Granthem
 
 Program Description: 
 
-The League of Women Voters Pullman will hold a Library Consensus and State Program Planning
-meeting on THURSDAY, JANUARY 12 TH @ 11:30 AM.
+PLANNING MEETING ~ WE NEED YOUR IDEAS!
 
-Please plan for at least 2 hours of robust conversation!
+Please join the League of Women Voters Pullman as we answer Library Study Consensus questions. Your
+input will enable us to develop stronger positions to advocate for Neill Public Library &amp; the Whitman
+County Libraries. *The Library Study and consensus questions will be e-mailed to all members the first
+week of January. The Study should take no more than an hour to read.*
 
-LOCATION: COMMUNITY CONGREGATIONAL UNITED CHURCH OF CHRIST
-525 NE CAMPUS ST, PULLMAN, WA
+Then…you will have a great opportunity to learn more about and give suggestions for State League
+projects and studies. We will be generating ideas for advocacy and actions for our local League and for
+submission to the State Convention in May.
 
-ADDITIONAL INFORMATION WILL BE PROVIDED PRIOR TO THE 12th. 
-Please join us because we need and value your input!
+WHEN: THURSDAY, JANUARY 12, 2023, 11:30-1:30
+WHERE: CONGREGATIONAL UNITED CHURCH OF CHRIST, 525 NE CAMPUS ST., PULLMAN
+
+*Beverages and paper goods provided. If you are so moved, please bring a salad or dessert to share. 
+Any other study materials will be made available prior to the 12 th .
 
 This event has been re-scheduled from Thursday, January 5th.
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
