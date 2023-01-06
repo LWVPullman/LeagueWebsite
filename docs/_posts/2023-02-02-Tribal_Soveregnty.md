@@ -24,6 +24,15 @@ Neoshia R. Roemer, an Assistant Professor at the University of Idaho College of 
 
 Neoshia R. Roemer is an Assistant Professor at the University of Idaho College of Law where she teaches family law. Neoshia’s areas of interest include domestic violence, child welfare, LGBTQ issues, and the Indian Child Welfare Act. Prior to joining the faculty at Idaho, Neoshia worked as the Fellow and, later, Staff Attorney for the Indigenous Law & Policy Center at the Michigan State University College of Law. There, she mentored first year American Indian law students, worked on appellate litigation involving the Indian Child Welfare Act, and coached moot court among various other tasks. 
 
+[Join us on Zoom](https://us02web.zoom.us/j/84814265155?pwd=MXZRTEVmQzZRdXQ4S055Q1NqR1lOZz09)
+
+Meeting ID: 848 1426 5155
+Passcode: 550867
+
+One tap mobile +12532158782,,84814265155#,,,,*550867# US (Tacoma)
+
+Dial by your location
+Find your local number: [https://us02web.zoom.us/u/kcvEbPLkUm](https://us02web.zoom.us/u/kcvEbPLkUm)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
 
