@@ -24,9 +24,18 @@ From the comfort of your own home or office, please join us to learn more about 
 
 WHEN: TUESDAY, JANUARY 17, 2023, 12:00PM-1:00PM
 
-Zoom link will be available soon.
+[Join us on Zoom](https://us02web.zoom.us/j/84744020064?pwd=QzhVRFBSNTAxYnU5UnlOK01MMjZpQT09)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-01-17-Ellsworth_AWPHD.png
+Meeting ID: 847 4402 0064
+
+Passcode: 813142
+
+One tap mobile +12532050468,,84744020064#,,,,*813142# US
+
+Dial by your location
+Find your local number: [https://us02web.zoom.us/u/kbhSnLZPd5](https://us02web.zoom.us/u/kbhSnLZPd5)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-01-17-Ellsworth_AWPHD.png)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
