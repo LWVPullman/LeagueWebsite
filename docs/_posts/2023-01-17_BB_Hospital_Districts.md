@@ -36,8 +36,7 @@ Passcode: 813142
 One tap mobile +12532050468,,84744020064#,,,,*813142# US
 
 Dial by your location
-Find your local number: [https://us02web.zoom.us/u/kcxqHrHr7](https://us02web.zoom.us/u/kbhSnLZPd5
-)
+Find your local number: [https://us02web.zoom.us/u/kbhSnLZPd5](https://us02web.zoom.us/u/kbhSnLZPd5)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
