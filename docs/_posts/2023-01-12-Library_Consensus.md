@@ -27,7 +27,7 @@ County Libraries. *The Library Study and consensus questions will be e-mailed to
 week of January. The Study should take no more than an hour to read.  We encourage all members to read through the study and come discuss it to help formulate new positions.
 
 [Click here for the study - Public Libraries in Whitman County, WA: A Study by the Pullman League of Women Voters,
-June 2021-December, 2022](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-01-12-Libraries_Study.pdf)
+June 2021-December, 2022](https://lwvpullman.org/assets/PDFs/2023-01-12-Libraries_Study.pdf)
 
 PLANNING MEETING:
 
