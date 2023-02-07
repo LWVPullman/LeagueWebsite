@@ -1,5 +1,5 @@
 ---
-title: 2023 Visual Arts Competition
+title: Visual Arts Competition
 header:
   video:
     id:
