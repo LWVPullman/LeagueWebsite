@@ -34,10 +34,10 @@ This Art Competition is for students in grades 3-12 to share their artistic tale
 1.	There will be three grade groupings:  Grades 3-5, Grades 6-8, Grades 9-12.
 2.	Artwork must be an original piece, completed solely by the participant.
 3.	Art materials allowed may include but not limited to crayons, colored pencils, markers, pen and ink, pastels, paints, charcoal, collage, photography, mixed media, digital media, clay, plaster, wood, stone, cloth, cardboard, etc.  No videos or images in motion.
-4.	2-Dimentional artwork is not to exceed the size of 11 x 17 inches.  3-Dimentional artwork is not to exceed the size of 1cubic foot.
+4.	2-Dimensional artwork is not to exceed the size of 11 x 17 inches.  3-Dimensional artwork is not to exceed the size of 1 cubic foot.
 5.	No names, including the artist, are to appear anywhere on the artwork.  
 6.	The entry form must be filled out completely and accompany the artwork.
-7.	Judges appointed by the LWVP will evaluate artwork based on creative interpterion of theme.  
+7.	Judges appointed by the LWVP will evaluate artwork based on creative interpretation of theme.  
 8.	By signing the form to submit the artwork, you are granting the LWV of Pullman full rights to use artwork for website, social media, and educational purposes.  
 
 **Prizes:**
