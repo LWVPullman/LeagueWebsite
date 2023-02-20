@@ -2,7 +2,7 @@
 title: Tribal Sovereignty 
 header:
   video:
-    id: 
+    id: sGgEjHDF9sk
     provider: youtube
 categories:
   - Evening meeting
