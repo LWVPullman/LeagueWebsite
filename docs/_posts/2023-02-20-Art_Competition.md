@@ -12,7 +12,7 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **The launch date for this Competition will be on Presidents' Day, February 20, 2023** </span>
+<span style="color:red; font-size:1em;"> **All entries are due by March 31, 2023** </span>
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-02-20-Art_Comp_coverphoto.jpg)
 
