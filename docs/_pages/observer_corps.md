@@ -30,9 +30,7 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 {% include feature_row id="article1" type="center" %}
 
-## The League is currently observing 7 City and 4 County entities with 13 observers!
-
-Pullman Arts Commission – Uta Hutnak
+## The League is currently observing 6 City and 2 County entities with 10 observers!
 
 Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
@@ -40,7 +38,7 @@ Pullman Neill Public Library Board – Francy Pavlas Bose (would like to be repl
 
 Pullman-Moscow Regional Airport Board – Krista Gross
 
-Pullman Planning Commission – Jessica Cassleman, Jeff Joswig-Jones (backup)
+Pullman Planning Commission – Jessica Cassleman, Stephanie MacCullough (backup)
 
 Pullman Regional Hospital Board of Commissioners – Judy Stone
 
@@ -59,8 +57,9 @@ If you are looking for a way to become involved in your League by observing the 
 
 ## Observer Corps Calendar
 
+* [December 2022](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-03-Obs_Calendar.pdf)
 * [January 2023](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-01-Obs_Calendar.pdf)
-* [December 2022](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2022-12-Obs_Calendar.pdf)
+
 
 
 ## Observer Report Form
