@@ -23,7 +23,7 @@ The Pullman League of Women voters can frequently be found in the news! We do a 
 
 The League is frequently in the [Pullman Community Update](https://pullmanchamber.com/live-in-pullman/pullman-community-update/) including having our own editorials.
 
-![picture of the LWVP editorial page in the October issue of the Pullman Community Update]({{ site.url }}{{ site.baseurl }}/assets/images/2022-10-Community_Update.png)
+![picture of the LWVP editorial page in the March 2023 issue of the Pullman Community Update]({{ site.url }}{{ site.baseurl }}/assets/images/2023-03-Community_Update.png)
 
 
 [The LWV of Pullman’s Board of the Whole](https://lwvwa.org/page-18629/12767181) by Bobbie Ryder, president of LWV of Pullman.  Published in LWVWA's [The Voter 04 May 2022](https://mailchi.mp/lwvwa/this-month-in-league-updates-for-lwvwa-members-2699001?e=90299d6972) issue.
