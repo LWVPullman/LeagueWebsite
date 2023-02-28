@@ -24,10 +24,7 @@ Please join the League of Women Voters of Pullman as we respond to the Decline o
 DATE: THURSDAY, MARCH 2, 2023
 TIME: 7:00 VIA ZOOM*
 
-Zoom meeting link
-https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09
-
-
+This is a members only meeting.  Members are emailed the meeting details.
 
 Below is a link to the State League Study in its entirety.  If you are short on time, the Executive Summary will provide you with a helpful overview of the study.
 
