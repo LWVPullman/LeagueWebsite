@@ -24,6 +24,11 @@ Please join the League of Women Voters of Pullman as we respond to the Decline o
 DATE: THURSDAY, MARCH 2, 2023
 TIME: 7:00 VIA ZOOM*
 
+Zoom meeting link
+https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09
+
+
+
 Below is a link to the State League Study in its entirety.  If you are short on time, the Executive Summary will provide you with a helpful overview of the study.
 
 [The Decline of Local News and Its Impact on Democracy: The LWVWA Study](https://www.lwvwa.org/resources/Documents/Studies/LocalNews/Decline%2036.pdf)
