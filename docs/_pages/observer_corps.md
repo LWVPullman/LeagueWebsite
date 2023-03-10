@@ -5,8 +5,8 @@ layout: archive
 author_profile: true
 excerpt: "The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies."
 top_image:
-  - url: /assets/images/2022-09-Observer_committee_members.jpg
-    image_path: /assets/images/2022-09-Observer_committee_members.jpg
+  - url: /assets/images/2023-01-Observer_Corps_team.jpg
+    image_path: /assets/images/2023-01-Observer_Corps_team.jpg
     alt: "Picture of observer corp committee members"
 article1:
   - url: /assets/images/ObsArticle1.jpg
@@ -30,17 +30,15 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 {% include feature_row id="article1" type="center" %}
 
-## The League is currently observing 7 City and 4 County entities with 13 observers!
-
-Pullman Arts Commission – Uta Hutnak
+## The League is currently observing 6 City and 2 County entities with 10 observers!
 
 Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
-Pullman Neill Public Library Board – Francy Pavlas Bose (leaving), OBSERVER NEEDED
+Pullman Neill Public Library Board – Francy Pavlas Bose (would like to be replaced), OBSERVER NEEDED
 
 Pullman-Moscow Regional Airport Board – Krista Gross
 
-Pullman Planning Commission – Jessica Cassleman
+Pullman Planning Commission – Jessica Cassleman, Stephanie MacCullough (backup)
 
 Pullman Regional Hospital Board of Commissioners – Judy Stone
 
@@ -59,10 +57,10 @@ If you are looking for a way to become involved in your League by observing the 
 
 ## Observer Corps Calendar
 
-* [November 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/schedule-December-2021.pdf)
-* [November 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Schedule-November-2021.pdf)
-* [October 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Schedule-October-2021.pdf)
-* [September 2021](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Schedule-September-2021.pdf)
+* [March 2023](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-03-Obs_Calendar.pdf)
+* [January 2023](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-01-Obs_Calendar.pdf)
+
+
 
 ## Observer Report Form
 
