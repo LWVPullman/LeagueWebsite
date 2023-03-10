@@ -16,7 +16,7 @@ The League is frequently in the [Pullman Community Update](https://pullmanchambe
 
 ## Know Your Government
 
-A directory of elected and appointed officials in Whitman County (https://lwvpullman.org/docs/_pages/voter_info/TRY 3-2023.pdf)
+A directory of elected and appointed officials in Whitman County (https://lwvpullman.org/docs/_pages/voter_info/TRY3-2023.pdf)
 
 
 ## The Voter Newsletter
