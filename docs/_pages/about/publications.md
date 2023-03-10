@@ -10,7 +10,7 @@ The Pullman League of Women voters can frequently be found in the news! We do a 
 
 ## Know Your Government
 
-A directory of elected and appointed officials in Whitman County  (https://lwvpullman.org/docs/_pages/voter_info/TRY3-2023.pdf)
+A directory of elected and appointed officials in Whitman County [Know Your Government](https://lwvpullman.org/docs/_pages/voter_info/TRY3-2023.pdf).
 
 ## The Voter Newsletter
 
