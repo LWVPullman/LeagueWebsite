@@ -3,7 +3,7 @@
 League:
   name        : "League of Women Voters of Pullman"
   bio         : "Making Democracy Work"
-  avatar      : "/assets/images/LWV round logo.jpg"
+  avatar      : "/assets/images/LWVroundlogo.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
