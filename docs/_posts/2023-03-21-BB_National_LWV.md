@@ -1,5 +1,5 @@
 ---
-title: National LWV Speaker TBD
+title: National LWV Speaker
 header: 
   video: 
     id:  
@@ -9,9 +9,10 @@ categories:
   - Monthly meeting
 tags:
   - Brown Bag meeting
+  - National LWV
 ---
 
-# National LWV Speaker TBD
+# National LWV Speaker
 
 Speaker: Liz Bander, current LWVWA Board Member & Former LWVUS Board Member
 
@@ -25,12 +26,12 @@ Zoom at Noon on Tuesday, March 21, 2023
 
 [Join the Zoom meeting here!](https://us02web.zoom.us/j/84597154973?pwd=U29zamVIeFVEV0xidHFrZGkzV2FXUT09)
 
-Meeting ID: 835 8061 4861
-Passcode: 194623
+Meeting ID: 845 9715 4973
+Passcode: 111115
 
 [One tap mobile](tel:+12532158782) US (Tacoma)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-03-21-LWVWA_US_BB.jpg)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
