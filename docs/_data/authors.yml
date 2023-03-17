@@ -1,9 +1,9 @@
 # Authors
 
 League:
-  name        : "League Of Women Voters of Pullman"
+  name        : "League of Women Voters of Pullman"
   bio         : "Making Democracy Work"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/LWVroundlogo.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
