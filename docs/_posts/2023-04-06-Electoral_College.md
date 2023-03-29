@@ -30,7 +30,7 @@ Passcode: 906666
 
 [One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-06-Electoral_college.jpg)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
