@@ -24,7 +24,7 @@ If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 <b>Annual Membership Dues: </b>
 
-The annual membership program begins on September 1st.  Annual dues are due in September.   However, if you are joining after March 1 and before September 1, you pay one half of the annual dues for that current program year.
+The annual membership program begins on September 1st. Annual dues are due in September. However, if you are joining after February 1 and before June 30, you pay one half of the annual dues for that current program year. If you are joining in July or August, you will not pay dues until September, the start of the next program year.   
 * Single membership $65 ($67.20 with credit card transaction fee)
 * Household Membership (2 people) $90 ($92.90 with credit card transaction fee)
 * Students and Lifetime Members are FREE! (Must join by mail or email)
