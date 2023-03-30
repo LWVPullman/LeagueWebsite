@@ -32,15 +32,17 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 ## The League is currently observing 6 City and 2 County entities with 10 observers!
 
+Observer Team Leader - VOLUNTEER NEEDED
+
 Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
-Pullman Neill Public Library Board – Francy Pavlas Bose (would like to be replaced), OBSERVER NEEDED
+Pullman Neill Public Library Board – Alice Schroeder, Francy Pavlas Bose (backup)
 
 Pullman-Moscow Regional Airport Board – Krista Gross
 
 Pullman Planning Commission – Jessica Cassleman, Stephanie MacCullough (backup)
 
-Pullman Regional Hospital Board of Commissioners – Judy Stone
+Pullman Regional Hospital Board of Commissioners – OBSERVER NEEDED
 
 Pullman School District Board of Directors – Carol Ndambuki
 
@@ -53,7 +55,7 @@ Whitman County Solid Waste Advisory Committee – Deb Olson
 Port of Whitman County Commissioners – OBSERVER NEEDED
 
 ## Becoming an Observer
-If you are looking for a way to become involved in your League by observing the business conducted by a local governmental entity, please check out the Observer Corp Guidelines and  contact [Judy Stone](mailto:judy.stone.bandaid@gmail.com) at judy.stone.bandaid@gmail.com.
+If you are looking for a way to become involved in your League by observing the business conducted by a local governmental entity, please check out the Observer Corp Guidelines. Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 ## Observer Corps Calendar
 
