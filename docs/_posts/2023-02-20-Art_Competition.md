@@ -12,7 +12,7 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **All entries are due by March 31, 2023** </span>
+<span style="color:red; font-size:1em;"> **This competition has ended.  All entries have been collected and will be displayed at Neill Public Library starting April 10th.  Winners will be announced April 15th.  Artists’ Reception will be held at Neill Public Library on Earth Day, April 22, from 2:00-4:00 pm.** </span>
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-02-20-Art_Comp_coverphoto.jpg)
 
