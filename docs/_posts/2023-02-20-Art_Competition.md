@@ -14,6 +14,10 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition has ended.  All entries have been collected and will be displayed at Neill Public Library starting April 10th.  Winners will be announced April 15th.  Artists’ Reception will be held at Neill Public Library on Earth Day, April 22, from 2:00-4:00 pm.** </span>
 
+A sneek-peek of all 40 entires...
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-10-artwork_collage.JPG)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-02-20-Art_Comp_coverphoto.jpg)
 
 Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Krista Gross, Tricia Grantham, Stephanie MacCulloch
@@ -92,7 +96,9 @@ We have a small group of league volunteers who are prepared to give in-person pr
 
 ## Judges
 
-The judges will be appointed by the LWV of Pullman (Whitman County).  The judges will evaluate the submitted artwork based on creative interpretation of the theme.  We will be using [RANKED CHOICE VOTING](https://www.rankedvote.co/) to determine the winners.  
+The judges are appointed by the LWV of Pullman (Whitman County).  They have qualifications in three areas; having knowledge in Government, Art and Environment.  The judges evaluate the submitted artwork based on creative interpretation of the theme.  We will be using [RANKED CHOICE VOTING](https://www.rankedvote.co/) to determine the winners.
+
+[Click here for the Panel of Judges for 2023](https://lwvpullman.org/assets/PDFs/2023-04-10-Judge_panel.pdf)
 
 ## Past Competitions
 [2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/)
