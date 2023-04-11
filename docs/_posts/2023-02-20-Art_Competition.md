@@ -14,6 +14,10 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition has ended.  All entries have been collected and will be displayed at Neill Public Library starting April 10th.  Winners will be announced April 15th.  Artists’ Reception will be held at Neill Public Library on Earth Day, April 22, from 2:00-4:00 pm.** </span>
 
+Judging in progress...
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-10-Judging_collage.jpg)
+
 A sneek-peek of all 40 entires...
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-10-artwork_collage.JPG)
