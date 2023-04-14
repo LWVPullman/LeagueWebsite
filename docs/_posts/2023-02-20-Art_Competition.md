@@ -14,7 +14,8 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **All entries have been collected and are now on displayed at Neill Public Library.  Winners will be announced on April 15th.  Artists’ Reception will be held at Neill Public Library on Earth Day, April 22, from 2:00-4:00 pm.** </span>
 
-Judging in progress...
+Judges reviewing and voting. 
+[Click here for the Panel of Judges for 2023](https://lwvpullman.org/assets/PDFs/2023-04-10-Judge_panel.pdf)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-10-Judging_collage.jpg)
 
