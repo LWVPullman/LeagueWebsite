@@ -82,5 +82,6 @@ group_photo - Photo from league event (unknown event), date taken and names of t
 
 2022-09-08-Back_to_League_Judy_Karen_Deb_Sue_Mary_Paul.jpeg - Judy Stone, Karen Kisling, Deb Olsen, Sue Hinz, Mary COllins, Paul Spenser
 
+2023-04-10-Judging_collage.jpg - judges for 2023 VIsual Arts Comp, Francis Benjamin,Megan Guido, Nathan Weller, Holly Ashkannejhad, Rob McPherson, Mason Hines Burns, Allison Munch-Rotolo, Annette Bridges
 
 

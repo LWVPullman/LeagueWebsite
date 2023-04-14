@@ -12,7 +12,7 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This competition has ended.  All entries have been collected and will be displayed at Neill Public Library starting April 10th.  Winners will be announced April 15th.  Artists’ Reception will be held at Neill Public Library on Earth Day, April 22, from 2:00-4:00 pm.** </span>
+<span style="color:red; font-size:1em;"> **All entries have been collected and are now on displayed at Neill Public Library.  Winners will be announced on April 15th.  Artists’ Reception will be held at Neill Public Library on Earth Day, April 22, from 2:00-4:00 pm.** </span>
 
 Judging in progress...
 
