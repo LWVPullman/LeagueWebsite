@@ -6,7 +6,6 @@ header:
     provider: youtube
 categories:
   - Art Competition
-  - Visual Arts Competition
   - Civics Education
 tags:
   - Art Competition
