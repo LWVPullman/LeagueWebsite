@@ -10,7 +10,6 @@ categories:
   - Civics Education
 tags:
   - Art Competition
-  - Visual Arts Competition
   - Civics Education
 
 ---
