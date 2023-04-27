@@ -42,7 +42,7 @@ Pullman-Moscow Regional Airport Board – Krista Gross
 
 Pullman Planning Commission – Jessica Cassleman, Stephanie MacCullough (backup)
 
-Pullman Regional Hospital Board of Commissioners – OBSERVER NEEDED
+Pullman Regional Hospital Board of Commissioners – Lennis Boyer
 
 Pullman School District Board of Directors – Carol Ndambuki
 
