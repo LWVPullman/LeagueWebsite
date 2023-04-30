@@ -63,12 +63,18 @@ If you are looking for a way to become involved in your League by observing the 
 * [January 2023](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-01-Obs_Calendar.pdf)
 
 
-
 ## Observer Report Form
 
 Observers use this form to complete their reports.
 
-[Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
+[Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-04-06-New_Obs_report_form.pdf)
+
+## Abbreviated LWV Positions
+
+Observers can use these abbreviated positions to help with topics in the report that the League may be interested in and may want to take action on.
+
+[Abbreviated Leauge Positions](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-04-Abbreviated_LWV_Positions.pdf)
+
 
 ## Observer Corps Reports
 
