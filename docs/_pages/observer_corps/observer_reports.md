@@ -90,6 +90,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman/Moscow Regional Airport Board Observer Report 2021-9-22](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2021-9-22-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2021-10-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2021-10-27-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2022-4-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2022-4-27-Pub.pdf)
+* [Pullman/Moscow Regional Airport Board Observer Report 2023-4-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2023-4-26-Pub.pdf)
 
 ## Pullman Regional Hospital
 
