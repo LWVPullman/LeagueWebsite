@@ -66,6 +66,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Neill Public Library Board Observer Report 2022-04-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2022-4-13-Pub.pdf)
 * [Neill Public Library Board Observer Report 2022-09-14](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2022-9-14-Pub.pdf)
 * [Neill Public Library Board Observer Report 2022-10-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2022-10-12-Pub.pdf)
+* [Neill Public Library Board Observer Report 202-4-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2023-4-12-Pub.pdf)
 
 ## Pullman Planning Commission
 
