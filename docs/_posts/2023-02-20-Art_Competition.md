@@ -12,7 +12,9 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition! All entries are on displayed at Neill Public Library. Artists Reception and Awards Ceremony will be held at Neill Public Library on Earth Day, April 22, from 2:00-4:00 pm. All artists, their families, and the public are invited to attend.** </span>
+<span style="color:red; font-size:1em;"> **Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition! The League distributed certificates and donated consolation prizes to most of the artists that participated in the competition.  If you were unable to meet us to pick these up please send an email to joswigjones@gmail.com to make arrangements.  We would love to have pictures of all of our artists if possible.   Check back here over the next couple of weeks to see artwork and photos of artistts posted here and on Instagram/Facebook.** </span>
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-winning_artists_collage.jpg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-Winners_collage.jpg)
 
