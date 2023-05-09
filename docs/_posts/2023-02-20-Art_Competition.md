@@ -19,6 +19,11 @@ The top two winners in each grade group goes to, starting at the top left, Lydia
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-Winners_collage.jpg)
 
+A great turn out on Earth Day to see all the artwork and to award the student artists. 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-Artists_Recption_collage.jpg)
+
+[Click here for the Artists Reception recording on our YouTube Channel.](https://www.youtube.com/watch?v=mZ37r4kKKxU)
+
 Judges reviewing and voting. 
 [Click here for the Panel of Judges for 2023](https://lwvpullman.org/assets/PDFs/2023-04-10-Judge_panel.pdf)
 
