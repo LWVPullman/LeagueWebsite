@@ -12,9 +12,11 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition! The League distributed certificates and donated consolation prizes to most of the artists that participated in the competition.  If you were unable to meet us to pick these up please send an email to joswigjones@gmail.com to make arrangements.  We would love to have pictures of all of our artists if possible.   Check back here over the next couple of weeks to see artwork and photos of artistts posted here and on Instagram/Facebook.** </span>
+<span style="color:red; font-size:1em;"> **Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition!  If you were unable to meet us to pick up your certificate and wooden pencil holder please send an email to joswigjones@gmail.com to make arrangements.  We would love to have pictures of all of our artists if possible.   Artwork and photos of artists will be posted here and on Instagram/Facebook over the next couple of weeks.** </span>
 
-The top two winners in each grade group goes to, starting at the top left, Lydia Park grade 11, Eshaan Syed grade 6, Anekah Mcbride grade 9, Winnie grade 6, Kaitlin grade 4, William grade 3, and Committee’s Choice Award goes to Saja Akasha, Grade 7.
+[Click here for a PowerPoint presetnation of all the eARTh Art Artwork](https://docs.google.com/presentation/d/1e4GBRZ1NmJkmzbQdOAvpEZLPCRqW9UEe_dPbrW7NHkU/edit?usp=sharing)
+
+The top two winners in each grade group goes to, starting at the top left, Lydia Park grade 11, Eshaan Syed grade 6, Anekah Mcbride grade 9, Winnie grade 6, Kaitlin grade 4, William grade 3, and Committee’s Choice Award goes to Saja Akasha, Grade 7.  This photo collage is has been accepted in the Inland 360 Share Your Snaps community photo album.  [Check it out here.](https://www.inland360.com/lewiston-moscow//Image/index?oid=)
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-winning_artists_collage.jpg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-Winners_collage.jpg)
@@ -23,6 +25,10 @@ A great turn out on Earth Day to see all the artwork and to award the student ar
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-Artists_Recption_collage.jpg)
 
 [Click here for the Artists Reception recording on our YouTube Channel.](https://www.youtube.com/watch?v=mZ37r4kKKxU)
+
+Moscow-Pullman Daily News article by Emily Pearce, Daily News staff writer, Apr 22, 2023;
+LWV opens civics dialogue through ‘eARTh Art.’ League of Women Voters of Pullman prompts civics conversation through art competition.
+[Click here to view the article.](https://dnews.com/local/lwv-opens-civics-dialogue-through-earth-art/article_36f16742-2943-5700-8ee6-52702c08699c.html)
 
 Judges reviewing and voting. 
 [Click here for the Panel of Judges for 2023](https://lwvpullman.org/assets/PDFs/2023-04-10-Judge_panel.pdf)
