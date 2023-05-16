@@ -12,11 +12,13 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition!  If you were unable to meet us to pick up your certificate and wooden pencil holder please send an email to joswigjones@gmail.com to make arrangements.  We would love to have pictures of all of our artists if possible.   Artwork and photos of artists will be posted here and on Instagram/Facebook over the next couple of weeks.** </span>
+<span style="color:red; font-size:1em;"> **Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition and to the families and community for their support.** </span>
+
+All 40 pieces of eARTh Art will be displayed at the [3 Forks River & Arts Festival on Saturday, May 20, 2023. (Click here)](https://pullmanchamber.com/events/3forks/)  The website has an interactive map for the Artwalk and location of other ativties.
 
 [Click here for a PowerPoint presetnation of all the eARTh Art Artwork](https://docs.google.com/presentation/d/1e4GBRZ1NmJkmzbQdOAvpEZLPCRqW9UEe_dPbrW7NHkU/edit?usp=sharing)
 
-The top two winners in each grade group goes to, starting at the top left, Lydia Park grade 11, Eshaan Syed grade 6, Anekah Mcbride grade 9, Winnie grade 6, Kaitlin grade 4, William grade 3, and Committee’s Choice Award goes to Saja Akasha, Grade 7.  This photo collage is has been accepted in the Inland 360 Share Your Snaps community photo album.  [Check it out here.](https://www.inland360.com/lewiston-moscow//Image/index?oid=)
+The top two winners in each grade group goes to, starting at the top left, Lydia Park grade 11, Eshaan Syed grade 6, Anekah Mcbride grade 9, Winnie grade 6, Kaitlin grade 4, William grade 3, and Committee’s Choice Award goes to Saja Akasha, Grade 7.  This photo collage has been accepted in the Inland 360 Share Your Snaps community photo album.  [Check it out here.](https://www.inland360.com/lewiston-moscow//Image/index?oid=) The winners' collage also made the Moscoa-Pullman Daily Newspaper on May 16th. [Check it out here.](https://dnews.com/reader_photo/art-contest-winners/article_06f05c9b-666c-5876-891b-090c67670c29.html)
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-winning_artists_collage.jpg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-Winners_collage.jpg)
