@@ -12,9 +12,12 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition and to the families and community for their support.** </span>
+<span style="color:red; font-size:1em;"> **This competition has ended!  The next competition will be launched on President’s Day, 2024. ** </span>
 
-All 40 pieces of eARTh Art will be displayed at the [3 Forks River & Arts Festival on Saturday, May 20, 2023. (Click here)](https://pullmanchamber.com/events/3forks/)  The website has an interactive map for the Artwalk and location of other ativties.
+Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition. Thank you to the artists, their families, Whitman County Library, and Neill Public Library for supporting this program.
+
+All 40 pieces of eARTh Art were displayed at the 3 Forks River & Arts Festival in downtown Pullman on Saturday, May 20, 2023.
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-20-3ForksArtFest.jpg)
 
 [Click here for a PowerPoint presetnation of all the eARTh Art Artwork](https://docs.google.com/presentation/d/1e4GBRZ1NmJkmzbQdOAvpEZLPCRqW9UEe_dPbrW7NHkU/edit?usp=sharing)
 
