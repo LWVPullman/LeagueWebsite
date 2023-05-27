@@ -14,7 +14,7 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This Competition has ended!** </span>
 
-Thank you to the artists and their families and the Whitman County and Neill Public Libraries for supporting this program.  All of the artists and their artwork will be posted here soon. Below are the top seven entries which recieved the prizes.
+Thank you to the artists and their families and the Whitman County and Neill Public Libraries for supporting this program.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2022-04-Winners_poster.jpg)
 
