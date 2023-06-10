@@ -37,8 +37,10 @@ d. Complete financial estimates of each option should be made available when con
 
 7. **City Government**: Support of the principle of separation of administrative and policy-making functions.
 
-8. **Library Services**:
-The League of Women Voters of Pullman finds public libraries, especially Neill Public Library in Pullman and the Whitman County Rural Libraries, to be essential public services. 
+8. **Library Services. Support**:
+a. equitable salaries for library employees in comparison with other city employees,
+b. additional sources of funding and any expansion to maintain at least the present level of services, and
+c. cooperative relationships with other area libraries while maintaining local autonomy.
 
 9. **Addressing Poverty in Whitman County**:
 **General Statement**:
