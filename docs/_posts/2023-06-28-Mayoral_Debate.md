@@ -36,9 +36,20 @@ Passcode: 864247
 [One tap mobile](tel:+12532158782) US (Tacoma)
 
 
-Election Day is August 1st.
 
-Ballots will be mailed on July 14th.
+# Election Day is August 1st.   Ballots will be mailed on July 14th.
+
+Election Day:  Tuesday, August 1, 2023
+
+Election Type: Primary
+
+Registration Deadlines:
+
+* By Mail: Monday, July 24, 2023 (received)
+
+* In Person: Tuesday, August 1, 2023
+
+* Online: Monday, July 24, 2023
 
 If you are not registered or have moved since the last election, the last day to register by mail or online (votewa.gov) is July 24.
 

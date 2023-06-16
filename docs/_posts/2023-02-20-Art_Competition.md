@@ -16,10 +16,10 @@ tags:
 
 Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition. Thank you to the artists, their families, Whitman County Library, and Neill Public Library for supporting this program.
 
+[Click here for a PowerPoint presentation of all the eARTh Art Artwork](https://docs.google.com/presentation/d/1e4GBRZ1NmJkmzbQdOAvpEZLPCRqW9UEe_dPbrW7NHkU/edit?usp=sharing)
+
 All 40 pieces of eARTh Art were displayed at the 3 Forks River & Arts Festival in downtown Pullman on Saturday, May 20, 2023.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-20-3ForksArtFest.jpg)
-
-[Click here for a PowerPoint presetnation of all the eARTh Art Artwork](https://docs.google.com/presentation/d/1e4GBRZ1NmJkmzbQdOAvpEZLPCRqW9UEe_dPbrW7NHkU/edit?usp=sharing)
 
 The top two winners in each grade group goes to, starting at the top left, Lydia Park grade 11, Eshaan Syed grade 6, Anekah Mcbride grade 9, Winnie grade 6, Kaitlin grade 4, William grade 3, and Committee’s Choice Award goes to Saja Akasha, Grade 7.  This photo collage has been accepted in the Inland 360 Share Your Snaps community photo album.  [Check it out here.](https://www.inland360.com/lewiston-moscow//Image/index?oid=) The winners' collage also made the Moscow-Pullman Daily Newspaper on May 16th. [Check it out here.](https://dnews.com/reader_photo/art-contest-winners/article_06f05c9b-666c-5876-891b-090c67670c29.html)
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-winning_artists_collage.jpg)
