@@ -19,27 +19,14 @@ Coordinators: Deborah Olson
 
 Program Description:  
 
-The League of Women Voters of Pullman will be holding a forum for the mayoral primary race on Wednesday June 28 at 7 pm at Neill Public Library.  There will be a primary only for Pullman Mayor, all other races advance to the general election. The three candidates running for mayor are Francis Benjamin, Eileen Macoll and Deb McNeil.
+The League of Women Voters of Pullman held a forum for the mayoral primary race on Wednesday June 28 at 7 pm at Neill Public Library.  There will be a primary only for Pullman Mayor, all other races advance to the general election. The three candidates running for mayor are Francis Benjamin, Eileen Macoll and Deb McNeil.
 
-This event will be in person and live streamed on zoom.
+This event was in person and live streamed on zoom.  The zoom recording will be posted to our YouTube CHannel soon with a link to it on this page. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-06-28-mayor_forum_collage.jpg)
  
- 
-Questions may be addressed to the candidates in person at the forum. Questions can also be submitted by email at least 48 hours ahead of the forum to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) or Deb Olson at [olsonbones@aol.com](mailto:olsonbones@aol.com).
-
-
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/84735592496?pwd=M3hiaTZMaFh1U0dPem1FbzNYWm5Udz09)
-
-Meeting ID: 847 3559 2496
-
-Passcode: 864247
-
-[One tap mobile](tel:+12532158782) US (Tacoma)
-
-
-
-# Election Day is August 1st.   Ballots will be mailed on July 14th.
-
-Election Day:  Tuesday, August 1, 2023
+# Election Day is August 1st.
+Ballots mailed: July 14, 2023
 
 Election Type: Primary
 
