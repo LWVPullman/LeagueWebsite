@@ -6,18 +6,18 @@ author_profile: true
 excerpt: "Observer Corps Guidelines"
 ---
 
-Revised October 2021
+Revised October 2022
 
-The League of Women Voters of Pullman (LWVP) has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as members attend and observe the workings of governmental bodies at in-person or virtual public meetings.
+The League of Women Voters of Pullman (LWVP) has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place.  This group forms the eyes and ears of the LWVP Board as members attend and observe the workings of governmental bodies at in-person or virtual public meetings. 
 
 ## What is the Observer Corps and what is its function within the League?
-Observer Corps members attend council, board, commission, and advisory committees (these will all be covered by the use of the terms agency and entity in this document) to listen, learn, observe, and report back to the League with factual information about the proceedings and any information about which the Executive Board may be interested. In particular, the Observer calls attention to community and public policy issues that the Executive Board may wish to act/testify on based on League Position Statements. Observers also identify trends or problems for possible future study and action by the League.
+Observer Corps members attend council, board, commission, and advisory committees (these will all be covered by the use of the terms agency and entity in this document) to listen, learn, observe, and report back to the League with factual information about the proceedings and any information about which the Executive Board may be interested. In particular, the Observer calls attention to community and public policy issues that the Executive Board may wish to act/testify on based on League Position Statements.  Observers also identify trends or problems for possible future study and action by the League. 
 
 ## What is the key tenet for Observers?
-Observers do not speak or participate in the meeting being observed. Observers are the eyes and ears of the League, but are **never the Voice of the League**. Observers maintain an impartial, respectful, and professional attitude. The Observer must not pursue personal interests at the meetings or use information obtained from outside sources to discuss or give an opinion about an issue discussed at the meeting. One may not “step out of the observer role” before or after a meeting. It is OK to ask a simple question for clarification (e.g., checking on a date or a term), or to ask how to obtain further information on a topic, after the meeting.
+Observers do not speak or participate in the meeting being observed.  Observers are the eyes and ears of the League, but are **never the Voice of the League**. Observers maintain an impartial, respectful, and professional attitude. The Observer must not pursue personal interests at the meetings or use information obtained from outside sources to discuss or give an opinion about an issue discussed at the meeting. One may not “step out of the observer role” before or after a meeting. It is OK to ask a simple question for clarification (e.g.,checking on a date or a term), or to ask how to obtain further information on a topic, **after** the meeting.
 
 ## How long is the term of an Observer?
-The preferred “best intention” commitment is one year. There is no maximum number of terms for being an Observer☺ and one may wish to change agencies after a period of time. The longer one participates, the more familiar members will be with the individual agency as well as the role of the Observer in general.
+The preferred “best intention” commitment is one year. There is no maximum number of terms for being an Observer :) and one may wish to change agencies after a period of time.  The longer one participates, the more familiar one will be with the individual agency and the business it conducts.
 
 ## What determines if an agency can/should be chosen to be observed?
 * Governmental or government-related entities that are rule-making, manage public funds and run by elected or appointed officials.
@@ -26,7 +26,7 @@ The preferred “best intention” commitment is one year. There is no maximum n
 * There is a desire by the League to learn more about the business carried out by an agency, and/or its impact on our communities. It may be an agency of concern or it may be dealing with a “hot” community issue.
 * A member indicates an interest in being an Observer of the entity.
 * The League Board determines whether to include the agency among the Observer Corps roles. They will also consider the priorities of the League and the availability of members willing to be Observers.
-* The TRY, a listing of elected and appointed officials, is a good reference for agencies the League may be interested in observing in Pullman and Whitman County but the boards, etc. listed there do not exclude other agencies of interest.
+* The TRY (They Represent You or Know Your Government), a listing of elected and appointed officials, is a good reference for agencies the League may be interested in observing in Pullman and Whitman County but the boards, etc. listed there do not exclude other agencies of interest.
 
 
 
@@ -40,7 +40,7 @@ The Observer will be given a League of Women Voters Observer badge to wear at ev
 If asked, your answer to every question is that you are a League of Women Voters’ Observer. You attend these meetings to follow the activities of this agency, but not to speak or be involved.
 
 ## How do I report what I have learned at the meeting?
-Observers use an Observer Corps’ Report Form as a guide to succinctly note (but not take minutes) the issues being discussed as well as the process by which they are being discussed, and public meetings announced. A copy of any pertinent materials or a link to them may be included. Observers may submit their report using a format they are comfortable with. This report is sent (usually by email) to the Observer Corps Chair who reviews the report and may ask follow-up questions of the reporter. Then the report is forwarded to the Executive Board who may also ask questions and considers issues brought up by the Observer for League consideration. Then the report is made available on the League website. Reports need to be completed in a timely way in order to be of consequence to the League and are requested to be returned to the Observer Board Chair **within one week**.
+Observers use an Observer Corps’ Report Form as a guide to succinctly note (but not take minutes) the issues being discussed as well as the process by which they are being discussed, and public meetings announced. A copy of any pertinent materials or a link to them may be included. Observers may submit their report using a format they are comfortable with. This report is sent (usually by email) to the Observer Corps Chair who reviews the report and may ask follow-up questions of the reporter. Next the report is forwarded to the Executive Board who may also ask questions and considers issues brought up by the Observer for League consideration. Then the report is made available on the League website. Reports need to be completed in a timely way in order to be of consequence to the League and are requested to be returned to the Observer Board Chair **within one week**.
 
 ## Does a League Observer ever testify before that board?
 No. Only the “Voice of the League”, the President, or a designated member of the Executive Committee may attend a meeting to testify, based on League positions concerning issues under discussion.
@@ -49,11 +49,12 @@ No. Only the “Voice of the League”, the President, or a designated member of
 Yes! “Observers keep elected and appointed officials on notice; they let them know that someone is watching what decisions are being made and how they are being made.” The League believes that the presence of Observers helps keep government entities attentive to their jobs, with the proper respect for doing the public’s business, and promotes transparency and accountability. If something of concern does take place, the Observer should talk with the Observer Corps Chair or a member of the League Executive Committee about it immediately so that League can testify or ask questions in a timely way.
 
 ## What happens if I cannot attend a meeting or two?
-If possible, the Observer Corps Chair should be notified in advance so that a substitute may possibly be found. However, if absences are numerous, the Observer might want to change her/his selection to a time when he/she is more available. 3
+If possible, the Observer Corps Chair should be notified in advance so that a substitute may possibly be found.  However, if absences are numerous, the Observer might want to change her/his selection to a time when he/she is more available.
 
 ## Materials made available to Observers by the Observer Corps Chair:
 * Agency's meeting time, frequency, location
-* Agency's names and titles of the members, the functions and/or services it provides
+* Agency's names and titles of the members
+* Agency's functions and/or services it provides
 * Agency's availability of agendas and other public materials
 * Link to the agency's website.
 * [LWV of Pullman Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
@@ -62,7 +63,7 @@ If possible, the Observer Corps Chair should be notified in advance so that a su
 * [LWV of Pullman’s current Position Statements](https://lwvpullman.org/advocacy/League_positions/)
 
 ## How do I sign up for this important and informative role?
-The Observer Corps Chair: Judy Stone, judy.stone.bandaid@gmail.com
+Email [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) or the Observer Corps Chair
 
 The Observer Corps Chair will provide a sign-up sheet at all in-person League meetings, can be contacted directly by members to state their interest, and may send out a request to the membership for specific agencies that need an observer.
 
@@ -77,3 +78,5 @@ accessed 8/2016.
 5.	LWVUS – Observing Your Government in Action, A Resource Guide, LWVUS, 2007
 6.	LWVUS – #36 Observer Corps, Guidelines from National for an Observer Corps Program, 2011
 http://lwv.org/content/36-observer-corps, accessed 8/2016
+
+[OBSERVER CORPS GUIDELINES and FAQs - Revised Oct 2022](https://lwvpullman.org/assets/PDFs/2022-10-Guidelines and FAQs.pdf)
