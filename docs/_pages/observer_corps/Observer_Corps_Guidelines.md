@@ -79,4 +79,6 @@ accessed 8/2016.
 6.	LWVUS – #36 Observer Corps, Guidelines from National for an Observer Corps Program, 2011
 http://lwv.org/content/36-observer-corps, accessed 8/2016
 
-[OBSERVER CORPS GUIDELINES and FAQs - Revised Oct 2022](https://lwvpullman.org/assets/PDFs/2022-10-Guidelines and FAQs.pdf)
+## PDF of the Observer Corps Guidelines and FAQs click below.
+
+[Observer Corps Guidelines and FAQs PDF - Revised Oct 2022](https://lwvpullman.org/assets/PDFs/2022-10-Guidelines_and_FAQs.pdf)
