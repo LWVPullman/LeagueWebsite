@@ -87,4 +87,4 @@ Click below to go to the list of observer reports.
 
 Click below for a PDF of the Observer Corps Guidelines and FAQs.
 
-[Observer Corps Guidelines and FAQs PDF - Revised Oct 2022](https://lwvpullman.org/assets/PDFs/2022-10-Guidelines_and_FAQs.pdf)
+[Observer Corps Guidelines and FAQs PDF - Revised Oct 2022](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2022-10-Guidelines_and_FAQs.pdf)
