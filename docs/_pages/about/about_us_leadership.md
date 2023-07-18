@@ -8,7 +8,9 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 ## Excecutive Board:
 
-**Excecutives:**  Anne Lewis, Tricia Grantham, and one more person needed
+**President:**  Aly Welch
+
+**Vice President:** Bobbie Ryder
 
 **Secretary:**  Mary Collins, Back-up: Paul Spencer
 
@@ -31,11 +33,11 @@ We have a **“Board of the Whole”** so all league members are welcome to atte
 
 **MELD Coordinator:**  Paul Spencer, Libby Walker, and Deb Olson
 
-**Membership Chair:**  Judy Stone
+**Membership Chair:**  Paul Spencer
 
 **Nominating Coordinator:**  Mary Collins
 
-**Observer Corps Chair:**  Judy Stone
+**Observer Corps Chair:**  Person Needed
 
 **Social Media:**  Carolyn Joswig-Jones
 
