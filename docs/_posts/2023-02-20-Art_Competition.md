@@ -21,7 +21,7 @@ Congratulations to the winners of the LWV of Pullman and Whitman County’s Seco
 All 40 pieces of eARTh Art were displayed at the 3 Forks River & Arts Festival in downtown Pullman on Saturday, May 20, 2023.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-20-3ForksArtFest.jpg)
 
-The top two winners in each grade group goes to, starting at the top left, Lydia Park grade 11, Eshaan Syed grade 6, Anekah Mcbride grade 9, Winnie grade 6, Kaitlin grade 4, William grade 3, and Committee’s Choice Award goes to Saja Akasha, Grade 7.  This photo collage has been accepted in the Inland 360 Share Your Snaps community photo album.  [Check it out here.](https://www.inland360.com/lewiston-moscow//Image/index?oid=) The winners' collage also made the Moscow-Pullman Daily Newspaper on May 16th. [Check it out here.](https://dnews.com/reader_photo/art-contest-winners/article_06f05c9b-666c-5876-891b-090c67670c29.html)
+The top two prizes in each grade group go to, starting at the top left, Lydia Park grade 11, Eshaan Syed grade 6, Anekah Mcbride grade 9, Winnie grade 6, Kaitlin grade 4, William grade 3, and Committee’s Choice Award goes to Saja Akasha, Grade 7.  This photo collage has been accepted in the Inland 360 Share Your Snaps community photo album.  [Check it out here.](https://www.inland360.com/lewiston-moscow//Image/index?oid=) The winners' collage also made the Moscow-Pullman Daily Newspaper on May 16th. [Check it out here.](https://dnews.com/reader_photo/art-contest-winners/article_06f05c9b-666c-5876-891b-090c67670c29.html)
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-winning_artists_collage.jpg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-Winners_collage.jpg)
