@@ -17,7 +17,7 @@ tags:
 
 Coordinator: Executive Team
 
-We plan to meet at Kruegel Park Picnic Shelter on Sept 7, 2023, from 5-7:00 PM.  Local and time may change so check back here for more information closer to the date. 
+We plan to meet at Kruegel Park Picnic Shelter on Sept 7, 2023, from 5-7:00 PM.  Location and time may change so check back here for more information closer to the date. 
 
 We will talk about how the League works including voter services, membership, upcoming events, observer core, art contest and social media.  All members and guests are invited.  Members are asked to bring a labeled dish to shared. 
 
