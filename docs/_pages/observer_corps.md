@@ -32,7 +32,7 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 ## The League is currently observing 6 City and 2 County entities with 10 observers!
 
-Observer Team Leader - VOLUNTEER NEEDED
+Observer Team Leader - ROger Crawford
 
 Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
@@ -88,3 +88,7 @@ Click below to go to the list of observer reports.
 Click below for a PDF of the Observer Corps Guidelines and FAQs.
 
 [Observer Corps Guidelines and FAQs PDF - Revised Oct 2022](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2022-10-Guidelines_and_FAQs.pdf)
+
+
+## Short LWVP Power Point Presentation
+["What You Need to Know"](https://lwvpullman.org/assets/PDFs/OnlineSelfOrientation2022-10.pdf)
