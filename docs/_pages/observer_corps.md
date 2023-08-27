@@ -32,7 +32,7 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 ## The League is currently observing 6 City and 2 County entities with 10 observers!
 
-Observer Team Leader - ROger Crawford
+Observer Team Leader - Roger Crawford
 
 Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
