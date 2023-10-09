@@ -16,7 +16,7 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 **Treasurer:**  Sue Hinz
 
-We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  Board Meetings are held on the 4th Tuesday of each month at 11:00 am – 1:00 pm, August – May.  Non-memebers may attend also if interested and need to contact the league by sending an email to lwvpull@yahoo.com
+We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  Board Meetings are held on the 4th Tuesday of each month at 11:00 am – 1:00 pm, August – May.  Non-members may attend if interested and should contact the league by sending an email to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 
 ## Committee Leaders:
@@ -37,7 +37,7 @@ We have a **“Board of the Whole”** so all league members are welcome to atte
 
 **Nominating Coordinator:**  Mary Collins
 
-**Observer Corps Chair:**  Person Needed
+**Observer Corps Chair:**  Roger Crawford
 
 **Social Media:**  Carolyn Joswig-Jones
 
