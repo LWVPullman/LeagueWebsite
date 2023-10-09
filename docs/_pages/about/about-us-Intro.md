@@ -21,9 +21,9 @@ The League of Women Voters of Pullman has been active in the Pullman Community a
 ## Meetings
 
 The Pullman League generally holds monthly meetings September through April.
-* Board Meetings are usually held on the 4th Tuesday of the month at 11am-1pm. The League is a "Board of the Whole" so all members are welcome and encouraged to attend
-* General Evening Meetings are usually held on the first Thursday of the month featuring a guest speaker and are open to the public.
-* Brown Bag Lunch Meetings are usually held on the third Tuesday of the month at noon and features a topic of discussion.    
+* Board Meetings - regular time TBD.  The League is a "Board of the Whole" so all members are welcome and encouraged to attend
+* General Evening Meetings are usually held from 7:00 to 8:30 featuring a guest speaker and are open to the public.
+* Brown Bag Lunch Meetings are usually held at Noon to 1:00pm featuring a topic of discussion.    
 * Annual membership meeting is usually held in May when members elect officers, adopt a budget, etc.
 * Annual Planning Meeting usually occurs in July when members plan events, programs, etc.
 
