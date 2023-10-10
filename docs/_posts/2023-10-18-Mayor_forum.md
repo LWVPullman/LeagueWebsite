@@ -36,11 +36,11 @@ Zoom Meeting ID: 851 8748 3390
 Zoom Passcode: 064962
 
 One tap mobile
-+12532050468,,83994500428#,,,,*385459# US
++12532050468,,85187483390#,,,,*064962# US
 
-+12532158782,,83994500428#,,,,*385459# US (Tacoma)
++12532158782,,85187483390#,,,,*064962# US (Tacoma)
 
-[One tap mobile](tel:+12532158782,,83994500428#,,,,*385459#) US (Tacoma)
+[One tap mobile](tel:+12532158782,,85187483390#,,,,*064962#) US (Tacoma)
 
 Ballots will be mailed on October 20. Please remember to sign your ballot. Ballots must be postmarked by 8 pm on November 7 or placed in one of four dropbox locations: on Paradise Street, in the Rosauers parking lot, on WSU outside the CUB, and WSU Chinook Student Center.
 
