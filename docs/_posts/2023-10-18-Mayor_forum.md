@@ -25,7 +25,7 @@ On Wednesday, October 18 from 6:30-8:00 PM the Pullman Mayor Candidates will mee
 
 # and
 
-# Deb McNeil [www.Debforpullman.org](www.Debforpullman.org)
+# Deb McNeil [www.Debforpullman.org](https://debforpullman.org)
 
 If you are unable to come to the library and want to watch via Zoom, use the following information:
 
