@@ -2,8 +2,8 @@
 title: Pullman City Council Forum
 header:
   video:
-    id:
-    provider:
+    id: HQAmeAjkhtE
+    provider: youtube
 categories:
   - Evening meeting
   - Forum
@@ -19,26 +19,15 @@ Coordinators: Deborah Olson
 Program Description:  
 The Pullman League of Women voters in partnership with Neill Public Library will present three candidate forums. All three forums will be held at Neill Public Library and begin at the stated times. The Forums will also be on Zoom (see link below) and will be recorded. Questions will not be accepted over Zoom but may be emailed to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) before the forums.
 
-On Thursday, October 12th from 6:30 to 8:00 PM the candidates for city council will meet.
+On Thursday, October 12th from 6:30 to 8:00 PM the candidates for city council met.
 
-Ward 1 Candidates are Ann Parks (incumbent) and Dan Maher
+Ward 1 Ann Parks (incumbent) will be running unopposed now that Dan Maher has withdrawn. Ann Parks could not attend the forum.
 
 Ward 3 Candidates are Pat Wright (incumbent) and CJ Robert
 
 Vacant At Large Candidates are Eric Fejeran and Holly Greystone.
 
 Every one in the city can vote for the at large position but only people who live within Ward 1 and Ward 3 can vote in these races.
-
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/83994500428?pwd=c2M0a1A0VEZ4eGxwYlVnOE9sU085UT09)
-
-Zoom Meeting ID: 839 9450 0428
-
-Zoom Passcode: 385459
-
-One tap mobile
-+12532050468,,83994500428#,,,,*385459# US
-
-+12532158782,,83994500428#,,,,*385459# US (Tacoma)
 
 Ballots will be mailed on October 20. Please remember to sign your ballot. Ballots must be postmarked by 8 pm on November 7 or placed in one of four dropbox locations: on Paradise Street, in the Rosauers parking lot, on WSU outside the CUB, and WSU Chinook Student Center.
 
