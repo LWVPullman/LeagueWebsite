@@ -2,8 +2,8 @@
 title: Pullman City Council Forum
 header:
   video:
-    id:
-    provider:
+    id: HQAmeAjkhtE
+    provider: youtube
 categories:
   - Evening meeting
   - Forum
