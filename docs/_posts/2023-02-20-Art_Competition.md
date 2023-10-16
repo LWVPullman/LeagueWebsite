@@ -18,6 +18,9 @@ Congratulations to the winners of the LWV of Pullman and Whitman County’s Seco
 
 [Click here for a PowerPoint presentation of all the eARTh Art Artwork](https://docs.google.com/presentation/d/1e4GBRZ1NmJkmzbQdOAvpEZLPCRqW9UEe_dPbrW7NHkU/edit?usp=sharing)
 
+Our League’s Visual Arts Competition Program received a recognition in May from the LWVWA - 2023 Strengthening Democracy Award.
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-06-Art_Comp_Award.jpg)
+
 All 40 pieces of eARTh Art were displayed at the 3 Forks River & Arts Festival in downtown Pullman on Saturday, May 20, 2023.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-20-3ForksArtFest.jpg)
 
