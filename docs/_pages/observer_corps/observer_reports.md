@@ -168,6 +168,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman School Board Observer Report 2023-8-9](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-8-9-Pub.pdf)
 * [Pullman School Board Observer Report 2023-8-23](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-8-23-Pub.pdf)
 * [Pullman School Board Observer Report 2023-9-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-9-13-Pub.pdf)
+* [Pullman School Board Observer Report 2023-9-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-9-27-Pub.pdf)
 
 ## Whitman County Commissioners
 
@@ -211,6 +212,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2022-10-19](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2022-10-19-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2022-11-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2022-11-2-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2023-2-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2023-2-1-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2023-9-20](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2023-9-20-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
