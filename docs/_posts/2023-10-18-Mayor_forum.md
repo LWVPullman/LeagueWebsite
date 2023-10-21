@@ -3,7 +3,7 @@ title: Pullman Mayor Forum
 header:
   video:
     id: Vo4pmIN5vf8
-    provider: YouTube
+    provider: youtube
 categories:
   - Evening meeting
   - Forum
@@ -17,7 +17,7 @@ tags:
 Coordinators: Deborah Olson
 
 Program Description:  
-The Pullman League of Women voters in partnership with Neill Public Library presented three candidate forums. All three forums weree held at Neill Public Library. The Forums were also be on zoom and were be recorded and can been seen on the league's YouTube Channel.
+The Pullman League of Women voters in partnership with Neill Public Library presented three candidate forums. All three forums were held at Neill Public Library. The Forums were also on zoom and were recorded and can been seen on the League's YouTube Channel.
 
 On Wednesday, October 18 from 6:30-8:00 PM the Pullman Mayor Candidates meet at Neill Public Library.
 
