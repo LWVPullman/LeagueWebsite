@@ -24,6 +24,7 @@ Zoom link coming soon...
 
 [Citizens' Climate Lobby website](https://citizensclimatelobby.org)
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-11-02-Climate_Issues_CCL.jpg)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
