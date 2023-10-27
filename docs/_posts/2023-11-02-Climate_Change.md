@@ -20,7 +20,16 @@ Speakers:  Citizens' Climate Lobby panelists Azdren Coma, Kynan Witters Hicks, a
 
 Program Description:  On Thursday, November 2, at 7:00 pm via Zoom, the League of Women Voters of Pullman will host a panel of members of the local Citizens' Climate Lobby who will present information on on-going local efforts to address climate change including tree planting projects in Pullman, disseminating information on accessing resources for sustainable home energy use, and working with local governments and universities to address climate issues.
 
-Zoom link coming soon...
+The public is invited to attend over Zoom.
+
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
+
+Meeting ID: 823 8718 5069
+
+Passcode: 906666
+
+[One tap mobile](tel:+12532158782,,81505046019#,,,,*185409#) US (Tacoma)
+
 
 [Citizens' Climate Lobby website](https://citizensclimatelobby.org)
 
