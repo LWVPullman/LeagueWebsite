@@ -18,6 +18,10 @@ Congratulations to the winners of the LWV of Pullman and Whitman County’s Seco
 
 [Click here for a PowerPoint presentation of all the eARTh Art Artwork](https://docs.google.com/presentation/d/1e4GBRZ1NmJkmzbQdOAvpEZLPCRqW9UEe_dPbrW7NHkU/edit?usp=sharing)
 
+The final display of all 40 eARTh Art entries from our League’s 2023 Visual Arts Competition will ne at the the Whitman County Library Art Gallery in Colfax, WA, from Nov 1-17, during regular library hours.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-11-Whitman_Library_Gallery_Show_Website.jpg)
+
 Our League’s Visual Arts Competition Program received a recognition in May from the LWVWA - 2023 Strengthening Democracy Award.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-06-Art_Comp_Award.jpg)
 
