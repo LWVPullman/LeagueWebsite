@@ -61,8 +61,9 @@ If you are looking for a way to become involved in your League by observing the 
 
 * [October 2023](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-10-Obs_Calendar.pdf)
 * [November 2023](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-11-Obs_Calendar.pdf)
+* [December 2023](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-12-Obs_Calendar.pdf)
 
-
+  
 ## Observer Report Form
 
 Observers use this form to complete their reports.
