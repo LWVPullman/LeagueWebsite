@@ -26,6 +26,8 @@ This program was recorded and will be available on the League's YouTube Channel.
 
 [National Citizens' Climate Lobby website](https://citizensclimatelobby.org)
 
+[Rewiring America - Household Electrification Incentives](https://www.rewiringamerica.org/app/ira-calculator)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-11-02-Climate_Issues_CCL.jpg)
 
 Copyright LWV of Pullman
