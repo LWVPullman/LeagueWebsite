@@ -36,7 +36,7 @@ Observer Team Leader - Roger Crawford
 
 Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
-Pullman Neill Public Library Board – Alice Schroeder, Francy Pavlas Bose (backup)
+Pullman Neill Public Library Board – OBSERVER NEEDED
 
 Pullman-Moscow Regional Airport Board – Krista Gross
 
@@ -74,7 +74,7 @@ Observers use this form to complete their reports.
 
 Observers can use these abbreviated positions to help with topics in the report that the League may be interested in and may want to take action on.
 
-[Abbreviated Leauge Positions](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-04-Abbreviated_LWV_Positions.pdf)
+[Abbreviated League Positions](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-04-Abbreviated_LWV_Positions.pdf)
 
 
 ## Observer Corps Reports
