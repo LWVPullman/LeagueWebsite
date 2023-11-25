@@ -17,9 +17,8 @@ tags:
 
 Coordinators: Bobbie
 
-Speakers: TBD
 
-Program Description: A Holiday Cookie Exchange and Membership meeting, along with a presentation about the Pullman Public School Levy will take place on December 6th from 4-6 pm in the Neill Public Library Hecht Room.
+The League of Women Voters of Pullman will meet in-person at the Neill Public Library Hecht Room on December 6th from 4-6 pm to hear a presentation about the upcoming Pullman Schools Levy followed by Q & A. This presentation is open to the public. The League will also host their annual Holiday Cookie Exchange. Bring a batch of cookies to share and collect cookies for your holiday guests. 
 
 
 
