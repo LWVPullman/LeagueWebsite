@@ -88,6 +88,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Planning Commission Observer Report 2022-11-16](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2022-11-16-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2023-04-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2023-4-26-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2023-07-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2023-7-26-Pub.pdf)
+* [Pullman Planning Commission Observer Report 2023-10-25](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2023-10-25-Pub.pdf)
 
 ## Pullman/Moscow Regional Airport Board
 
@@ -213,6 +214,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2022-11-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2022-11-2-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2023-2-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2023-2-1-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2023-9-20](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2023-9-20-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2023-11-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2023-11-1-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
