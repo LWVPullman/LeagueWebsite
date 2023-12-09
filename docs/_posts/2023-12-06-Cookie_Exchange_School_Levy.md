@@ -17,15 +17,17 @@ tags:
 
 Coordinators: Bobbie
 
+The League of Women Voters of Pullman met in-person at the Neill Public Library Hecht Room on December 6th to hear a presentation about the upcoming Pullman Schools Levy followed by Q & A. The presentation was open to the public. The League also hosted their annual Holiday Cookie Exchange.
 
-The League of Women Voters of Pullman will meet in-person at the Neill Public Library Hecht Room on December 6th from 4-6 pm to hear a presentation about the upcoming Pullman Schools Levy followed by Q & A. This presentation is open to the public. The League will also host their annual Holiday Cookie Exchange. Bring a batch of cookies to share and collect cookies for your holiday guests. 
+Pullman School District’s Superintendent Robert Maxwell and Finance Director Diane Hodge presented information about the replacement levies which will be on the Special Election ballot on February 13, 2024. Check out their website site for more information.  
 
-
+[Pullman Public Schools Levy](https://www.pullmanschools.org/cms/one.aspx?pageId=18900309)
 
 [Pullman Public Schools Website](https://www.pullmanschools.org)
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-12-06-Levy_Info.JPG)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-12-06-cookie_exchange_school_levy.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-12-06-Cookie_Exchange.JPG)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
