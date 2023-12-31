@@ -59,9 +59,9 @@ If you are looking for a way to become involved in your League by observing the 
 
 ## Observer Corps Calendar
 
-* [January  2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-01-Obs_Calendar.pdf)
-* [February 2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-02-Obs_Calendar.pdf)
-* [March 2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-03-Obs_Calendar.pdf)
+* [January  2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-01ObsCalendar.pdf)
+* [February 2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-02ObsCalendar.pdf)
+* [March 2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-03ObsCalendar.pdf)
 
   
 ## Observer Report Form
