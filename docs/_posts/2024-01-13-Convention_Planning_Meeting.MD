@@ -1,5 +1,5 @@
 ---
-title: No host brunch for State & Local Planning
+title: Convention Planning Meeting
 header:
   video:
     id: 
