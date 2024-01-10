@@ -16,7 +16,7 @@ tags:
 
 Congratulations to the winners of the LWV of Pullman and Whitman County’s Second Annual Visual Arts Competition. Thank you to the artists, their families, Whitman County Library, and Neill Public Library for supporting this program.
 
-[Click here for a PowerPoint presentation of all the eARTh Art Artwork](https://docs.google.com/presentation/d/1e4GBRZ1NmJkmzbQdOAvpEZLPCRqW9UEe_dPbrW7NHkU/edit?usp=sharing)
+[Click here for a slide presentation of all the eARTh Art Artwork](https://lwvpullman.org/assets/PDFs/2023-05-eARTh_entries_slideshow.pdf)
 
 The final display of all 40 eARTh Art entries from our League’s 2023 Visual Arts Competition was held at the the Whitman County Library Art Gallery in Colfax, WA, November 1-17.
 
