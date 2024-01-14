@@ -82,15 +82,15 @@ ATTN: Art Contest
 
 We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact Deb Olson (olsonbones@aol.com) to schedule a presentation. 
 
-[Click here for the eARTh Art PowerPoint](https://docs.google.com/presentation/d/17oySdaEz-ZAVPY4A1KEouRZasLKc7cPa6R6UrXTVLkc/mobilepresent?slide=id.p)
+[Click here for the eARTh Art PowerPoint](https://docs.google.com )
 
-[Click here for the supplemental material](https://lwvpullman.org/assets/PDFs/2023-02-20-Supplemental_Text_PowerPoint.pdf)
+[Click here for the supplemental material](https://lwvpullman.org/assets/PDFs/ .pdf)
 
 ## Judges
 
 The judges are appointed by the LWV of Pullman (Whitman County).  They have qualifications in three areas; having knowledge in Government, Art and Environment.  The judges evaluate the submitted artwork based on creative interpretation of the theme.  We will be using [RANKED CHOICE VOTING](https://www.rankedvote.co/) to determine the winners.
 
-[Click here for the Panel of Judges for 2023](https://lwvpullman.org/assets/PDFs/ )
+[Click here for the Panel of Judges for 2024](https://lwvpullman.org/assets/PDFs/ )
 
 ## Past Competitions
 [2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Art_Competition/)
