@@ -14,6 +14,8 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition will be launched on President’s Day, 2024. ** </span>
 
+This page is still under construction.  Please check back on or after Feb 19, 2024.
+
 Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Kimberly Tompson, Stephanie MacCulloch, Crowe Gammons, Sola Parsons
 
 <span style="color:green; font-size:2em;"> **Theme Coming Soon** </span>
@@ -78,6 +80,8 @@ ATTN: Art Contest
 
 ## Deadline for submissions: March 31, 2024
 
+Winners will be notified on April 12th via email.  An artists’ reception will be held on Saturday, April 20, 2:00 p.m. at Neill Public Library in Pullman.
+
 ## Theme Related Civics Education Presentation
 
 We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact Deb Olson (olsonbones@aol.com) to schedule a presentation. 
@@ -93,7 +97,9 @@ The judges are appointed by the LWV of Pullman (Whitman County).  They have qual
 [Click here for the Panel of Judges for 2024](https://lwvpullman.org/assets/PDFs/ )
 
 ## Past Competitions
+
 [2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Art_Competition/)
+
 [2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/)
 
 
