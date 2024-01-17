@@ -37,7 +37,7 @@ This Art Competition is for students in grades 3-12 to share their artistic tale
 
 **Rules:**
 1.	There will be three grade groupings:  Grades 3-5, Grades 6-8, Grades 9-12.
-2.	Artwork must be an original piece, completed solely by the participant.
+2.	Artwork must be an original piece, completed solely by the participant. Only one entry per student. 
 3.	Art materials allowed may include but not limited to crayons, colored pencils, markers, pen and ink, pastels, paints, charcoal, collage, photography, mixed media, digital media, clay, plaster, wood, stone, cloth, cardboard, etc.  No videos or images in motion.
 4.	2-Dimensional artwork is not to exceed the size of 11 x 17 inches.  3-Dimensional artwork is not to exceed the size of 1 cubic foot.
 5.	No names, including the artist, are to appear anywhere on the artwork.  
