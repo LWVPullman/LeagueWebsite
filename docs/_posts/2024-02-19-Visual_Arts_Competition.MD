@@ -68,12 +68,6 @@ Drop off:
 <br/>
 Neill Public Library in Pullman or Whitman County Library in Colfax
 
-Email:
-<br/>
-Send a high-quality scan or photograph of artwork to:  lwvpull@yahoo.com
-<br/>
-(Original artwork may still be requested but emails by deadline will count.)
-
 Mail: 	
 <br/>
 League of Women Voters of Pullman 
