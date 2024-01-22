@@ -16,13 +16,18 @@ tags:
 
 This page is still under construction.  Please check back on or after Feb 19, 2024.
 
-Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Kimberly Tompson, Stephanie MacCulloch, Crowe Gammons, Sola Parsons
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-19-VAC_banner.jpg
+
+Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Kimberly Tompson, Stephanie MacCulloch, Crowe Gammons, Carol Ndambuki
 
 <span style="color:green; font-size:2em;"> **Theme Coming Soon** </span>
 
 ## Theme?
-
+<!---Why Does Voting Matter?  -->
 General theme idea will go here.
+<!---Voting is the most basic act of citizenship. 
+YOU are a future Voter!  What MATTERS to you?  Who has the right to VOTE?
+The right to vote didn’t come easy for everyone.  Join us in exploring the history of voting rights, how the voting process works, and how every vote matters. -->
 
 
 **Purpose:**
@@ -52,10 +57,10 @@ $50 to spend at your local businesses and a copy of the LWVWA civics textbook, T
 
 **Art Competition Flyers and Entry Form:**
 
-* [Click here for the Entry Form](https://lwvpullman.org/assets/PDFs/ )
-* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/ )
-* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/ )
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/ )
+* [Click here for the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final.pdf
+* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf
+* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pulltabs_QR.pdf
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf
 
 **Submit your artwork and completed form by any of the following methods:** 
 
@@ -105,6 +110,7 @@ The judges are appointed by the LWV of Pullman (Whitman County).  They have qual
 
 
 Copyright LWV of Pullman
+
 Written permission required for full or partial embedding
 
 <!---change the title to whatever you want the post to be titled
