@@ -14,15 +14,20 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition will be launched on President’s Day, 2024. ** </span>
 
-This page is still under construction.  Please check back on or after Feb 19, 2024.
+This page is still under construction.  Please check back on or after Feb 19, 2024.  You can scroll down to the bottom of this page for links to our past competitions.
 
-Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Kimberly Tompson, Stephanie MacCulloch, Crowe Gammons, Sola Parsons
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-19-VAC_banner.jpg
+
+Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Kimberly Tompson, Stephanie MacCulloch, Crowe Gammons, Carol Ndambuki
 
 <span style="color:green; font-size:2em;"> **Theme Coming Soon** </span>
 
 ## Theme?
-
+<!---Why Does Voting Matter?  -->
 General theme idea will go here.
+<!---Voting is the most basic act of citizenship. 
+YOU are a future Voter!  What MATTERS to you?  Who has the right to VOTE?
+The right to vote didn’t come easy for everyone.  Join us in exploring the history of voting rights, how the voting process works, and how every vote matters. -->
 
 
 **Purpose:**
@@ -52,22 +57,16 @@ $50 to spend at your local businesses and a copy of the LWVWA civics textbook, T
 
 **Art Competition Flyers and Entry Form:**
 
-* [Click here for the Entry Form](https://lwvpullman.org/assets/PDFs/ )
-* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/ )
-* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/ )
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/ )
+* [Click here for the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final
+* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer
+* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pulltabs_QR
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers
 
 **Submit your artwork and completed form by any of the following methods:** 
 
 Drop off:
 <br/>
 Neill Public Library in Pullman or Whitman County Library in Colfax
-
-Email:
-<br/>
-Send a high-quality scan or photograph of artwork to:  lwvpull@yahoo.com
-<br/>
-(Original artwork may still be requested but emails by deadline will count.)
 
 Mail: 	
 <br/>
@@ -86,9 +85,9 @@ Winners will be notified on April 12th via email.  An artists’ reception will 
 
 We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact Deb Olson (olsonbones@aol.com) to schedule a presentation. 
 
-[Click here for the eARTh Art PowerPoint](https://docs.google.com )
+[Click here for the PowerPoint Presentation](https://docs.google.com )
 
-[Click here for the supplemental material](https://lwvpullman.org/assets/PDFs/ .pdf)
+[Click here for the Supplemental Material](https://lwvpullman.org/assets/PDFs/ .pdf)
 
 ## Judges
 
@@ -105,6 +104,7 @@ The judges are appointed by the LWV of Pullman (Whitman County).  They have qual
 
 
 Copyright LWV of Pullman
+
 Written permission required for full or partial embedding
 
 <!---change the title to whatever you want the post to be titled
