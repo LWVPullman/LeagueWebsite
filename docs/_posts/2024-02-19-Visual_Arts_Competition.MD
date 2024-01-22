@@ -14,7 +14,7 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition will be launched on President’s Day, 2024. ** </span>
 
-This page is still under construction.  Please check back on or after Feb 19, 2024.
+This page is still under construction.  Please check back on or after Feb 19, 2024.  You can scroll down to the bottom of this page for links to our past competitions.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-19-VAC_banner.jpg
 
@@ -57,10 +57,10 @@ $50 to spend at your local businesses and a copy of the LWVWA civics textbook, T
 
 **Art Competition Flyers and Entry Form:**
 
-* [Click here for the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final.pdf
-* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf
-* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pulltabs_QR.pdf
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf
+* [Click here for the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final
+* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer
+* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pulltabs_QR
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers
 
 **Submit your artwork and completed form by any of the following methods:** 
 
