@@ -1,5 +1,5 @@
 ---
-title: Calendar of Events 2022-2023
+title: Calendar of Events 2023-2024
 header:
 categories:
   - Events
