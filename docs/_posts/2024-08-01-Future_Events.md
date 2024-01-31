@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-![Future Events](https://lwvpullman.org/assets/images/_2023-2024_calendar.jpg)
+![Future Events]({{ site.url }}{{ site.baseurl }}/assets/images/_2023-2024_calendar.jpg)
 
 Board Meetings will typically be held on the 3rd Wednesday of the month.  We have a “Board of the Whole” so all members are welcome to attend.  Please look for an email sent to members prior to each Board Meeting.  If you are not a member and would like to attend as a guest please email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
