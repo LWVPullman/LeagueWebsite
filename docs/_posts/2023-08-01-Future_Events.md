@@ -1,5 +1,5 @@
 ---
-title: Calendar of Events 2023-2024
+title: Calendar of Events 2022-2023
 header:
 categories:
   - Events
@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-![Future Events](https://lwvpullman.org/assets/PDFs/2024-01-24--2023-2024calendarPage1.pdf)
+![Future Events](https://lwvpullman.org/assets/PDFs/2022-09-04--2022-23calendarPAGE1.pdf)
 
 
-For a larger version that is more easily zoomable, please use this link! [Calendar of Events](https://lwvpullman.org/assets/PDFs/2024-01-24--2023-2024calendar.pdf)
+For a larger version that is more easily zoomable, please use this link! [Calendar of Events](https://lwvpullman.org/assets/PDFs/2022-09-04--2022-23calendar.pdf)
