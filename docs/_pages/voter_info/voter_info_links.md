@@ -56,7 +56,7 @@ Voter registration forms are available at public libraries, public schools, comm
 ## Who represents you?
 
 Find out who your legislators are and how to contact them here
-[Elected and appointed Officials Brochure](https://lwvpullman.org/docs/_pages/voter_info/TRY3-2023.pdf)
+[Elected and appointed Officials Brochure](https://lwvpullman.org/docs/_pages/voter_info/2024-01-25-TRY.pdf)
 
 ## Local Organizations
 

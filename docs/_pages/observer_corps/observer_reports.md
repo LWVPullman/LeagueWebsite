@@ -122,6 +122,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Regional Hospital Board Observer Report 2023-5-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2023-5-3-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2023-7-19a](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2023-7-19a-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2023-8-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2023-8-2-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2023-12-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2023-12-6-Pub.pdf)
 
 
 ## Pullman School Board
@@ -172,6 +173,8 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman School Board Observer Report 2023-9-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-9-27-Pub.pdf)
 * [Pullman School Board Observer Report 2023-10-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-10-11-PubV3.pdf)
 * [Pullman School Board Observer Report 2023-11-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-11-8-PubV2.pdf)
+* [Pullman School Board Observer Report 2023-12-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-12-13-PubV2.pdf)
+* [Pullman School Board Observer Report 2024-1-10](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-1-10-PubV1.pdf)
 
 
 ## Whitman County Commissioners
