@@ -57,14 +57,15 @@ $50 to spend at your local businesses and a copy of the LWVWA civics textbook, T
 
 **Art Competition Flyers and Entry Form:**
 
-* [Click here for the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final
+* [Click here to print the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final
+* [Click here for the On-Line Entry Form]   <!---add this link to get to the on-line (https://docs.google.com/forms/d/e/1FAIpQLScDCffZ5DYZTP7pqc-Xk7Ln3jWQpMiQPSEYFYH2hZ-JGxqdXw/viewform) -->
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pulltabs_QR
 * [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers
 
-**Submit your artwork and completed form by any of the following methods:** 
+**To submit your artwork and completed form by:** 
 
-Drop off:
+Drop-off:
 <br/>
 Neill Public Library in Pullman or Whitman County Library in Colfax
 
@@ -107,5 +108,5 @@ Copyright LWV of Pullman
 
 Written permission required for full or partial embedding
 
-<!---change the title to whatever you want the post to be titled
+<!---the title to whatever you want the post to be titled
 change the ID out to the end of the youtube link https://youtu.be/r61ARK4Qv9c -->
