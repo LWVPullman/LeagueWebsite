@@ -1,5 +1,5 @@
 ---
-title: Public Hospital Districts Program
+title: Engaging With Your Local Public Hospital District
 header:
   video:
     id: 
@@ -9,14 +9,14 @@ categories:
   - PHD Program
 tags:
   - Brown Bag Meeting
-   - PHD Program
+  - PHD Program
 ---
 
-Public Hospital Districts Presentation
+Engaging With Your Local Public Hospital District
 
 Coordinator: Tricia Grantham
 
-Program Description: Coming soon.
+Program Description: 
 
 Zoom link will be provided here closer to the meeting date.
 
