@@ -32,7 +32,7 @@ The right to vote didn’t come easy for everyone.  Join us in exploring the his
 
 **Purpose:**
 
-This Art Competition is for students in grades 3-12 to share their artistic talent in portraying why voting matters.  This contest is designed to encourage understanding of and participation in government.  The LWV is a nonpartisan organization, and, as part of our civics education program this year, we want to celebrate our right to vote.
+This Art Competition is for students in grades 3-12 to share their artistic talent in portraying why voting matters.  This contest is designed to encourage understanding of and participation in government.  <!---LWV is a nonpartisan organization, and, as part of our civics education program this year, we want to celebrate our right to vote. -->
 
 
 **Eligibility:**
