@@ -60,7 +60,7 @@ $50 to spend at your local businesses and a copy of the LWVWA civics textbook, T
 <!---* [Click here to print the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final.pdf)
 * [Click here for the On-Line Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScDCffZ5DYZTP7pqc-Xk7Ln3jWQpMiQPSEYFYH2hZ-JGxqdXw/viewform)
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf)
-* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pulltabs_QR.pdf)
+* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pull_tabs_QR.pdf)
 * [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)
 -->
 
