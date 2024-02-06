@@ -22,7 +22,15 @@ Speakers: Matt Forge, CEO, Pullman Regional Hospital & Tricia Grantham, Pullman 
 
 Program Description: “Over one year ago, we came together to vote on a $27 million bond to give you better access to premier care right here at home. Since then, we have been hard at work, making plans for how to best steward these resources and deliver less waiting, less traveling, and more access to emergency medicine, surgical care and healthcare.” Matt Forge, Pullman Regional Hospital CEO. The presentation will include information on the ABCs of Public Hospital Districts in WA, and an update from Matt on the Hospital Expansion Plan.
 
-Zoom link will be provided here closer to the meeting date.
+Engaging With Your Local Public Hospital District
+
+    [Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
+
+    Zoom Meeting ID: 823 8718 5069
+
+    Passcode: 906666
+
+    [One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-20-PHD_BrownBag.jpg)
 
