@@ -12,27 +12,21 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This competition will be launched on President’s Day, 2024. ** </span>
+<span style="color:red; font-size:1em;"> **This competition is currently in progress.  All entries are due by March 31, 2024.** </span>
 
-This page is still under construction.  Please check back on or after Feb 19, 2024.  You can scroll down to the bottom of this page for links to our past competitions.
-
-<!-- ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-19-VAC_banner.jpg) -->
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-19-VAC_banner.jpg)
 
 Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Kimberly Tompson, Stephanie MacCulloch, Crowe Gammons, Carol Ndambuki
 
-<span style="color:green; font-size:2em;"> **Theme Coming Soon** </span>
+<span style="color:green; font-size:2em;"> **Why Does Voting Matter?** </span>
 
-## Theme?
-<!---Why Does Voting Matter?  -->
-General theme idea will go here.
-<!---Voting is the most basic act of citizenship. 
-YOU are a future Voter!  What MATTERS to you?  Who has the right to VOTE?
-The right to vote didn’t come easy for everyone.  Join us in exploring the history of voting rights, how the voting process works, and how every vote matters. -->
+## Why Does Voting Matter?
 
+Voting is the most basic act of citizenship. YOU are a future Voter!  What MATTERS to you?  Who has the right to VOTE? The right to vote didn’t come easy for everyone.  Join us in exploring the history of voting rights, how the voting process works, and how every vote matters.
 
 **Purpose:**
 
-This Art Competition is for students in grades 3-12 to share their artistic talent in portraying why voting matters.  This contest is designed to encourage understanding of and participation in government.  <!---LWV is a nonpartisan organization, and, as part of our civics education program this year, we want to celebrate our right to vote. -->
+This Art Competition is for students in grades 3-12 to share their artistic talent in portraying why voting matters.  This contest is designed to encourage understanding of and participation in government.  LWV is a nonpartisan organization, and, as part of our civics education program this year, we want to celebrate our right to vote.
 
 
 **Eligibility:**
@@ -57,13 +51,11 @@ $50 to spend at your local businesses and a copy of the LWVWA civics textbook, T
 
 **Art Competition Flyers and Entry Form:**
 
-<!---* [Click here to print the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final.pdf)
+* [Click here to print the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final.pdf)
 * [Click here for the On-Line Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScDCffZ5DYZTP7pqc-Xk7Ln3jWQpMiQPSEYFYH2hZ-JGxqdXw/viewform)
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf)
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pull_tabs_QR.pdf)
 * [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)
--->
-
 **To submit your artwork and completed form:** 
 
 Drop-off:
@@ -87,15 +79,15 @@ Winners will be notified on April 12th via email.  An artists’ reception will 
 
 We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact Deb Olson (olsonbones@aol.com) to schedule a presentation. 
 
-[Click here for the PowerPoint Presentation]( )
+[Click here for the PowerPoint Presentation]( )  Coming soon!
 
-[Click here for the Supplemental Material](https://lwvpullman.org/assets/PDFs/ .pdf)
+[Click here for the Supplemental Material](https://lwvpullman.org/assets/PDFs/2024-02-19-Supplement.pdf)
 
 ## Judges
 
 The judges are appointed by the LWV of Pullman (Whitman County).  They have qualifications in three areas; having knowledge in Government, Art and Environment.  The judges evaluate the submitted artwork based on creative interpretation of the theme.  We will be using [RANKED CHOICE VOTING](https://www.rankedvote.co/) to determine the winners.
 
-[Click here for the Panel of Judges for 2024](https://lwvpullman.org/assets/PDFs/ )
+[Click here for the Panel of Judges for 2024](https://lwvpullman.org/assets/PDFs/ )  Coming soon!
 
 ## Past Competitions
 
