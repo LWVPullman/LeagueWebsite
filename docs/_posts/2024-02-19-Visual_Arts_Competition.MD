@@ -56,7 +56,8 @@ $50 to spend at your local businesses and a copy of the LWVWA civics textbook, T
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf)
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pull_tabs_QR.pdf)
 * [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)
-**To submit your artwork and completed form:** 
+
+**Submit artwork and completed form by either method below:** 
 
 Drop-off:
 <br/>
@@ -73,11 +74,11 @@ ATTN: Art Contest
 
 ## Deadline for submissions: March 31, 2024
 
-Winners will be notified on April 12th via email.  An artists’ reception will be held on Saturday, April 20, 2:00 p.m. at Neill Public Library in Pullman.
+Winners will be notified on April 12th via email.  An artists’ reception will be held on Saturday, April 20, 2:00 p.m. at Neill Public Library in Pullman.  If you have any questions please email the Visual Arts Competition Committee [lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
 
 ## Theme Related Civics Education Presentation
 
-We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact Deb Olson (olsonbones@aol.com) to schedule a presentation. 
+We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation. 
 
 [Click here for the PowerPoint Presentation]( )  Coming soon!
 
