@@ -24,9 +24,10 @@ Program Description: “Over one year ago, we came together to vote on a $27 mil
 
 Engaging With Your Local Public Hospital District
 
-Learn what a public hospital district is and how these structures allow communities to keep their health care local by watching a video created by the Assoc of WA Public Hospital Districts.
+Learn what a public hospital district is and how these structures allow communities to keep their health care local by watching a video created by the Assoc of WA Public Hospital Districts.  [Click here for the Public Hospital District Video](https://www.youtube.com/watch?v=E1kxDK_adCs)
 
-[Public Hospital District Video](https://www.youtube.com/watch?v=E1kxDK_adCs)
+More information about PHD form LWV of Washington - Public Hospital Districts: Making Democracy Work for Local Healthcare.  A 3-Part Civics Education Project of the WA League of Women Voters.  [Click here for the LWVWA PHD information](https://lwvwa.org/public_hospital_districts)
+
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-20-PHD_BrownBag.jpg)
 
