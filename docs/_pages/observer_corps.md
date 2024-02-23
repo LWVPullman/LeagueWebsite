@@ -30,11 +30,13 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 {% include feature_row id="article1" type="center" %}
 
-## The League is currently observing 6 City and 2 County entities with 10 observers!
+## The League is currently observing 7 City and 2 County entities with 10 observers!
 
 Observer Team Leader - Roger Crawford
 
 Pullman City Council – Kelly McGee, Karyn Hardy (backup)
+
+Pullman's Diversity Equity, Inclusion and Belonging Committee - Tricia Grantham
 
 Pullman Neill Public Library Board – OBSERVER NEEDED
 
