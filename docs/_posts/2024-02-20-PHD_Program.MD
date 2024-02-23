@@ -24,13 +24,9 @@ Program Description: “Over one year ago, we came together to vote on a $27 mil
 
 Engaging With Your Local Public Hospital District
 
-    [Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
+Learn what a public hospital district is and how these structures allow communities to keep their health care local by watching a video created by the Assoc of WA Public Hospital Districts.
 
-    Zoom Meeting ID: 823 8718 5069
-
-    Passcode: 906666
-
-    [One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
+[Public Hospital District Video](https://www.youtube.com/watch?v=E1kxDK_adCs)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-20-PHD_BrownBag.jpg)
 
