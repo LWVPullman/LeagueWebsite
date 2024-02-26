@@ -80,7 +80,7 @@ Winners will be notified on April 12th via email.  An artists’ reception will 
 
 We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation. 
 
-[Click here for the PowerPoint Presentation]( )  Coming soon!
+[Click here for the PowerPoint Presentation](https://drive.google.com/file/d/1jEWGlKqQZwSddi8cwIu-JGmq5kmsQrxc/view)
 
 [Click here for the Supplemental Material](https://lwvpullman.org/assets/PDFs/2024-02-19-Supplement.pdf)
 

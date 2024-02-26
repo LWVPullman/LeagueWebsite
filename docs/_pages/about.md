@@ -35,9 +35,11 @@ New members are invited to connect with [Paul Spencer](mailto:paulrrspencer@gmai
 
 The structure of the League parallels the representative system of government under which we live. Our local, state and national governments are dependent one upon the other; the base is the individual citizen. The several League levels are also interdependent. Members determine the policies and program of all league levels. Membership is simultaneous on all three levels where applicable.
 
-## Nonpartisanship
+## Nonpartisanship Statement
 
 The League acts in support of, or in opposition to, selected governmental issues which its members have studied. It does not support or oppose candidates, factions or political parties. League members, as individuals, are urged to work in the political party of their choice. In order to protect the League's nonpartisanship policy, guidelines regarding the political activities of the Board of Directors are reviewed frequently.
+
+The League is fully committed to diversity, equity, and inclusion in principle and practice.  These concepts are central to our current and future success in engaging all individuals, households, communities, and policy makers in creating a more perfect democracy. We acknowledge and honor the first people of the Palouse Region and their descendants including our neighbors the Nez Perce, Colville, and Coeur d’Alene Tribes.
 
 ## Diversity, Equity, and Inclusion
 
