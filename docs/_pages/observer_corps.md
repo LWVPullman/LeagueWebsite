@@ -30,7 +30,7 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 {% include feature_row id="article1" type="center" %}
 
-## The League is currently observing 7 City and 2 County entities with 10 observers!
+## The League is currently observing 8 City and 2 County entities with 13 observers!
 
 Observer Team Leader - Roger Crawford
 
