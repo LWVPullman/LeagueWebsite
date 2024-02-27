@@ -30,7 +30,7 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 {% include feature_row id="article1" type="center" %}
 
-## The League is currently observing 7 City and 2 County entities with 10 observers!
+## The League is currently observing 7 City and 2 County  with 10 observers!
 
 Observer Team Leader - Roger Crawford
 
@@ -55,6 +55,10 @@ Whitman County Planning Commission – Shelley Chambers Fox
 Whitman County Solid Waste Advisory Committee – Deb Olson
 
 Port of Whitman County Commissioners – OBSERVER NEEDED
+
+Pullman Diversity, Equity, Inclusion and Belonging Committee - Tricia Grantham (Meets 4:00 pm 3rd Thursday of each month)
+
+Pullman Historic Preservation Committee - Aly Welch and Roger Crawford (Meets 7:30 pm 2nd Monday of each month)
 
 ## Becoming an Observer
 If you are looking for a way to become involved in your League by observing the business conducted by a local governmental entity, please check out the Observer Corp Guidelines. Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
