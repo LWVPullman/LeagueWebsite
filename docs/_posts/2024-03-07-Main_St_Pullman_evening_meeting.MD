@@ -1,5 +1,5 @@
 ---
-title: Becoming a Main Street City: Downtown Pullman
+title: Becoming a Main Street City and the Project Downtown Pullman
 header:
   video:
     id: 
@@ -13,7 +13,7 @@ tags:
   - Main Street City
 ---
 
-Becoming a Main Street City: Downtown Pullman
+Becoming a Main Street City: Project Downtown Pullman
 
 Coordinator: Bobbie Ryder
 
