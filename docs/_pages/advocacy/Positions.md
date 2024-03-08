@@ -44,7 +44,7 @@ c. cooperative relationships with other area libraries while maintaining local a
 
 9. **Addressing Poverty in Whitman County**:
 **General Statement**:
-In a two year-long study (20146-2016) the League of Women voters found that poverty is a serious issue in Whitman County affecting approximately 17 % of residents who are not university students. The LWV of Pullman strongly supports local actions to alleviate and prevent poverty in Whitman County, especially those
+In a two year-long study (2014-2016) the League of Women voters found that poverty is a serious issue in Whitman County affecting approximately 17 % of residents who are not university students. The LWV of Pullman strongly supports local actions to alleviate and prevent poverty in Whitman County, especially those
 listed in the positions below.
 
 a. **Resource Accessibility and Data Gathering**:
