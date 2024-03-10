@@ -82,6 +82,8 @@ We have a small group of league volunteers who are prepared to give in-person pr
 
 [Click here for the PowerPoint Presentation](https://drive.google.com/file/d/1jEWGlKqQZwSddi8cwIu-JGmq5kmsQrxc/view)
 
+[Click here for a PDF of the PowerPoint Presentation](https://lwvpullman.org/assets/PDFs/2024-03-10-VACC_Voting_Powerpoint.pdf)
+
 [Click here for the Supplemental Material](https://lwvpullman.org/assets/PDFs/2024-02-19-Supplement.pdf)
 
 ## Judges
