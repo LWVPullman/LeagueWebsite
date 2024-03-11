@@ -53,6 +53,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 ## Pullman's diversity equity, inclusion and Belonging Committee
 
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-1-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-1-18-Pub.pdf)
+* [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-2-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-2-29-Pub.pdf)
 
 ## Neill Public Library Board
 
