@@ -24,6 +24,10 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Arts Commission Observer Report 2021-7-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2021-7-13-Redacted.pdf)
 * [Pullman Arts Commission Observer Report 2021-10-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2021-10-12-Pub.pdf)
 
+## Pullman Historical Preservation Commission
+* [Pullman Historical Preservation Observer Report 2024-3-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-3-11-Pub.pdf)
+
+
 ## Pullman City Council
 
 * [Pullman City Council Observer Report 2021-1-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2021-1-12-Pub.pdf)
@@ -53,6 +57,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 ## Pullman's diversity equity, inclusion and Belonging Committee
 
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-1-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-1-18-Pub.pdf)
+* [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-2-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-2-29-Pub.pdf)
 
 ## Neill Public Library Board
 
@@ -180,6 +185,8 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman School Board Observer Report 2023-11-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-11-8-PubV2.pdf)
 * [Pullman School Board Observer Report 2023-12-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2023-12-13-PubV2.pdf)
 * [Pullman School Board Observer Report 2024-1-10](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-1-10-PubV1.pdf)
+* [Pullman School Board Observer Report 2024-1-24](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-1-24-Pub.pdf)
+* [Pullman School Board Observer Report 2024-2-14](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-2-14-Pub.pdf)
 
 
 
@@ -227,6 +234,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2023-2-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2023-2-1-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2023-9-20](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2023-9-20-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2023-11-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2023-11-1-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2024-3-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-3-6-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
