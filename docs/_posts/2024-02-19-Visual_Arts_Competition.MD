@@ -12,7 +12,7 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This competition is currently in progress.  All entries are due by March 31, 2024.** </span>
+<span style="color:red; font-size:1em;"> **All entries have been submitted and will be evaluated soon. Check back here for updates.  Winners will be notified on April 12th.  All artists are invited for the reception on April 20th at 2:00 pm at Neill Public Library.** </span>
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-19-VAC_banner.jpg)
 
