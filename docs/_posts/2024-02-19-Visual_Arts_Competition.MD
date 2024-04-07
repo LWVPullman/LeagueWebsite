@@ -14,6 +14,10 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **All entries have been submitted and will be evaluated soon. Check back here for updates.  Winners will be notified on April 12th.  All artists are invited for the reception on April 20th at 2:00 pm at Neill Public Library.** </span>
 
+Check out the artwork display our League members set out at Neill Public Library, April 3-20.  A big shout-out to the library and staff for the space and the assistance.  [The panel of judges ](https://lwvpullman.org/assets/PDFs/2024-04-03-Judges_Bios_VAC.pdf) reviewed the artwork and the tallies are being counted.  
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-03-VAC_Judging_collage.jpg)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-19-VAC_banner.jpg)
 
 Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Kimberly Tompson, Stephanie MacCulloch, Crowe Gammons, Carol Ndambuki
@@ -90,7 +94,7 @@ We have a small group of league volunteers who are prepared to give in-person pr
 
 The judges are appointed by the LWV of Pullman (Whitman County).  They have qualifications in three areas; having knowledge in Government, Art and Environment.  The judges evaluate the submitted artwork based on creative interpretation of the theme.  We will be using [RANKED CHOICE VOTING](https://www.rankedvote.co/) to determine the winners.
 
-[Click here for the Panel of Judges for 2024](https://lwvpullman.org/assets/PDFs/ )  Coming soon!
+[Click here for the Panel of Judges for 2024](https://lwvpullman.org/assets/PDFs/2024-04-03-Judges_Bios_VAC.pdf)
 
 ## Past Competitions
 
