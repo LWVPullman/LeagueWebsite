@@ -18,6 +18,8 @@ Check out the artwork display our League members set out at Neill Public Library
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-03-VAC_Judging_collage.jpg)
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-03-Collage_of_artwork.jpg)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-02-19-VAC_banner.jpg)
 
 Visual Arts Comeptition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Beeler Lile, Karyn Hardy, Kimberly Tompson, Stephanie MacCulloch, Crowe Gammons, Carol Ndambuki
