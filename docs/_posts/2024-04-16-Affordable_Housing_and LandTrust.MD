@@ -26,7 +26,7 @@ Nils Peterson is celebrating his 10th year as the executive director of the Mosc
 
 The Zoom link will be provided here a few days before the meeting. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ )
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-16-Affortable_Housing_BB.jpg)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
