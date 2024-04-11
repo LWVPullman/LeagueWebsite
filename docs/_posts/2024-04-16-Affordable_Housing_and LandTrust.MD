@@ -24,7 +24,12 @@ Program Description:  Creating Permanently Affordable Home Ownership with a Comm
 
 Nils Peterson is celebrating his 10th year as the executive director of the Moscow Affordable Housing Trust, a position he took after retiring from Washington State University.  He will provide some insights into why access to affordable ownership is important to Pullman, how a Land Trust can help, and answer questions. 
 
-The Zoom link will be provided here a few days before the meeting. 
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
+
+Zoom Meeting ID: 823 8718 5069
+Passcode: 906666
+
+[One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-16-Affortable_Housing_BB.jpg)
 
