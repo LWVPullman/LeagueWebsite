@@ -12,7 +12,9 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **All entries have been submitted and will be evaluated soon. Check back here for updates.  Winners will be notified on April 12th.  All artists are invited for the reception on April 20th at 2:00 pm at Neill Public Library.** </span>
+<span style="color:red; font-size:1em;"> **All artists, their family, and the public are invited to the artists reception on April 20th at 2:00 pm at Neill Public Library.  All of the artists will be recognized and the winners will receive their prizes.** </span>
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-VAC_Reception_banner_website.jpg)
 
 Check out the artwork display our League members set out at Neill Public Library, April 3-20.  A big shout-out to the library and staff for the space and the assistance.  [The panel of judges ](https://lwvpullman.org/assets/PDFs/2024-04-03-Judges_Bios_VAC.pdf) reviewed the artwork and the tallies are being counted.  
 
