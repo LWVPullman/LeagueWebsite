@@ -12,7 +12,11 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **All artists, their family, and the public are invited to the artists reception on April 20th at 2:00 pm at Neill Public Library.  All of the artists will be recognized and the winners will receive their prizes.** </span>
+<span style="color:red; font-size:1em;"> **All of the artists were recognized at the reception and the winners received their prizes.** </span>
+
+Here are the winning entries...
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-Winners_Collage_angled.jpg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-VAC_Reception_banner_website.jpg)
 
