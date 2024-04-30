@@ -2,7 +2,7 @@
 title: Affordable Home Ownership and Land Trust 
 header:
   video:
-    id: 
+    id: 41kChrFrXQo
     provider: youtube
 categories:
   - Brown Bag Meeting
