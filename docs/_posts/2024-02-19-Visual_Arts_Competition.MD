@@ -18,6 +18,10 @@ Here are the winning entries...
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-Winners_Collage_angled.jpg)
 
+Artists' Reception on April 20th at Neill Public Library where all the artists were recognized and the winning artists received their prizes...
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-20-Artists_reception.JPG)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-04-VAC_Reception_banner_website.jpg)
 
 Check out the artwork display our League members set out at Neill Public Library, April 3-20.  A big shout-out to the library and staff for the space and the assistance.  [The panel of judges ](https://lwvpullman.org/assets/PDFs/2024-04-03-Judges_Bios_VAC.pdf) reviewed the artwork and the tallies are being counted.  
@@ -100,7 +104,7 @@ We have a small group of league volunteers who are prepared to give in-person pr
 
 ## Judges
 
-The judges are appointed by the LWV of Pullman (Whitman County).  They have qualifications in three areas; having knowledge in Government, Art and Environment.  The judges evaluate the submitted artwork based on creative interpretation of the theme.  We will be using [RANKED CHOICE VOTING](https://www.rankedvote.co/) to determine the winners.
+The judges are appointed by the LWV of Pullman (Whitman County).  The judges evaluate the submitted artwork based on creative interpretation of the theme.
 
 [Click here for the Panel of Judges for 2024](https://lwvpullman.org/assets/PDFs/2024-04-03-Judges_Bios_VAC.pdf)
 
