@@ -104,7 +104,15 @@ We have a small group of league volunteers who are prepared to give in-person pr
 
 ## Judges
 
-The judges are appointed by the LWV of Pullman (Whitman County).  The judges evaluate the submitted artwork based on creative interpretation of the theme.
+The judges are appointed by the LWV of Pullman (Whitman County).  The judges evaluate the submitted artwork using a Rubric scoring system with the following criteria.
+
+Relevance to the theme:  Development of theme through creativity. How well does artwork depict theme.
+
+Visual effectiveness:  Overall appearance. Evidence of planning and preparation. 
+
+Originality:  Uniqueness of ideas.
+
+Message:  Clearly describes the artist’s intent.
 
 [Click here for the Panel of Judges for 2024](https://lwvpullman.org/assets/PDFs/2024-04-03-Judges_Bios_VAC.pdf)
 
