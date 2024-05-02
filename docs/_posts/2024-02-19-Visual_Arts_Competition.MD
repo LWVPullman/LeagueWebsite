@@ -12,7 +12,11 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **All of the artists were recognized at the reception and the winners received their prizes.** </span>
+<span style="color:red; font-size:1em;"> **This competition has ended! The next competition will be launched on President’s Day, 2025. ** </span>
+
+Congratulations to the winners of the LWV of Pullman and Whitman County’s Third Annual Visual Arts Competition. Thank you to the artists, their families, Whitman County Library, and Neill Public Library for supporting this program.  Scroll down to see all about this year’s completion…
+
+[Click here for a slide presentation of all the "Why Voting Matters" Artwork](https://lwvpullman.org/assets/PDFs/2024-04-Artwork_slideshow.pdf)
 
 Here are the winning entries...
 
