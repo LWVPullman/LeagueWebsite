@@ -14,6 +14,10 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition has ended! The next competition will be launched on President’s Day, 2025. ** </span>
 
+All artwork will be displayed at the League’s booth during the 3 Forks River & Arts Festival in Pullman on Saturday, May 18th, 10:00 am to 5:00 pm.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-05-18-3Forks_Art_Fest.jpg)
+
 Congratulations to the winners of the LWV of Pullman and Whitman County’s Third Annual Visual Arts Competition. Thank you to the artists, their families, Whitman County Library, and Neill Public Library for supporting this program.  Scroll down to see all about this year’s completion…
 
 [Click here for a slide presentation of all the "Why Voting Matters" Artwork](https://lwvpullman.org/assets/PDFs/2024-04-Artwork_slideshow.pdf)
