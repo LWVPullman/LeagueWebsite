@@ -133,6 +133,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Regional Hospital Board Observer Report 2023-8-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2023-8-2-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2023-12-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2023-12-6-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2024-2-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-2-7-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2024-4-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-4-3-Pub.pdf)
 
 
 ## Pullman School Board
@@ -188,6 +189,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman School Board Observer Report 2024-1-24](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-1-24-Pub.pdf)
 * [Pullman School Board Observer Report 2024-2-14](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-2-14-Pub.pdf)
 * [Pullman School Board Observer Report 2024-3-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-3-13-Pub.pdf)
+* [Pullman School Board Observer Report 2024-3-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-3-27-Pub.pdf)
 
 
 
