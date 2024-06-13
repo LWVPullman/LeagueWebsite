@@ -26,6 +26,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 
 ## Pullman Historical Preservation Commission
 * [Pullman Historical Preservation Observer Report 2024-3-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-3-11-Pub.pdf)
+* [Pullman Historic Preservation Committee Observer Report 2024-4-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-4-15-Pub.pdf)
 
 
 ## Pullman City Council
@@ -59,10 +60,6 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-1-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-1-18-Pub.pdf)
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-2-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-2-29-Pub.pdf)
-
-## Pullman's Historic preservation Committee
-
-* [Pullman Historic Preservation Committee Observer Report 2024-4-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-4-15-Pub.pdf)
 
 ## Neill Public Library Board
 
