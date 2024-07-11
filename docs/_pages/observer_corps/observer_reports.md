@@ -26,6 +26,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 
 ## Pullman Historical Preservation Commission
 * [Pullman Historical Preservation Observer Report 2024-3-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-3-11-Pub.pdf)
+* [Pullman Historic Preservation Committee Observer Report 2024-4-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-4-15-Pub.pdf)
 
 
 ## Pullman City Council
@@ -53,6 +54,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman City Council Observer Report 2022-3-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-3-15-Pub.pdf)
 * [Pullman City Council Observer Report 2022-9-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-9-27-Pub.pdf)
 * [Pullman City Council Observer Report 2022-11-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-11-15-Pub.pdf)
+* [Pullman City Council Observer Report 2024-3-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2024-3-26-Pub.pdf)
 
 ## Pullman's diversity equity, inclusion and Belonging Committee
 
@@ -110,6 +112,8 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman/Moscow Regional Airport Board Observer Report 2023-5-31](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2023-5-31-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2023-7-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2023-7-26-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2023-9-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2023-9-27-Pub.pdf)
+* [Pullman/Moscow Regional Airport Board Observer Report 2024-4-24](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-4-24-Pub.pdf)
+* [Pullman/Moscow Regional Airport Board Observer Report 2024-5-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-5-29-Pub.pdf)
 
 ## Pullman Regional Hospital
 
@@ -133,6 +137,9 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Regional Hospital Board Observer Report 2023-8-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2023-8-2-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2023-12-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2023-12-6-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2024-2-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-2-7-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2024-3-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-3-3-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2024-4-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-4-3-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2024-5-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-5-1-Pub.pdf)
 
 
 ## Pullman School Board
@@ -188,6 +195,11 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman School Board Observer Report 2024-1-24](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-1-24-Pub.pdf)
 * [Pullman School Board Observer Report 2024-2-14](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-2-14-Pub.pdf)
 * [Pullman School Board Observer Report 2024-3-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-3-13-Pub.pdf)
+* [Pullman School Board Observer Report 2024-3-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-3-27-Pub.pdf)
+* [Pullman School Board Observer Report 2024-4-17](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-4-17-Pub.pdf)
+* [Pullman School Board Observer Report 2024-4-24](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-4-24-Pub.pdf)
+* [Pullman School Board Observer Report 2024-5-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-5-8-Pub.pdf)
+* [Pullman School Board Observer Report 2024-5-22](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-5-22-Pub.pdf)
 
 
 
@@ -235,7 +247,11 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2023-2-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2023-2-1-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2023-9-20](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2023-9-20-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2023-11-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2023-11-1-Pub.pdf)
-* [Whitman County Planning Commission Observer Report 2024-3-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-3-6-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2023-12-6](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2023-12-6-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2024-1-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-1-3-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2024-2-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-2-7-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2024-5-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-5-1-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2024-5-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-5-15-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
