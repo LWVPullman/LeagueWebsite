@@ -14,7 +14,13 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition has ended! The next competition will be launched on President’s Day, 2025. ** </span>
 
-All artwork will be displayed at the League’s booth during the 3 Forks River & Arts Festival in Pullman on Saturday, May 18th, 10:00 am to 5:00 pm.
+[Click here for a slide presentation of all the "Why Voting Matters" Artwork](https://lwvpullman.org/assets/PDFs/2024-04-Artwork_slideshow.pdf)
+
+All art pieces from the 2024 Visual Arts Competition on display at the Libey Gallery in the Whitman County Library from July 1st-July 13th.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-07-01-Libey_Gallery.JPG)
+
+All artwork was displayed at the League’s booth during the 3 Forks River & Arts Festival in Pullman on Saturday, May 18th, 10:00 am to 5:00 pm.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-05-18-3Forks_Art_Fest.jpg)
 
