@@ -2,7 +2,7 @@
 title: Washington State House of Representatives Forum
 header:
   video:
-    id: 
+    id: t8Rzy20O-PQ
     provider: youtube
 categories:
   - Evening meeting
@@ -18,12 +18,11 @@ Coordinators: Deborah Olson
 
 Program Description:  
 
-The League of Women Voters of Pullman/Whitman County will host a candidate forum for the Washington State House of Representatives Position.
+The League of Women Voters of Pullman/Whitman County hosted a candidate forum for the Washington State House of Representatives Position on Monday, July 15, at 6:00 PM at Neill Public Library.
 
-The forum will be held on Monday, July 15, at 6:00 PM at Neill Public Library.
-
-The candidates are Joe Schmick (R-Colfax, incumbent), Arianna Arends (D-Spokane), and Pam Kohlmeier (D-Spokane).
+The candidates: Joe Schmick (R-Colfax, incumbent), Arianna Arends (D-Spokane), and Pam Kohlmeier (D-Spokane).
   
+The forum was recorded via Zoom and can be seen on the League's YouTube Channel.  
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-07-15-WA_House_Reps_Forum.jpg)
 
