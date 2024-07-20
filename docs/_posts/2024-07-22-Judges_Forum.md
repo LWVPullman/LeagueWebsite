@@ -20,9 +20,13 @@ Program Description:
 
 The League of Women Voters of Pullman/Whitman County will host a candidate forum for Whitman County Superior Court Judge Position.
 
-The forum will be held on Monday, July 22, at 6:00 PM at Neill Public Library.
-
 The candidates are Jenna Brozik, Steve Martonick, and Roger Sanbdberg.
+
+The forum will be held in person on Monday, July 22, at 6:00 PM at Neill Public Library.  You may also join via Zoom.  
+
+[Join the Live Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
+
+Zoom Meeting ID: 823 8718 5069 Passcode: 906666
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-07-22-Judge_Forum.jpg)
 
