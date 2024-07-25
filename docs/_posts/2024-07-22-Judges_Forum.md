@@ -2,7 +2,7 @@
 title: Whitman County Superior Court Judge Candidate Forum
 header:
   video:
-    id: 
+    id: so5feT8kdfE
     provider: youtube
 categories:
   - Evening meeting
@@ -18,15 +18,11 @@ Coordinators: Deborah Olson
 
 Program Description:  
 
-The League of Women Voters of Pullman/Whitman County will host a candidate forum for Whitman County Superior Court Judge Position.
+The League of Women Voters of Pullman/Whitman County hosted a candidate forum for Whitman County Superior Court Judge Position.
 
-The candidates are Jenna Brozik, Steve Martonick, and Roger Sanbdberg.
+Candidates: Jenna Brozik, Steve Martonick, and Roger Sanbdberg.
 
-The forum will be held in person on Monday, July 22, at 6:00 PM at Neill Public Library.  You may also join via Zoom.  
-
-[Join the Live Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
-
-Zoom Meeting ID: 823 8718 5069 Passcode: 906666
+The forum was held in person on Monday, July 22, at 6:00 PM at Neill Public Library.  
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-07-22-Judge_Forum.jpg)
 
