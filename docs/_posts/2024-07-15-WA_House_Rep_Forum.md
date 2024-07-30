@@ -18,7 +18,7 @@ Coordinators: Deborah Olson
 
 Program Description:  
 
-The League of Women Voters of Pullman/Whitman County hosted a candidate forum for the Washington State House of Representatives Position on Monday, July 15, at 6:00 PM at Neill Public Library.
+The League of Women Voters of Pullman/Whitman County hosted a candidate forum for the Washington State House of Representatives District 9, Position 2 on Monday, July 15, at 6:00 PM at Neill Public Library.
 
 The candidates: Joe Schmick (R-Colfax, incumbent), Arianna Arends (D-Spokane), and Pam Kohlmeier (D-Spokane).
   
