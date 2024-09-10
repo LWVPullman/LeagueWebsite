@@ -70,7 +70,7 @@ If you are looking for a way to become involved in your League by observing the 
 
 Observers use this form to complete their reports.
 
-[Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2023-04-06-New_Obs_report_form.pdf)
+[Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-9-9ReportForm.pdf)
 
 ## Abbreviated LWV Positions
 
