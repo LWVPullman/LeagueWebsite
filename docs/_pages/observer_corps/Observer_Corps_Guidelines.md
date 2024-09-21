@@ -57,7 +57,7 @@ If possible, the Observer Corps Chair should be notified in advance so that a su
 * Agency's functions and/or services it provides
 * Agency's availability of agendas and other public materials
 * Link to the agency's website.
-* [LWV of Pullman Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
+* [LWV of Pullman Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-9-9ReportForm.pdf)
 * [LWV of Pullman Guidelines and FAQs](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Observor_GuidelinesFAQs-2021-09.pdf)
 * [Sample of actual reports](https://lwvpullman.org/observer_corps/Observer_reports/)
 * [LWV of Pullman’s current Position Statements](https://lwvpullman.org/advocacy/League_positions/)
