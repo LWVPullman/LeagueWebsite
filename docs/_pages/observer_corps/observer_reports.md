@@ -28,6 +28,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Historical Preservation Observer Report 2024-3-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-3-11-Pub.pdf)
 * [Pullman Historic Preservation Committee Observer Report 2024-4-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-4-15-Pub.pdf)
 * [Pullman Historic Preservation Committee Observer Report 2024-5-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-5-13-Pub.pdf)
+* [Pullman Historic Preservation Committee Observer Report 2024-6-10](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-6-10-Pub.pdf)
 
 
 ## Pullman City Council
