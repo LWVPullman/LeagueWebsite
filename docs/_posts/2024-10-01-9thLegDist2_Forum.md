@@ -22,7 +22,7 @@ The League of Women Voters of Pullman/Whitman County will host a candidate forum
 
 This meeting will also be available via Zoom.  Zoom information will be posted here closer to the event.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-10-01-House_Reps_Forum.jpg)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
