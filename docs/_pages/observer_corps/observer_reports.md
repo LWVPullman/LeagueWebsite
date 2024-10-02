@@ -105,6 +105,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Planning Commission Observer Report 2024-3-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2024-3-27-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2024-5-22](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2024-5-22-Pub.pdf)
 
+
 ## Pullman/Moscow Regional Airport Board
 
 * [Pullman/Moscow Regional Airport Board Observer Report 2021-4-28](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2021-4-28.pdf)
@@ -146,6 +147,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Regional Hospital Board Observer Report 2024-3-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-3-3-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2024-4-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-4-3-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2024-5-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-5-1-Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2024-8-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2024-8-7-Pub.pdf)
 
 
 ## Pullman School Board
@@ -259,6 +261,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2024-4-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-4-3-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2024-5-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-5-1-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2024-5-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-5-15-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2024-9-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-9-18-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
