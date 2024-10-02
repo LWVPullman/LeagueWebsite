@@ -2,7 +2,7 @@
 title: 9th Legislative District Position 2 Candidate Forum
 header:
   video:
-    id:
+    id: 40iCFfdu3DY
     provider: youtube
 categories:
   - Evening meeting
@@ -18,19 +18,7 @@ Coordinators: Deborah Olson
 
 Program Description:  
 
-The League of Women Voters of Pullman/Whitman County will host a candidate forum for the 9th Legislative District Position 2.  The candidates are Joe Schmick (Republican Incumbent) versus Dr. Pam Kohlmeier (Democrat).  The forum will be held at the Whitman County Library in Colfax on Tuesday, October 1, 2024 from 6:30 - 8:00 pm.
-
-This meeting will also be available via Zoom.
-
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
-
-
-Zoom Meeting ID: 823 8718 5069
-
-Passcode: 906666
-
-[One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
-
+The League of Women Voters of Pullman/Whitman County hosted a candidate forum for the 9th Legislative District Position 2.  The candidates are Joe Schmick (Republican Incumbent) versus Dr. Pam Kohlmeier (Democrat).  The forum was held at the Whitman County Library in Colfax on Tuesday, October 1, 2024 from 6:30 - 8:00 pm.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2024-10-01-House_Reps_Forum.jpg)
 
