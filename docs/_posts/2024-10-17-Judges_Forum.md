@@ -18,7 +18,7 @@ Coordinators: Deborah Olson
 
 Program Description:  
 
-The League of Women Voters of Pullman and  Whitman County will be holding a candidate forum for the Whitman Superior Court Judge Position 1.  The candidates are Jenna Brozik and Roger Sandberg.  The forum will be held at Neill Public Library in Pullman on Thursday, October 17, 2024 from 6:00 - 7:30 pm.
+The League of Women Voters of Pullman and  Whitman County will be holding a candidate forum for the Whitman Superior Court Judge Position 1.  The candidates are Jenna Brozik and Roger Sandberg.  The forum will be held at Neill Public Library in Pullman on Thursday, October 17, 2024 from 6:00 - 7:00 pm.
 
 This meeting will also be available via Zoom.
 

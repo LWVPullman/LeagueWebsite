@@ -18,7 +18,7 @@ Coordinators: Deborah Olson
 
 Program Description:  
 
-The League of Women Voters of Pullman and  Whitman County will be holding a candidate forum for the Washington State House District 9 Pos. 1.  The candidates are Mary Dye (Incumbent, Prefers GOP Party) and Patrick Miller (Prefers Democratic Party).  The forum will be held at Neill Public Library in Pullman on Friday, October 11, 2024 from 6:00 - 7:30 pm.
+The League of Women Voters of Pullman and  Whitman County will be holding a candidate forum for the Washington State House District 9 Pos. 1.  The candidates are Mary Dye (Incumbent, Prefers GOP Party) and Patrick Miller (Prefers Democratic Party).  The forum will be held at Neill Public Library in Pullman on Friday, October 11, 2024 from 6:00 - 7:00 pm.
 
 This meeting will also be available via Zoom.
 
