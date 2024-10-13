@@ -15,6 +15,7 @@ Any United States citizen who is at least 16 years of age may join the League of
 All members are invited to fill out an [Experience and Interests Survey](https://lwvpullman.org/assets/PDFs/2022-09-Experience_Interests_Survey.pdf) for volunteering opportunities. 
 
 **Volunteering Opportunities Signup Zone**
-Signup Zone is a platform for volunteers to sign up to help with our League events. Clink on the event you would like to sign up for.  It will bring you to a page with information about the event and date/time slots to add your name.  You made 
 
-[Ballot Opening at Elections Office in Nov 2024, Colfax](https://signup.zone/CmsbNstaMiMmsZrXy)
+Signup Zone is a platform for volunteers to sign up to help with our League events. Clink on the event you would like to sign up for.  It will bring you to a page with information about the event and date/time slots to add your name.  You may make an account on Signup Zone but it is not necessary to do so just to add your name.  Thanks for helping make democracy work.
+
+[Ballot Opening at Elections Office in Colfax during Nov 2024](https://signup.zone/CmsbNstaMiMmsZrXy)
