@@ -66,7 +66,4 @@ Find out who your legislators are and how to contact them here
 [Whitman County Library](http://www.whitco.lib.wa.us/)
 [Pullman Historic Preservation Commission](http://www.pullman-wa.gov/city-council-boards/city-boards/historic-preservation-commission)
 
-## Ohio University information about U.S. Government
 
-Link suggested by Student Hanna at Kirkland WA
-[Kid's Guide to the United States Government](https://onlinemasters.ohio.edu/masters-public-administration/kids-guide-to-the-united-states-government/)
