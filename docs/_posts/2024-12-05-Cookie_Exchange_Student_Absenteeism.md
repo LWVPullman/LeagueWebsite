@@ -1,5 +1,5 @@
 ---
-title: Holiday Cookie Exchange and Student Absenteeism
+title: Holiday Cookie Exchange and Program
 header:
   video:
     id: 
@@ -14,13 +14,13 @@ tags:
   - Holiday cookie exchange
 ---
 
-# Absenteeism in Middle School and High School: New Tools and Research Directions
+# Using WARNS to Start a Conversation about Absenteeism and School Engagement
 
 # & Holiday Cookie Exchange
 
 Program Coordinator: Roger Crawford and location hosted by Kat Odell
 
-The LWV of Pullman invites you to a Holiday Cookie Exchange, featuring the following engaging educational program.  This event is open to the public.
+The LWV of Pullman invites you to a Holiday Cookie Exchange, featuring the following engaging educational program.  PLease bring cookies to share and exchange.  This event is open to the public.
 
 Thursday December 5, 2024
 
