@@ -77,7 +77,7 @@ Winners will be notified on April 11th. An artists’ reception will be held on 
 
 More information will be launched on Feb 17, 2025...
 
-<!___
+<!---
 ## Theme Related Civics Education Presentation
 
 We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation. 
@@ -103,7 +103,7 @@ Message:  Clearly describes the artist’s intent.
 
 [Click here for the Panel of Judges for 2025]()
 
-__>
+-->
 
 ## Past Competitions
 
