@@ -17,7 +17,7 @@ Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, 
 
 <span style="color:green; font-size:2em;"> **2025 Theme?** </span>
 
-##Complete information will be available here starting Feb 17, 2025. 
+Complete information will be available here starting Feb 17, 2025. 
 
 
 **Purpose:**
@@ -47,14 +47,13 @@ Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, 
 
 Multiple winners will be awarded prizes within each grade grouping.  The winning prizes will be **$50** to spend at local businesses and a copy of the LWVWA civics textbook, The State We’re In: Washington.  
 
-**Art Competition Flyers and Entry Form:**
-<!---
+<!---*Art Competition Flyers and Entry Form:**
+
 * [Click here to print the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final.pdf)
 * [Click here for the On-Line Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScDCffZ5DYZTP7pqc-Xk7Ln3jWQpMiQPSEYFYH2hZ-JGxqdXw/viewform)
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf)
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pull_tabs_QR.pdf)
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)
--->
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)-->
 **Submit artwork and completed form by either method below:** 
 
 Drop-off:
@@ -77,8 +76,7 @@ Winners will be notified on April 11th. An artists’ reception will be held on 
 
 More information will be launched on Feb 17, 2025...
 
-<!___
-## Theme Related Civics Education Presentation
+<!---## Theme Related Civics Education Presentation
 
 We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation. 
 
@@ -101,18 +99,15 @@ Originality:  Uniqueness of ideas.
 
 Message:  Clearly describes the artist’s intent.
 
-[Click here for the Panel of Judges for 2025]()
-
-__>
+[Click here for the Panel of Judges for 2025]()-->
 
 ## Past Competitions
 
-Why Does Voting Matter? [2024 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition/)
+[2024 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition/) Why Does Voting Matter? 
 
-Earth Art: Civics and the Natural World are connected. [2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Art_Competition/)
+[2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Art_Competition/) Earth Art: Civics and the Natural World are connected. 
 
-What Does Democracy look like to you? [2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/)
-
+[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/) What Does Democracy look like to you? 
 
 
 Copyright LWV of Pullman
