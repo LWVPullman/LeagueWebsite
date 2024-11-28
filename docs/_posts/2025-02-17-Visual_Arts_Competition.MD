@@ -107,12 +107,11 @@ Message:  Clearly describes the artist’s intent.
 
 ## Past Competitions
 
-Why Does Voting Matter? [2024 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition/)
+[2024 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition/) Why Does Voting Matter? 
 
-Earth Art: Civics and the Natural World are connected. [2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Art_Competition/)
+[2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Art_Competition/) Earth Art: Civics and the Natural World are connected. 
 
-What Does Democracy look like to you? [2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/)
-
+[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/) What Does Democracy look like to you? 
 
 
 Copyright LWV of Pullman
