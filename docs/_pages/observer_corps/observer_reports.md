@@ -121,6 +121,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman/Moscow Regional Airport Board Observer Report 2024-5-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-5-29-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2024-6-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-6-26-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2024-7-31](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-7-31-Pub.pdf)
+* [Pullman/Moscow Regional Airport Board Observer Report 2024-10-30](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-10-30-Pub.pdf)
 
 ## Pullman Regional Hospital
 
@@ -268,6 +269,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2024-5-1](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-5-1-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2024-5-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-5-15-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2024-9-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-9-18-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2024-10-16](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2024-10-16-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
@@ -284,6 +286,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Port of Whitman County Commissioners Observer Report 2021-9-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPort-2021-9-2.pdf)
 * [Port of Whitman County Commissioners Observer Report 2021-9-16](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPort-2021-9-16.pdf)
 * [Port of Whitman County Commissioners Observer Report 2021-10-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPort-2021-10-7.pdf)
+  
 
 
 ## Solid Waste Advisory Committee for Whitman County (SWAC)
