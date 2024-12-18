@@ -71,12 +71,12 @@ If you are looking for a way to become involved in your League by observing the 
 * [February 2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-02ObsCalendar.pdf)
 * [March 2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-03ObsCalendar.pdf)
 
-  
+
 ## Observer Report Form
 
 Observers use this form to complete their reports.
 
-[Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-9-9ReportForm.pdf)
+[Observer Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-12-17ReportForm.pdf)
 
 ## Abbreviated LWV Positions
 
