@@ -8,10 +8,10 @@ excerpt: "Observer Corps Guidelines"
 
 Revised October 2022
 
-The League of Women Voters of Pullman (LWVP) has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place.  This group forms the eyes and ears of the LWVP Board as members attend and observe the workings of governmental bodies at in-person or virtual public meetings. 
+The League of Women Voters of Pullman (LWVP) has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place.  This group forms the eyes and ears of the LWVP Board as members attend and observe the workings of governmental bodies at in-person or virtual public meetings.
 
 ## What is the Observer Corps and what is its function within the League?
-Observer Corps members attend council, board, commission, and advisory committees (these will all be covered by the use of the terms agency and entity in this document) to listen, learn, observe, and report back to the League with factual information about the proceedings and any information about which the Executive Board may be interested. In particular, the Observer calls attention to community and public policy issues that the Executive Board may wish to act/testify on based on League Position Statements.  Observers also identify trends or problems for possible future study and action by the League. 
+Observer Corps members attend council, board, commission, and advisory committees (these will all be covered by the use of the terms agency and entity in this document) to listen, learn, observe, and report back to the League with factual information about the proceedings and any information about which the Executive Board may be interested. In particular, the Observer calls attention to community and public policy issues that the Executive Board may wish to act/testify on based on League Position Statements.  Observers also identify trends or problems for possible future study and action by the League.
 
 ## What is the key tenet for Observers?
 Observers do not speak or participate in the meeting being observed.  Observers are the eyes and ears of the League, but are **never the Voice of the League**. Observers maintain an impartial, respectful, and professional attitude. The Observer must not pursue personal interests at the meetings or use information obtained from outside sources to discuss or give an opinion about an issue discussed at the meeting. One may not “step out of the observer role” before or after a meeting. It is OK to ask a simple question for clarification (e.g.,checking on a date or a term), or to ask how to obtain further information on a topic, **after** the meeting.
@@ -57,7 +57,7 @@ If possible, the Observer Corps Chair should be notified in advance so that a su
 * Agency's functions and/or services it provides
 * Agency's availability of agendas and other public materials
 * Link to the agency's website.
-* [LWV of Pullman Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-9-9ReportForm.pdf)
+* [LWV of Pullman Report Form](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-12-17ReportForm.pdf)
 * [LWV of Pullman Guidelines and FAQs](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/Observor_GuidelinesFAQs-2021-09.pdf)
 * [Sample of actual reports](https://lwvpullman.org/observer_corps/Observer_reports/)
 * [LWV of Pullman’s current Position Statements](https://lwvpullman.org/advocacy/League_positions/)

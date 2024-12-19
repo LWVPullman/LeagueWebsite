@@ -11,7 +11,7 @@ tags:
 
 Below are links to reports created by the observer corps. Each report details what is going on in the Pullman area, and are organized by department, and then by date of the meeting attended.
 
-If you're an observer and need a copy of the form, [click here](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ReportForm8-2019.pdf)
+If you're an observer and need a copy of the form, [click here](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-12-17ReportForm.pdf)
 
 ## Pullman Arts Commission
 
@@ -286,7 +286,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Port of Whitman County Commissioners Observer Report 2021-9-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPort-2021-9-2.pdf)
 * [Port of Whitman County Commissioners Observer Report 2021-9-16](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPort-2021-9-16.pdf)
 * [Port of Whitman County Commissioners Observer Report 2021-10-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPort-2021-10-7.pdf)
-  
+
 
 
 ## Solid Waste Advisory Committee for Whitman County (SWAC)
