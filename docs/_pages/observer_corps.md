@@ -5,8 +5,8 @@ layout: archive
 author_profile: true
 excerpt: "The League of Women Voters of Pullman has an invaluable tool in its mission of working for good government when there is a vigorous and lively Observer Corps in place. This group forms the eyes and ears of the LWVP Board as participants attend and observe the workings of governmental bodies."
 top_image:
-  - url: /assets/images/2023-08-Observer_Corps_team.jpg
-    image_path: /assets/images/2023-08-Observer_Corps_team.jpg
+  - url: /assets/images/2024-12-Observer_Corps_team.jpg
+    image_path: /assets/images/2024-12-Observer_Corps_team.jpg
     alt: "Picture of observer corp committee members"
 article1:
   - url: /assets/images/ObsArticle1.jpg
@@ -36,31 +36,30 @@ Observer Corps members attend council, board, commission, and advisory committee
 
 Observer Team Leader - Roger Crawford
 
-Pullman City Council – Kelly McGee, Karyn Hardy (backup)
 
-Pullman's Diversity Equity, Inclusion and Belonging Committee - Tricia Grantham
+Pullman’s Diversity Equity, Inclusion and Belonging Committee - Tricia Grantham
 
-Pullman Neill Public Library Board – OBSERVER NEEDED
+Pullman Neill Public Library Board – Deb Olson
 
-Pullman-Moscow Regional Airport Board – Krista Gross
+Pullman-Moscow Regional Airport Board – OPEN
 
-Pullman Planning Commission – Jessica Cassleman, Stephanie MacCullough (backup)
+Pullman Planning Commission – Michelle Perino
 
 Pullman Regional Hospital Board of Commissioners – Lennis Boyer
 
 Pullman School District Board of Directors – Carol Ndambuki
 
-Whitman County Board of Commissioners – OBSERVER NEEDED
+Whitman County Board of Commissioners – OPEN
 
 Whitman County Planning Commission – Shelley Chambers Fox
 
 Whitman County Solid Waste Advisory Committee – Deb Olson
 
-Port of Whitman County Commissioners – OBSERVER NEEDED
+Port of Whitman County Commissioners – OPEN
 
 Pullman Diversity, Equity, Inclusion and Belonging Committee - Tricia Grantham (Meets 4:00 pm 3rd Thursday of each month)
 
-Pullman Historic Preservation Committee - Aly Welch and Roger Crawford (Meets 7:30 pm 2nd Monday of each month)
+Pullman Historic Preservation Committee - OPEN (Meets 7:30 pm 2nd Monday of each month)
 
 ## Becoming an Observer
 If you are looking for a way to become involved in your League by observing the business conducted by a local governmental entity, please check out the Observer Corp Guidelines. Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
