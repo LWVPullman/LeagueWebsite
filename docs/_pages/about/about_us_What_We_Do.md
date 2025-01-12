@@ -33,6 +33,8 @@ Action methods include:
 
 It is the responsibility of each League Board to direct and plan League Action which may include "calls for Action" to the membership.
 
+[League of Women Voters of Pullman Positions and Action for 2023-2025 Biennium PDF](https://lwvpullman.org/assets/PDFs/2023-2025-LWVP_Positions_and_Actions.pdf)
+
 ## As a Member You Can
 
 * Elect officers and directors
@@ -75,6 +77,7 @@ The League maintains observers at meetings of various local, regional, state and
 
 The League of Women Voters of Pullman adopts Position statements based on study and member agreement. Once the League adopts a position it can then be used to shape public policy. See the complete list of Positions for the LWV of Pullman.
 
+[League of Women Voters of Pullman Positions and Action for 2023-2025 Biennium PDF](https://lwvpullman.org/assets/PDFs/2023-2025-LWVP_Positions_and_Actions.pdf)
 ## Public Relations
 
 Voters Service and results of League studies and League action are conveyed to the public via the printed and electronic media. Press conferences, public service announcements and programs on radio/television, educational material in the form of brochures and pamphlets, statements given to governmental bodies, speakers bureaus-and beyond this, the members' enthusiasm as they build community respect for League opinion; meeting friends, fellow employees, potential contributors-all are a part of the plans and techniques to promote the League's purpose.
