@@ -20,12 +20,15 @@ tags:
 
 Program Coordinator: Karen Kiessling
 
-Program: Superior Court Judge Gary Libey will be talking about the life of a superior court judge in Whitman County 
+Program: Superior Court Judge Gary Libey talked about his life of a superior court judge in Whitman County
 
-Date:  Thursday, January 9, Noon to 1:00 pm 
+Date:  January 9, Noon to 1:00 pm 
 
-Location:  Umpqua Bank in Pullman
+Location: Umpqua Bank in Pullman
 
+[Click here to see a Daily News article about the event.](https://www.dnews.com/stories/libey-reflects-on-nearly-50-year-career-in-whitman-county-page_653)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-01-09-Judge_Libey_Retires.JPG)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
