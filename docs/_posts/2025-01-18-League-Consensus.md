@@ -18,11 +18,11 @@ tags:
 
 # Elder Caregiving Study 
 
-Program Coordinator: Tricia Grantham and Sutton Mooney
+Program Coordinator: Tricia Grantham
 
 Date:  Saturday, January 18, 10 am
 
-Location:  Neill's Coffee House in donwtown Pullman
+Location:  Neill's Coffee House in downtown Pullman
 
 Program:  Delegates at the 2023 LWVWA convention adopted the Elder Caregiving Study and the Immigration and Immigrant Integration Study as a Program of Work. The study and consensus questions have been approved by the LWVWA Board and are ready for our local League to review for the consensus meeting.  Links to the studies are listed here.
 
@@ -37,6 +37,12 @@ In addition to the study, there were informational sessions held on TUESDAY, JAN
 Our League's Consensus meeting for the Elder Caregiving Study is scheduled for SATURDAY, JANUARY 18TH at 10:00, Neill's Coffee & Ice Cream. The questions will generate an important conversation!
 
 # Immigration Study
+
+Program Coordinator: Sutton Mooney
+
+Date:  TBA
+
+Location:  TBA
 
 [Click here for the Welcoming Immigrants to Washington State LWVWA State Study](https://click.everyaction.com/k/99538942/520206552/-889064092?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9FQS9FQTAxNi8xLzk4MDgwIiwNCiAgIkRpc3RyaWJ1dGlvblVuaXF1ZUlkIjogIjNmNDcwYmE2LWU4YzYtZWYxMS04OGNlLTAwMjI0ODJhOTNhZiIsDQogICJFbWFpbEFkZHJlc3MiOiAiam9zd2lnam9uZXNAZ21haWwuY29tIg0KfQ%3D%3D&hmac=HELSbhKvD3Glj_0gT17Nvjc2XWEUo3bn_hNAMPgsBrs=&emci=f133eebe-bac6-ef11-88ce-0022482a93af&emdi=3f470ba6-e8c6-ef11-88ce-0022482a93af&ceid=11176177)
 
