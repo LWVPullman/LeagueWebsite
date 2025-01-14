@@ -35,7 +35,7 @@ The top two prizes in each grade group go to, starting at the top left, Lydia Pa
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-Winners_collage.jpg)
 
-A great turn out on Earth Day to see all the artwork and to award the student artists. 
+A great turn out on Earth Day to see all the artwork and to award the student artists.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-05-Artists_Recption_collage.jpg)
 
 [Click here for the Artists Reception recording on our YouTube Channel.](https://www.youtube.com/watch?v=mZ37r4kKKxU)
@@ -44,7 +44,7 @@ Moscow-Pullman Daily News article by Emily Pearce, Daily News staff writer, Apr 
 LWV opens civics dialogue through ‘eARTh Art.’ League of Women Voters of Pullman prompts civics conversation through art competition.
 [Click here to view the article.](https://dnews.com/local/lwv-opens-civics-dialogue-through-earth-art/article_36f16742-2943-5700-8ee6-52702c08699c.html)
 
-Judges reviewing and voting. 
+Judges reviewing and voting.
 [Click here for the Panel of Judges for 2023](https://lwvpullman.org/assets/PDFs/2023-04-10-Judge_panel.pdf)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2023-04-10-Judging_collage.jpg)
@@ -98,7 +98,7 @@ The best six submissions, top two in each grade grouping, will receive $50 to sp
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2023-02-20-Poster_pulltabs.pdf)
 * [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2023-02-20-quarter_page_flyers.pdf)
 
-**Submit your artwork and completed form by any of the following methods:** 
+**Submit your artwork and completed form by any of the following methods:**
 
 Drop off:
 <br/>
@@ -112,18 +112,18 @@ Send a high-quality scan or photograph of artwork to:  lwvpull@yahoo.com
 
 Mail: 	
 <br/>
-League of Women Voters of Pullman 
+League of Women Voters of Pullman
 <br/>
 P.O. Box 366 Pullman, WA 99163
 <br/>
-ATTN: Art Contest 
+ATTN: Art Contest
 <br/>
 
 ## Deadline for submissions: March 31, 2023
 
 ## Theme Related Civics Education Presentation
 
-We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact Deb Olson (olsonbones@aol.com) to schedule a presentation. 
+We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact Deb Olson (olsonbones@aol.com) to schedule a presentation.
 
 [Click here for the eARTh Art PowerPoint](https://lwvpullman.org/assets/PDFs/2023-02-Earth_Art_VAC_Powerpoint.pdf)
 
@@ -136,7 +136,7 @@ The judges are appointed by the LWV of Pullman (Whitman County).  They have qual
 [Click here for the Panel of Judges for 2023](https://lwvpullman.org/assets/PDFs/2023-04-10-Judge_panel.pdf)
 
 ## Past Competitions
-[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/)
+[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Visual_Arts_Competition_22/)
 
 
 

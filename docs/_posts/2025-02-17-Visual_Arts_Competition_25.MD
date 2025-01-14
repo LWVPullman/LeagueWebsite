@@ -17,7 +17,7 @@ Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, 
 
 <span style="color:green; font-size:2em;"> **2025 Theme?** </span>
 
-Complete information will be available here starting Feb 17, 2025. 
+Complete information will be available here starting Feb 17, 2025.
 
 
 **Purpose:**
@@ -32,7 +32,7 @@ Complete information will be available here starting Feb 17, 2025.
 
 **Rules:**
 1.	There will be three grade groupings:  Grades 3-5, Grades 6-8, Grades 9-12.
-2.	Artwork must be an original piece, completed solely by the participant. Only one entry per student. 
+2.	Artwork must be an original piece, completed solely by the participant. Only one entry per student.
 3.	Art materials allowed may include but not limited to crayons, colored pencils, markers, pen and ink, pastels, paints, charcoal, collage, photography, mixed media, digital media, clay, plaster, wood, stone, cloth, cardboard, etc.  No videos or images in motion.
 4.	2-Dimensional artwork is not to exceed the size of 11 x 17 inches.  3-Dimensional artwork is not to exceed the size of 1 cubic foot.
 5.	No names, including the artist, are to appear anywhere on the front of the artwork.    
@@ -54,7 +54,7 @@ Multiple winners will be awarded prizes within each grade grouping.  The winning
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf)
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pull_tabs_QR.pdf)
 * [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)-->
-**Submit artwork and completed form by either method below:** 
+**Submit artwork and completed form by either method below:**
 
 Drop-off:
 <br/>
@@ -62,11 +62,11 @@ Neill Public Library in Pullman or Whitman County Library in Colfax
 
 Mail: 	
 <br/>
-League of Women Voters of Pullman 
+League of Women Voters of Pullman
 <br/>
 P.O. Box 366 Pullman, WA 99163
 <br/>
-ATTN: Art Contest 
+ATTN: Art Contest
 <br/>
 
 ## Deadline for submissions: March 31, 2025
@@ -78,7 +78,7 @@ More information will be launched on Feb 17, 2025...
 
 <!---## Theme Related Civics Education Presentation
 
-We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation. 
+We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation.
 
 [Click here for the PowerPoint Presentation]()
 
@@ -93,7 +93,7 @@ The judges are appointed by the LWV of Pullman (Whitman County).  The judges eva
 
 Relevance to the theme:  Development of theme through creativity. How well does artwork depict theme.
 
-Visual effectiveness:  Overall appearance. Evidence of planning and preparation. 
+Visual effectiveness:  Overall appearance. Evidence of planning and preparation.
 
 Originality:  Uniqueness of ideas.
 
@@ -103,11 +103,11 @@ Message:  Clearly describes the artist’s intent.
 
 ## Past Competitions
 
-[2024 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition/) Why Does Voting Matter? 
+[2024 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_24/) Why Does Voting Matter?
 
-[2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Art_Competition/) Earth Art: Civics and the Natural World are connected. 
+[2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_23) Earth Art: Civics and the Natural World are connected.
 
-[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/) What Does Democracy look like to you? 
+[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Visual_Arts_Competition_22/) What Does Democracy look like to you? 
 
 
 Copyright LWV of Pullman
