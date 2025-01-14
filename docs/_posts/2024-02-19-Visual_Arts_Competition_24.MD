@@ -66,14 +66,14 @@ This Art Competition is for students in grades 3-12 to share their artistic tale
 
 **Rules:**
 1.	There will be three grade groupings:  Grades 3-5, Grades 6-8, Grades 9-12.
-2.	Artwork must be an original piece, completed solely by the participant. Only one entry per student. 
+2.	Artwork must be an original piece, completed solely by the participant. Only one entry per student.
 3.	Art materials allowed may include but not limited to crayons, colored pencils, markers, pen and ink, pastels, paints, charcoal, collage, photography, mixed media, digital media, clay, plaster, wood, stone, cloth, cardboard, etc.  No videos or images in motion.
 4.	2-Dimensional artwork is not to exceed the size of 11 x 17 inches.  3-Dimensional artwork is not to exceed the size of 1 cubic foot.
 5.	No names, including the artist, are to appear anywhere on the artwork.  
 6.	The entry form must be filled out completely and accompany the artwork.
 7.	Judges appointed by the LWVP will evaluate artwork based on creative interpretation of theme.  
 8.	By signing the form to submit the artwork, you are granting the LWV of Pullman full rights to use artwork for website, social media, and educational purposes.
-9.	Judges and Committee have the right to disqualify entries if rules are not followed. 
+9.	Judges and Committee have the right to disqualify entries if rules are not followed.
 
 **Prizes:**
 
@@ -87,7 +87,7 @@ $50 to spend at your local businesses and a copy of the LWVWA civics textbook, T
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pull_tabs_QR.pdf)
 * [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)
 
-**Submit artwork and completed form by either method below:** 
+**Submit artwork and completed form by either method below:**
 
 Drop-off:
 <br/>
@@ -95,11 +95,11 @@ Neill Public Library in Pullman or Whitman County Library in Colfax
 
 Mail: 	
 <br/>
-League of Women Voters of Pullman 
+League of Women Voters of Pullman
 <br/>
 P.O. Box 366 Pullman, WA 99163
 <br/>
-ATTN: Art Contest 
+ATTN: Art Contest
 <br/>
 
 ## Deadline for submissions: March 31, 2024
@@ -108,7 +108,7 @@ Winners will be notified on April 12th via email.  An artists’ reception will 
 
 ## Theme Related Civics Education Presentation
 
-We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation. 
+We have a small group of league volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation.
 
 [Click here for the PowerPoint Presentation](https://drive.google.com/file/d/1jEWGlKqQZwSddi8cwIu-JGmq5kmsQrxc/view)
 
@@ -122,7 +122,7 @@ The judges are appointed by the LWV of Pullman (Whitman County).  The judges eva
 
 Relevance to the theme:  Development of theme through creativity. How well does artwork depict theme.
 
-Visual effectiveness:  Overall appearance. Evidence of planning and preparation. 
+Visual effectiveness:  Overall appearance. Evidence of planning and preparation.
 
 Originality:  Uniqueness of ideas.
 
@@ -132,9 +132,9 @@ Message:  Clearly describes the artist’s intent.
 
 ## Past Competitions
 
-[2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Art_Competition/)
+[2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_23/)
 
-[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Art_Contest/)
+[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Visual_Arts_Competition_22/)
 
 
 
