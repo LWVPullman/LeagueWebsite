@@ -13,9 +13,9 @@ tags:
 
 ---
 
-Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Kimberly Tompson, Crowe Gammons, Carol Ndambuki
+Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Kimberly Thompson, Crowe Gammons, Carol Ndambuki
 
-<span style="color:green; font-size:2em;"> **2025 Theme?** </span>
+<span style="color:green; font-size:2em;"> **2025 Theme Coming Soon!** </span>
 
 Complete information will be available here starting Feb 17, 2025.
 
@@ -28,32 +28,34 @@ Complete information will be available here starting Feb 17, 2025.
 **Eligibility:**
 1.	Participant must be in grades 3 - 12.
 2.	Participant must be a resident of Whitman County.
-3.	Participant must fill out an entry form with a Parent/Legal Guardian signature.
+3.	Participant must fill out an entry form completely with a parent/legal guardian signature and physical copy of artwork turned in.
 
 **Rules:**
-1.	There will be three grade groupings:  Grades 3-5, Grades 6-8, Grades 9-12.
-2.	Artwork must be an original piece, completed solely by the participant. Only one entry per student.
-3.	Art materials allowed may include but not limited to crayons, colored pencils, markers, pen and ink, pastels, paints, charcoal, collage, photography, mixed media, digital media, clay, plaster, wood, stone, cloth, cardboard, etc.  No videos or images in motion.
-4.	2-Dimensional artwork is not to exceed the size of 11 x 17 inches.  3-Dimensional artwork is not to exceed the size of 1 cubic foot.
-5.	No names, including the artist, are to appear anywhere on the front of the artwork.    
-6.	The entry form must be filled out completely and accompany the artwork.
-7.	Judges appointed by the LWVP will evaluate artwork based on creative interpretation of theme.  
-8.	By signing the form to submit the artwork, you are granting the LWV of Pullman full rights to use artwork for website, social media, and educational purposes.
-9.	Participants must read the educational program summary and ensure their art is respectful and relevant to the theme.  
-10.	Judges and Committee have the right to disqualify entries if rules are not followed.
-
+1.	Participants must read the educational program summary and ensure their art is respectful and relevant to the theme.  
+2.	Artwork will be separated into three grade groups:  Grades 3-5, Grades 6-8, Grades 9-12.
+3.	Artwork must be an original piece, completed entirely by the participant.  Only one entry per student.
+4.	Art materials may include the following: crayons, pencils, colored pencils, markers, pens, ink, pastels, paints, charcoal, collages, photography, mixed media, digital media, clay, plaster, wood, stone, cloth, cardboard, natural material, etc. Artwork may not be videos or images in-motion.
+5.	2-Dimensional artwork is not to exceed the size of 11 x 17 inches.  3-Dimensional artwork is not to exceed 1 cubic foot.
+6.	No names, including the artist or artwork title, are to appear on the front of the completed artwork.
+7.	The entry form must be filled out completely and accompany the artwork.
+8.	Judges will evaluate artwork based on creative interpretation of the theme.  
+9.	The Visual Arts Competition Committee or the selected judges may disqualify entries if any of the listed rules are not followed. 
+10.	By signing the entry form, you are granting the LWV of Pullman/Whitman County full rights to use the physical artwork and photos of artists with their artwork for social media and educational purposes.
 
 **Prizes:**
 
 Multiple winners will be awarded prizes within each grade grouping.  The winning prizes will be **$50** to spend at local businesses and a copy of the LWVWA civics textbook, The State We’re In: Washington.  
 
-<!---*Art Competition Flyers and Entry Form:**
-
-* [Click here to print the Entry Form](https://lwvpullman.org/assets/PDFs/2024-02-19-Entry_Form_Final.pdf)
-* [Click here for the On-Line Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScDCffZ5DYZTP7pqc-Xk7Ln3jWQpMiQPSEYFYH2hZ-JGxqdXw/viewform)
+<!---*Art Competition Flyers:**
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf)
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pull_tabs_QR.pdf)
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)-->
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)
+
+*Art Competition Entry Form:**
+* [Click here for the online Entry Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform)
+* [Click here to print the paper version of the Entry Form](https://lwvpullman.org/assets/PDFs/2025-02-17-Entry_Form.pdf)
+
+-->
 **Submit artwork and completed form by either method below:**
 
 Drop-off:
@@ -71,7 +73,9 @@ ATTN: Art Contest
 
 ## Deadline for submissions: March 31, 2025
 
-Winners will be notified on April 11th. An artists’ reception will be held on Saturday, April 19, 2:00 p.m. at Neill Public Library in Pullman.
+Winners will be notified by April 12th.
+An artists’ reception will be held on Saturday, April 19, 2:00 p.m. at Neill Public Library in Pullman.
+
 [lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
 
 More information will be launched on Feb 17, 2025...
