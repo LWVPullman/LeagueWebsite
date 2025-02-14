@@ -18,8 +18,7 @@ Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, 
 
 <span style="color:green; font-size:2em;"> **Native America and the USA** </span>
 
-## Honoring the legal, federal, and cultural relationship between Native America and the USA
-while highlighting Native resilience, sovereignty, and modern identity.
+## Honoring the legal, federal, and cultural relationship between Native America and the USA while highlighting Native resilience, sovereignty,and modern identity.
 
 **Purpose:**
 This art competition invites students in grades 3–12 living in Whitman County to showcase their artistic talents while learning about, honoring, and respecting the First Peoples. Participants are encouraged to reflect on the histories, cultures, and contributions of Native Americans.  The LWV is a nonpartisan organization, and, as part of our civics education program this year, we seek to honor and celebrate the First Peoples while acknowledging that we now inhabit their ancestral homelands.
@@ -49,9 +48,9 @@ Multiple winners will be awarded prizes within each grade grouping.  The winning
 All participants must read the Educational Program Summary and ensure their art is respectful and relevant to the theme.  [Please click here for the Educational Program Summary](https://lwvpullman.org/assets/PDFs/2025-02-17-Program_Summary.pdf)
 
 **Art Competition Entry Form:**
-Our preferred method of entering is by using the online entry form.  If there are students that are not able to enter online they may submit their artwork with a signed paper version of the entry form.  
-* [Click here for the Online Entry Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform
-* [Click here to print a paper version of the Entry Form](https://lwvpullman.org/assets/PDFs/2025-02-17-Entry_Form.pdf)
+Our preferred method of entering is for students and parents to use the online entry form.  If it is not possible to enter online, one may submit their artwork with a signed paper version of the entry form.  
+* [Click here for the Online Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform)
+* [Click here to print a Paper Version of the Entry Form](https://lwvpullman.org/assets/PDFs/2025-02-17-Entry_Form.pdf)
 
 **Submit artwork and completed form by either method below:**
 
