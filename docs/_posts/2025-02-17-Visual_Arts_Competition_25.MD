@@ -44,27 +44,29 @@ This art competition invites students in grades 3–12 living in Whitman County 
 
 Multiple winners will be awarded prizes within each grade grouping.  The winning prizes will be **$50** to spend at local businesses and a copy of the LWVWA civics textbook, The State We’re In: Washington.  
 
-**Educational Program Summary**
+**Educational Program Summary:**
+
 All participants must read the Educational Program Summary and ensure their art is respectful and relevant to the theme.  [Please click here for the Educational Program Summary](https://lwvpullman.org/assets/PDFs/2025-02-17-Program_Summary.pdf)
 
 **How to Enter:**
+
 Our preferred method of entering is for students and parents to use the online entry form.  If it is not possible to enter online, one may submit their artwork with a signed paper version of the entry form.  
 * [Click here for the Online Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform)
 * [Click here to print a Paper Version of the Entry Form](https://lwvpullman.org/assets/PDFs/2025-02-17-Entry_Form.pdf)
 
-**Submit artwork and completed form by either method below:**
+**Submit artwork with an attached copy of the completed/signed entry form by either method below:**
 
-* Drop-off:
+Drop-off:
 <br/>
-* Neill Public Library in Pullman or Whitman County Library in Colfax
+Neill Public Library in Pullman or Whitman County Library in Colfax
 
-* Mail: 	
+Mail: 	
 <br/>
-* League of Women Voters of Pullman
+League of Women Voters of Pullman
 <br/>
-* P.O. Box 366 Pullman, WA 99163
+P.O. Box 366 Pullman, WA 99163
 <br/>
-* ATTN: Art Contest
+ATTN: Art Contest
 <br/>
 
 ## Deadline for submissions: March 31, 2025
