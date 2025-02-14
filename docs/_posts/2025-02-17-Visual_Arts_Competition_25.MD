@@ -109,7 +109,7 @@ We have a small group of League volunteers who are prepared to give in-person pr
 *Art Competition Flyers:**
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2025-02-17-Art_Comp_Flyer.pdf)
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2025-02-17-Poster.pdf)
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2025-02-17-Quarter_Page _Flyer_Sheet.pdf)
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2025-02-17-Quarter_Page_Flyer_Sheet.pdf)
 
 ## Judges
 
