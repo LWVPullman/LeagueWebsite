@@ -12,18 +12,17 @@ tags:
   - Civics Education
 
 ---
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-02-17-VAC_Banner.jpg)
 
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Kimberly Thompson, Crowe Gammons, Carol Ndambuki
 
-<span style="color:green; font-size:2em;"> **2025 Theme Coming Soon!** </span>
+<span style="color:green; font-size:2em;"> **Native America and the USA** </span>
 
-Complete information will be available here starting Feb 17, 2025.
-
+## Honoring the legal, federal, and cultural relationship between Native America and the USA
+while highlighting Native resilience, sovereignty, and modern identity.
 
 **Purpose:**
-
-
-
+This art competition invites students in grades 3–12 living in Whitman County to showcase their artistic talents while learning about, honoring, and respecting the First Peoples. Participants are encouraged to reflect on the histories, cultures, and contributions of Native Americans.  The LWV is a nonpartisan organization, and, as part of our civics education program this year, we seek to honor and celebrate the First Peoples while acknowledging that we now inhabit their ancestral homelands.
 
 **Eligibility:**
 1.	Participant must be in grades 3 - 12.
@@ -31,7 +30,7 @@ Complete information will be available here starting Feb 17, 2025.
 3.	Participant must fill out an entry form completely with a parent/legal guardian signature and physical copy of artwork turned in.
 
 **Rules:**
-1.	Participants must read the educational program summary and ensure their art is respectful and relevant to the theme.  
+1.	Participants must read the Educational Program Summary and ensure their art is respectful and relevant to the theme.  
 2.	Artwork will be separated into three grade groups:  Grades 3-5, Grades 6-8, Grades 9-12.
 3.	Artwork must be an original piece, completed entirely by the participant.  Only one entry per student.
 4.	Art materials may include the following: crayons, pencils, colored pencils, markers, pens, ink, pastels, paints, charcoal, collages, photography, mixed media, digital media, clay, plaster, wood, stone, cloth, cardboard, natural material, etc. Artwork may not be videos or images in-motion.
@@ -46,16 +45,14 @@ Complete information will be available here starting Feb 17, 2025.
 
 Multiple winners will be awarded prizes within each grade grouping.  The winning prizes will be **$50** to spend at local businesses and a copy of the LWVWA civics textbook, The State We’re In: Washington.  
 
-<!---*Art Competition Flyers:**
-* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2024-Art_Comp_Flyer.pdf)
-* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2024-02-19-Poster_pull_tabs_QR.pdf)
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2024-02-19-quarter_page_flyers.pdf)
+**Educational Program Summary**
+All participants must read the Educational Program Summary and ensure their art is respectful and relevant to the theme.  [Please click here for the Educational Program Summary](https://lwvpullman.org/assets/PDFs/2025-02-17-Program_Summary.pdf)
 
-*Art Competition Entry Form:**
-* [Click here for the online Entry Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform)
-* [Click here to print the paper version of the Entry Form](https://lwvpullman.org/assets/PDFs/2025-02-17-Entry_Form.pdf)
+**Art Competition Entry Form:**
+Our preferred method of entering is by using the online entry form.  If there are students that are not able to enter online they may submit their artwork with a signed paper version of the entry form.  
+* [Click here for the Online Entry Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform
+* [Click here to print a paper version of the Entry Form](https://lwvpullman.org/assets/PDFs/2025-02-17-Entry_Form.pdf)
 
--->
 **Submit artwork and completed form by either method below:**
 
 Drop-off:
@@ -74,22 +71,44 @@ ATTN: Art Contest
 ## Deadline for submissions: March 31, 2025
 
 Winners will be notified by April 12th.
+
 An artists’ reception will be held on Saturday, April 19, 2:00 p.m. at Neill Public Library in Pullman.
 
+Please email if you have any questions.
 [lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
 
-More information will be launched on Feb 17, 2025...
-
-<!---## Theme Related Civics Education Presentation
+## Theme Related Civics Education Materials
 
 We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation.
 
-[Click here for the PowerPoint Presentation]()
+[Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1oTDFE8e3e-5UPW-W86GCS_7T__Bj95wRQAOOAKH7C-k/edit#slide=id.p)
 
-[Click here for a PDF of the PowerPoint Presentation]()
+[Click here for a PDF of the Slide Presentation]()
 
-[Click here for the Supplemental Material]()
+[Click here for the Supplemental Material for the slide presentation]()
 
+ ## Additional Resources
+
+[LWVWA Textbook Grades 3-5  The State We’re In: Washington: Your guide to state, tribal & local government](https://oercommons.s3.amazonaws.com/media/courseware/relatedresource/file/SWIW-ElementaryBook-2020i.pdf)
+<br/>
+[LWVWA Textbook Free Digital Downloads including Grades 7-12 and Spanish versions of The State We’re In: Washington](https://oercommons.s3.amazonaws.com/media/courseware/relatedresource/file/SWIW-ElementaryBook-2020i.pdf)
+<br/>
+[John McCoy Since Time Immemorial Tribal Sovereignty Early Learning Curriculum](https://ospi.k12.wa.us/student-success/resources-subject-area/john-mccoy-lulilas-time-immemorial-tribal-sovereignty-washington-state)
+<br/>
+[Online Resourse List from the Since Time Immemorial Tribal Sovereignty Early Learning Curriculum](https://dcyf.wa.gov/sites/default/files/tribal-training/Resources1_Online_Resources_v3.27.2017.pdf)
+<br/>
+[Tribal Consultation Program, Office of Native Education, and the Office of the Superintendent of Public Instruction](https://ospi.k12.wa.us/student-success/access-opportunity-education/native-education/tribal-consultation)
+<br/>
+[Centennial Accord Agreement](https://goia.wa.gov/relations/centennial-accord)
+<br/>
+[Federally recognized American Indian tribes and Alaska Native entities](https://www.usa.gov/indian-tribes-alaska-native)
+<br/>
+[The Washington Indian Gaming Association](https://www.washingtonindiangaming.org)
+
+*Art Competition Flyers:**
+* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2025-02-17-Art_Comp_Flyer.pdf)
+* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2025-02-17-Poster.pdf)
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2025-02-17-Quarter_Page _Flyer_Sheet.pdf)
 
 ## Judges
 
@@ -103,7 +122,7 @@ Originality:  Uniqueness of ideas.
 
 Message:  Clearly describes the artist’s intent.
 
-[Click here for the Panel of Judges for 2025]()-->
+[Click here for the Panel of Judges for 2025]() This will be updated by the begining of April.
 
 ## Past Competitions
 
@@ -112,7 +131,6 @@ Message:  Clearly describes the artist’s intent.
 [2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_23) Earth Art: Civics and the Natural World are connected.
 
 [2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Visual_Arts_Competition_22/) What Does Democracy look like to you? 
-
 
 Copyright LWV of Pullman
 
