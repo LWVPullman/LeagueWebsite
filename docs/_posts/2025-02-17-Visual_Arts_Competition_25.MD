@@ -82,11 +82,11 @@ Please email if you have any questions.
 
 ## Theme Related Civics Education Materials
 
-We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com)to schedule a presentation.
+We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com) to schedule a presentation.
 
 [Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1oTDFE8e3e-5UPW-W86GCS_7T__Bj95wRQAOOAKH7C-k/edit#slide=id.p)
 
-[Click here for the Supplemental Material for the slide presentation](2025-02-17-Native_American_and_USA_Program.pdf)
+[Click here for the Supplemental Material for the Slide Presentation](2025-02-17-Native_American_and_USA_Program.pdf)
 
  ## Additional Resources
 
@@ -118,7 +118,7 @@ We have a small group of League volunteers who are prepared to give in-person pr
 <br/>
 [Tribal Perspectives Northwest - Office of Superintendent of Public Instruction](https://www.youtube.com/watch?v=4f1ESMsLXtg)
 
-*Art Competition Flyers:**
+**Art Competition Flyers:**
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2025-02-17-Art_Comp_Flyer.pdf)
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2025-02-17-Poster.pdf)
 * [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2025-02-17-Quarter_Page_Flyer_Sheet.pdf)
