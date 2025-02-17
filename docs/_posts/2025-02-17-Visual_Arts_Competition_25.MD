@@ -88,11 +88,11 @@ We have a small group of League volunteers who are prepared to give in-person pr
 
 [Click here for the Supplemental Material for the Slide Presentation](2025-02-17-Native_American_and_USA_Program.pdf)
 
- **Additional Resources**
+**Additional Resources**
 
 [LWVWA Textbook Grades 3-5  The State We’re In: Washington: Your guide to state, tribal & local government](https://oercommons.s3.amazonaws.com/media/courseware/relatedresource/file/SWIW-ElementaryBook-2020i.pdf)
 <br/>
-[LWVWA Textbook Free Digital Downloads including Grades 7-12 and Spanish versions of The State We’re In: Washington](https://oercommons.s3.amazonaws.com/media/courseware/relatedresource/file/SWIW-ElementaryBook-2020i.pdf)
+[LWVWA Textbook Free Digital Downloads including Grades 7-12 and Spanish versions of The State We’re In: Washington](https://lwvwaef.org/collections/digital-downloads)
 <br/>
 [John McCoy Since Time Immemorial Tribal Sovereignty Early Learning Curriculum](https://ospi.k12.wa.us/student-success/resources-subject-area/john-mccoy-lulilas-time-immemorial-tribal-sovereignty-washington-state)
 <br/>
