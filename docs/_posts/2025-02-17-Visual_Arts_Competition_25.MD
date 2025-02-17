@@ -14,6 +14,8 @@ tags:
 ---
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-02-17-VAC_Banner.jpg)
 
+This program is sponsored by the League of Women Voters of Pullman/Whitman County’s Education Fund and supported by Neill Public and Whitman County Libraries, with contributions from the Tribal Consultation Program, Office of Native Education, and the WA Office of the Superintendent of Public Instruction (OSPI).
+
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Kimberly Thompson, Crowe Gammons, Carol Ndambuki
 
 <span style="color:green; font-size:2em;"> **Native America and the USA** </span>
@@ -84,9 +86,7 @@ We have a small group of League volunteers who are prepared to give in-person pr
 
 [Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1oTDFE8e3e-5UPW-W86GCS_7T__Bj95wRQAOOAKH7C-k/edit#slide=id.p)
 
-[Click here for a PDF of the Slide Presentation]()
-
-[Click here for the Supplemental Material for the slide presentation]()
+[Click here for the Supplemental Material for the slide presentation](2025-02-17-Native_American_and_USA_Program.pdf)
 
  ## Additional Resources
 
@@ -105,6 +105,18 @@ We have a small group of League volunteers who are prepared to give in-person pr
 [Federally recognized American Indian tribes and Alaska Native entities](https://www.usa.gov/indian-tribes-alaska-native)
 <br/>
 [The Washington Indian Gaming Association](https://www.washingtonindiangaming.org)
+<br/>
+[The original inhabitants of the area that is now Washington](http://www.native-languages.org/washington.htm)
+<br/>
+[Boldt decision affirms tribal fishing rights, sovereignty](https://www.courts.wa.gov/content/publicupload/eclips/2024%2002%2020%20It%20Happened%20Here%20Boldt%20decision%20affirms%20tribal%20fishing%20rights%20sovereignty.pdf)
+<br/>
+[Office of Tribal Relations & Native American Programs](https://native.wsu.edu)
+<br/>
+[Plateau Peoples Web Portal WSU](https://plateauportal.libraries.wsu.edu)
+<br/>
+[Native Knowledge 360° National Museum of the American Indian](https://americanindian.si.edu/nk360/)
+<br/>
+[Tribal Perspectives Northwest - Office of Superintendent of Public Instruction](https://www.youtube.com/watch?v=4f1ESMsLXtg)
 
 *Art Competition Flyers:**
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2025-02-17-Art_Comp_Flyer.pdf)
