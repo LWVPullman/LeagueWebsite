@@ -86,7 +86,7 @@ We have a small group of League volunteers who are prepared to give in-person pr
 
 [Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1oTDFE8e3e-5UPW-W86GCS_7T__Bj95wRQAOOAKH7C-k/edit#slide=id.p)
 
-[Click here for the Supplemental Material for the Slide Presentation](2025-02-17-Native_American_and_USA_Program1.pdf)
+[Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2025-02-17-Native_American_and_USA_Program1.pdf)
 
 **Additional Resources**
 
