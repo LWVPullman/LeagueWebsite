@@ -86,7 +86,7 @@ We have a small group of League volunteers who are prepared to give in-person pr
 
 [Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1oTDFE8e3e-5UPW-W86GCS_7T__Bj95wRQAOOAKH7C-k/edit#slide=id.p)
 
-[Click here for the Supplemental Material for the Slide Presentation](2025-02-17-Native_American_and_USA_Program.pdf)
+[Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2025-02-17-Native_American_and_USA_Program1.pdf)
 
 **Additional Resources**
 
@@ -109,6 +109,8 @@ We have a small group of League volunteers who are prepared to give in-person pr
 [The original inhabitants of the area that is now Washington](http://www.native-languages.org/washington.htm)
 <br/>
 [Boldt decision affirms tribal fishing rights, sovereignty](https://www.courts.wa.gov/content/publicupload/eclips/2024%2002%2020%20It%20Happened%20Here%20Boldt%20decision%20affirms%20tribal%20fishing%20rights%20sovereignty.pdf)
+<br/>
+[The Fish Wars - Native Knowledge 360, Smithsonian National Museum of the American Indian](https://americanindian.si.edu/nk360/pnw-fish-wars#title)
 <br/>
 [Office of Tribal Relations & Native American Programs](https://native.wsu.edu)
 <br/>
