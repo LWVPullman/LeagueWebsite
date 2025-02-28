@@ -32,27 +32,31 @@ Program:  Delegates at the 2023 LWVWA convention adopted the Elder Caregiving St
 
 Elder Caregiving Study has been posted on the League of Women Voters of Washington website, lwvwa.org. In SEARCH, type in Elder Caregiving to bring up the information if links above do not work.
 
-In addition to the study, there were informational sessions held on TUESDAY, JANUARY 7, 2025, via Zoom that were recorded if you could not attend.
-
 Our League's Consensus meeting for the Elder Caregiving Study is scheduled for SATURDAY, JANUARY 18TH at 10:00, Neill's Coffee & Ice Cream. The questions will generate an important conversation!
 
 # Immigration Study
-
+ 
 Program Coordinator: Sutton Mooney
 
-Date:  TBA
+Date:  March 8, 2025, 10:30 am or directly following the Monthly Board Meeting which starts at 9:30 am
 
-Location:  TBA
+Location:  Neill's Coffee & Ice Cream dowtown Pullman
 
 [Click here for the Welcoming Immigrants to Washington State LWVWA State Study](https://click.everyaction.com/k/99538942/520206552/-889064092?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9FQS9FQTAxNi8xLzk4MDgwIiwNCiAgIkRpc3RyaWJ1dGlvblVuaXF1ZUlkIjogIjNmNDcwYmE2LWU4YzYtZWYxMS04OGNlLTAwMjI0ODJhOTNhZiIsDQogICJFbWFpbEFkZHJlc3MiOiAiam9zd2lnam9uZXNAZ21haWwuY29tIg0KfQ%3D%3D&hmac=HELSbhKvD3Glj_0gT17Nvjc2XWEUo3bn_hNAMPgsBrs=&emci=f133eebe-bac6-ef11-88ce-0022482a93af&emdi=3f470ba6-e8c6-ef11-88ce-0022482a93af&ceid=11176177)
 
+[Click here for the LWVWA website for this study](https://lwvwa.org/immigration)
+
+[Click here for the Immigration Discussion/Consensus Questions Formy](https://form.jotform.com/250143018182143)
+
 Expected timeline for the Immigration Study:
 
-1/16-23/24- Study & Consensus questions to local leagues
+1/16-23 - Study & Consensus questions to local leagues
 
-Jan/Feb- Study committee hosts zoom informational meetings
+Feb/March - Local leagues host consensus meeting and submit responses
 
-Feb/March- Local leagues host consensus meeting and submit responses
+Mar 28 - Deadline for Local League boards to submit their League’s consensus
+
+
 
 
 
