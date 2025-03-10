@@ -56,6 +56,14 @@ Feb/March - Local leagues host consensus meeting and submit responses
 
 Mar 28 - Deadline for Local League boards to submit their League’s consensus
 
+# National League - Federal Judiciary Study
+ 
+Program Coordinator: Sutton Mooney
+
+Date:  April 12, 2025, 10:30 am or directly following the Monthly Board Meeting which starts at 9:30 am
+
+Location:  Neill's Coffee & Ice Cream dowtown Pullman
+
 
 
 
