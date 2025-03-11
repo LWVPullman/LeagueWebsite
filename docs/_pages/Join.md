@@ -24,13 +24,11 @@ If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 <span style="color:green; font-size:2em;"> **To Join or Renew Membership:** </span>
 
-Please note a new membership payment system was implemented as of Feb. 3, 2025, so joining and renewal will look a little different. The new process is explained in [this video](https://vimeo.com/1046821379/ac6c340f06?share=copy).
+Please note a new membership payment system was implemented by the National LWV as of Feb. 3, 2025. [This video](https://vimeo.com/1046821379/ac6c340f06?share=copy) will walk you through how to complete the membership form to join or renew your membership with the LWV.
 
-Join or renew by clicking below to complete the form and pay online.
+[Click here to Join or Renew Your Membership](https://portal.lwv.org/membership?state=ID&league=0012E00001usOETQA2&referral_source=League%20Website) 
 
-[JOIN or RENEW HERE](https://portal.lwv.org/membership?state=ID&league=0012E00001usOETQA2&referral_source=League%20Website)
-
-Membership dues are split between the League of Women Voters Pullman/Whitman County, LWV of Washington, and LWVUS. Dues are paid annually.
+Membership dues are split between the local League of Women Voters Pullman/Whitman County (20%), LWV of Washington (47%), and LWVUS (33%). Dues are paid annually.  The recommended annual membership dues are $75.  You may choose any amount as low as $20 and paying more than the recommended amount helps support members who contribute less while keeping our budget balanced, but it does not come with additional benefits.
 
 <b>Member Portal:</b> After joining, LWV members can access the Member Portal to:
 * Update member information (e.g. change phone number, email address, etc.)
@@ -45,13 +43,15 @@ League of Women Voters of Pullman
 P.O. Box 366  
 Pullman, WA 99163
 
-<span style="color:green; font-size:2em;"> **Wish to Donate?** </span> (a PayPal account is not necessary):
+<span style="color:green; font-size:2em;"> **Wish to Donate?** </span>
 
-<b>To Donate by Check</b> - Send Name, Address, Phone number, and email address (if any) and a check payable to <b>LWV of Pullman</b>* for the amount of the donation to address above. For <b>tax deductible donations</b> make the check payable to: <b>LWVWA Education Fund (Pullman)</b>
+<b>To Donate by Check</b> - Send Name, Address, Phone number, and email address (if any) and a check to the address above.  Make check payable to <b>LWV of Pullman</b> or to <b>LWVWA Education Fund (Pullman)</b> for a <b>tax deductible donations</b>.
 
-<b>To Donate by Credit or Debit Card</b>
-* (Name, Email Address, Phone No. and Address requested below are shared with League members only.  Please note any items which should not be shared.)
-* Click the down arrow for a tax deductible donation to our Education Fund
+<b>To Donate by PayPal, Credit or Debit Card</b>
+
+Name, Email Address, Phone No. and Address requested below are shared with League members only.  Please note any items which should not be shared.
+
+Click on the Donate button below.  You can make a regualr donation or in the doantion box click the down arrow for a tax deductible donation to our Education Fund. 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
