@@ -26,7 +26,7 @@ If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 Please note a new membership payment system was implemented by the National LWV as of Feb. 3, 2025. [This video](https://vimeo.com/1046821379/ac6c340f06?share=copy) will walk you through how to complete the membership form to join or renew your membership with the LWV.
 
-[Click here to Join or Renew Your Membership](https://portal.lwv.org/membership?state=ID&league=0012E00001usOETQA2&referral_source=League%20Website) 
+[Click here to Join or Renew Your Membership](https://portal.lwv.org/membership?state=WA&league=0012E00001usONXQA2&referral_source=League%20Website)
 
 Membership dues are split between the local League of Women Voters Pullman/Whitman County (20%), LWV of Washington (47%), and LWVUS (33%). Dues are paid annually.  The recommended annual membership dues are $75.  You may choose any amount as low as $20 and paying more than the recommended amount helps support members who contribute less while keeping our budget balanced, but it does not come with additional benefits.
 
