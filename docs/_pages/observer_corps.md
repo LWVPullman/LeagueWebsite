@@ -31,40 +31,55 @@ Observer Corps members attend council, board, commission, and advisory committee
 {% include feature_row id="article1" type="center" %}
 
 
-## The League is currently observing 6 City and 2 County entities with 8 observers!
+## League Observer Corps Members:
 
+There are 14 public entities that hold meetings open for observation. Currently, the League has 7 observers monitoring 5 City entities and 2 County entities.
 
-Observer Team Leader - Roger Crawford
+<b>Observer Team Leader - Roger Crawford</b>
 
-Pullman City Council – Roger Crawford
+* Port of Whitman County Commissioners / <b>_____________</b>
 
-Pullman’s Diversity Equity, Inclusion and Belonging Committee - Tricia Grantham
+* Pullman Arts Commission / <b>_____________</b>
 
-Pullman Neill Public Library Board – Deb Olson
+* Pullman City Council / <b>Roger Crawford</b>
 
-Pullman-Moscow Regional Airport Board – OPEN
+* Pullman Diversity, Equity, Inclusion & Belonging Committee / <b>Tricia Grantham</b>
 
-Pullman Planning Commission – Michelle Perino
+* Pullman Historic Preservation Commission / <b>_____________</b>
 
-Pullman Regional Hospital Board of Commissioners – Lennis Boyer
+* Pullman Neill Public Library Board / <b>Deb Olson</b>
 
-Pullman School District Board of Directors – Carol Ndambuki
+* Pullman Parks and Rec Commission / <b>_____________</b>
 
-Whitman County Board of Commissioners – OPEN
+* Pullman Planning Commission / <b>_____________</b>
 
-Whitman County Planning Commission – Shelley Chambers Fox
+* Pullman Regional Hospital Board of Commissioners / <b>Lennis Boyer-Watts</b>
 
-Whitman County Solid Waste Advisory Committee – Deb Olson
+* Pullman School District Board of Directors / <b>Carol Ndambuki</b>
 
-Port of Whitman County Commissioners – OPEN
+* Pullman-Moscow Regional Airport Board / <b>_____________</b>
 
-Pullman Diversity, Equity, Inclusion and Belonging Committee - Tricia Grantham (Meets 4:00 pm 3rd Thursday of each month)
+* Whitman County Board of Commissioners / <b>_____________</b>
 
-Pullman Historic Preservation Committee - OPEN (Meets 7:30 pm 2nd Monday of each month)
+* Whitman County Planning Commission / <b>Shelley Chambers-Fox</b>
+
+* Whitman County Solid Waste Advisory Committee / <b>Deb Olson</b>
+
+* Pullman City Council – <b>Roger Crawford</b> / <b>_____________</b>
 
 ## Becoming an Observer
-If you are looking for a way to become involved in your League by observing the business conducted by a local governmental entity, please check out the Observer Corp Guidelines. Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
+We need more eyes on local government!  No experience needed — just a willingness to stay informed and engaged.  Join us in making a difference! Interested? Let us know!  Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
+
+## Observer Corps Guidelines and FAQs
+
+Click below for a PDF of the Observer Corps Guidelines and FAQs.
+
+[Observer Corps Guidelines and FAQs PDF - Revised Oct 2022](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2022-10-Guidelines_and_FAQs.pdf)
+
+
+## Short LWVP Power Point Presentation
+["What You Need to Know"](https://lwvpullman.org/assets/PDFs/OnlineSelfOrientation2022-10.pdf)
 ## Observer Corps Calendar
 
 * [January  2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-01ObsCalendar.pdf)
@@ -92,12 +107,4 @@ Click below to go to the list of observer reports.
 [Observer Corps Reports](https://lwvpullman.org/observer_corps/Observer_reports/)
 
 
-## Observer Corps Guidelines and FAQs
 
-Click below for a PDF of the Observer Corps Guidelines and FAQs.
-
-[Observer Corps Guidelines and FAQs PDF - Revised Oct 2022](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2022-10-Guidelines_and_FAQs.pdf)
-
-
-## Short LWVP Power Point Presentation
-["What You Need to Know"](https://lwvpullman.org/assets/PDFs/OnlineSelfOrientation2022-10.pdf)
