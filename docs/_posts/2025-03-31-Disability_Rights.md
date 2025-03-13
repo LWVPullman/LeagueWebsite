@@ -24,14 +24,13 @@ Coordinator: Kat Odell
 
 Date: March 31, 2025
 
-Time: TBA
+Time: 7-8:30 pm
 
 Location: meeting via Zoom
 
-Program: TBA
+Program: History of Disability Rights.  More to information to come soon.
 
 [Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
-
 
 Zoom Meeting ID: 823 8718 5069
 
