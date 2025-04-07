@@ -12,7 +12,7 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This competition has ended! Come see all the entries displayed at Neill Public Library April 7 - 19.  Join us for the Artists Reception on April 19, at 2:00 pm.  Everyone is welcome. ** </span>
+<span style="color:red; font-size:1em;"> **This competition has ended! Come see all the entries displayed at Neill Public Library April 7 - 19.  Join us for the Artists Reception on April 19, at 2:00 pm at Neill Public Library.  Everyone is welcome. ** </span>
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-02-17-VAC_Banner.jpg)
 
