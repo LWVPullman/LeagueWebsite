@@ -14,6 +14,8 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition has ended! Come see all the entries displayed at Neill Public Library April 7 - 19.  Join us for the Artists Reception on April 19, at 2:00 pm at Neill Public Library.  Everyone is welcome. ** </span>
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception.jpg)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-02-17-VAC_Banner.jpg)
 
 This program is sponsored by the League of Women Voters of Pullman/Whitman County’s Education Fund and supported by Neill Public and Whitman County Libraries, with contributions from the Tribal Consultation Program, Office of Native Education, and the WA Office of the Superintendent of Public Instruction (OSPI).
