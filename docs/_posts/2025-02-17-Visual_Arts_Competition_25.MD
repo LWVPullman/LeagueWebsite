@@ -141,7 +141,7 @@ Originality:  Uniqueness of ideas.
 
 Message:  Clearly describes the artist’s intent.
 
-[Click here for the Panel of Judges for 2025](2025-04-VAC_Judges.pdf)
+[Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 
 ## Past Competitions
 
