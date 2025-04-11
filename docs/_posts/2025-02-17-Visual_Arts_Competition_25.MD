@@ -16,7 +16,7 @@ tags:
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception.jpg)
 
-We sincerely appreciate our judges for generously lending their time and expertise to help us choose the artwork that best represented this year’s theme.
+We sincerely appreciate our judges for generously lending their time and expertise to help us choose the artwork that best represented this year’s theme.  [Click here for more info on the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-11-VAC_Judges.jpg)
 
