@@ -16,6 +16,10 @@ tags:
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception.jpg)
 
+We sincerely appreciate our judges for generously lending their time and expertise to help us choose the artwork that best represented this year’s theme.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-11-VAC_Judges.jpg)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-02-17-VAC_Banner.jpg)
 
 This program is sponsored by the League of Women Voters of Pullman/Whitman County’s Education Fund and supported by Neill Public and Whitman County Libraries, with contributions from the Tribal Consultation Program, Office of Native Education, and the WA Office of the Superintendent of Public Instruction (OSPI).
