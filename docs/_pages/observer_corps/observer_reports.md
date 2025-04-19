@@ -274,6 +274,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2025-1-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2025-1-15-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2025-2-5](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2025-2-5-Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2025-3-5](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2025-3-5-Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2025-4-2](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/WCPC-ObsReport2025-4-2-Pub.pdf)
 
 ## Port of Whitman County Commissioners
 
