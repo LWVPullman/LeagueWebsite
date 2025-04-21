@@ -14,7 +14,11 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This competition has ended! Come see all the entries displayed at Neill Public Library April 7 - 19.  Join us for the Artists Reception on April 19, at 2:00 pm at Neill Public Library.  Everyone is welcome. ** </span>
 
+Artists’ Reception on April 19th at Neill Public Library where all the artists were recognized and the winning artists received their prizes…
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception.jpg)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception_invite.jpg)
 
 We sincerely appreciate our judges for generously lending their time and expertise to help us choose the artwork that best represented this year’s theme.  [Click here for more info on the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 
