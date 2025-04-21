@@ -12,9 +12,19 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This competition has ended! Come see all the entries displayed at Neill Public Library April 7 - 19.  Join us for the Artists Reception on April 19, at 2:00 pm at Neill Public Library.  Everyone is welcome. ** </span>
+<span style="color:red; font-size:1em;"> **This competition has ended!
+
+All entries will be displayed again May 21 to June 4, 2025 at the Libey Gallery at the Whitman County Library in Colfax. ** </span>
+
+Artists’ Reception on April 19th at Neill Public Library where all the artists were recognized and the winning artists received their prizes.  You can go to our YouTube Channel to see the presentation.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception.jpg)
+
+Members of the Nez Perce Tribe, Judy Oatman and her grand daughter, made us 100 pieces of fry bread using a recipe that has been in their family for 40 years. They also made huckleberry jam from their fall harvest.  What a special treat for the Artists Reception.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-19-Judy_Oatman_Frybread.JPG)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception_invite.jpg)
 
 We sincerely appreciate our judges for generously lending their time and expertise to help us choose the artwork that best represented this year’s theme.  [Click here for more info on the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 
