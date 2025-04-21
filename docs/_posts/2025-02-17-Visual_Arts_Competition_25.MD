@@ -16,9 +16,13 @@ tags:
 
 All entries will be displayed again May 21 to June 4, 2025 at the Libey Gallery at the Whitman County Library in Colfax. ** </span>
 
-Artists’ Reception on April 19th at Neill Public Library where all the artists were recognized and the winning artists received their prizes…
+Artists’ Reception on April 19th at Neill Public Library where all the artists were recognized and the winning artists received their prizes.  You can go to our YouTube Channel to see the presentation.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception.jpg)
+
+Members of the Nez Perce Tribe, Judy Oatman and her grand daughter, made us 100 pieces of fry bread using a recipe that has been in their family for 40 years. They also made huckleberry jam from their fall harvest.  What a special treat for the Artists Reception.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-19-Judy_Oatman_Frybread.JPG)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception_invite.jpg)
 
