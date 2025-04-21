@@ -12,7 +12,9 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This competition has ended! Come see all the entries displayed at Neill Public Library April 7 - 19.  Join us for the Artists Reception on April 19, at 2:00 pm at Neill Public Library.  Everyone is welcome. ** </span>
+<span style="color:red; font-size:1em;"> **This competition has ended!
+
+All entries will be displayed again May 21 to June 4, 2025 at the Libey Gallery at the Whitman County Library in Colfax. ** </span>
 
 Artists’ Reception on April 19th at Neill Public Library where all the artists were recognized and the winning artists received their prizes…
 
