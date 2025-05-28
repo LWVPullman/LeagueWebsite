@@ -84,4 +84,4 @@ group_photo - Photo from league event (unknown event), date taken and names of t
 
 2023-04-10-Judging_collage.jpg - judges for 2023 VIsual Arts Comp, Francis Benjamin,Megan Guido, Nathan Weller, Holly Ashkannejhad, Rob McPherson, Mason Hines Burns, Allison Munch-Rotolo, Annette Bridges
 
-
+2025-05-VACC_members.JPG - u shape starting top left Crowe, Lennis, Kat, CHeryl, Carolyn,Deb, Kimberly, Sutton and botton two Aly and Ceci

@@ -12,9 +12,17 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This competition has ended! All entries will be displayed again May 21 to June 4, 2025 at the Libey Gallery at the Whitman County Library in Colfax. ** </span>
+<span style="color:red; font-size:1em;"> **This competition has ended! All entries will be displayed again May 21 to June 4, 2025 at the Libey Gallery at the Whitman County Library in Colfax.  Scroll down through this page to see all about the 2025 Visual Arts Competition ** </span>
 
 [Click here for a presentation of all the "Native America and the USA" Artwork](https://lwvpullman.org/assets/PDFs/2025-05-09-Native_Artwork_Presentation.pdf)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-VACC_members.JPG)
+
+Lucky to have an amazing committee again this year.  Thanks for all the hard work. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-VAC_DIsplays.jpg)
+
+All of the artworks were on display in a store front window for the Downtown Pullman Art Walk during the weekend of May 17 - a “walkable gallery experience.”  Another showing was installed in the Libey Gallery at Whitman County Library in Colfax from May 21- June 4th.  
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-Winners_Collage_Poster.jpg)
 
