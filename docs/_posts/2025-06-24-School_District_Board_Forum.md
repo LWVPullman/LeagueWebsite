@@ -2,7 +2,7 @@
 title:  Forums for School Board Districts 4 and 5 
 header:
   video:
-    id: Gel6YcZNRQo
+    id: 
     provider: youtube
 categories:
   - Evening meeting
@@ -13,9 +13,9 @@ tags:
   - Pullman School Board
 ---
 
-The League of Women Voters of Pullman a public Pullman School Board Directors Candidates Forum at Neill Public Library.
+The League of Women Voters of Pullman is holding a public Pullman School Board Directors Candidates Forum at Neill Public Library.
 
-**Tuesday, June 24, 5:30-7:00 p.m.**  
+**Tuesday, June 24, 5:30-7:00 p.m. at Neill Public Library**  
 
 Candidates for Pullman School District 4:
 Ben Emerson 
