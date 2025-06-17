@@ -13,7 +13,7 @@ tags:
   - Pullman School Board
 ---
 
-The League of Women Voters of Pullman a public Pullman School Board Directors Candidates Forum at Neill Public Library.
+The League of Women Voters of Pullman is holding a public Pullman School Board Directors Candidates Forum at Neill Public Library.
 
 **Tuesday, June 24, 5:30-7:00 p.m. at Neill Public Library**  
 
