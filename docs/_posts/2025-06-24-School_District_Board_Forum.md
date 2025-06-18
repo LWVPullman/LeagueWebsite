@@ -35,11 +35,14 @@ Questions can me directed to Deb by emailing olsonbones@aol.com
 
 [Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
 
-Meeting ID: 823 8718 5069
+Zoom Meeting ID: 823 8718 5069
+
 Passcode: 906666
 
+[One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-24-School_Board_Director_Forum.jpg.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-24-School_Board_Director_Forum.jpg)
 
 
 Copyright LWV of Pullman
