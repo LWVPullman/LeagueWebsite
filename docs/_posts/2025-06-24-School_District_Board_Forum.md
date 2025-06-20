@@ -23,15 +23,15 @@ Hannah Martian 
 Deena Bayoumi 
 
 Candidates for Pullman School District 5:
-Stephanie A. Horn 
+Stephanie Horn 
 Brandon Kruger 
 Amanda Tanner
 
 The forum will also be available live over Zoom - follow the link below. It will be recorded and uploaded to the LWVPullman YouTube channel for later viewing.  Check back here to see recording once it is posted or go directly to the league YouTube channel.
 
-Coordinators: Deb Olson and Sue Hinz
+**The League will be accepting questions from the public by email through Monday, June 23.** Please send your questions to **lwvpullman.org** with “School Board Forum” in the subject line, and be sure to indicate which candidate your question is for.
 
-Questions can me directed to Deb by emailing olsonbones@aol.com
+Coordinators: Deb Olson and Sue Hinz
 
 [Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
 
