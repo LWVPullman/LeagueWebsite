@@ -16,25 +16,27 @@ tags:
 
 [CLICK HERE for a presentation of all the "Native America and the USA" Artworks](https://lwvpullman.org/assets/PDFs/2025-05-09-Native_Artwork_Presentation.pdf)
 
+
+At the 2025 LWVWA Conference in Vancouver, WA, we set up both a display table and a workshop table to share information about this civics education program. Willie Frank III, son of Billy Frank Jr who was national recognized for advocating for tribal rights and salmon conservation, made a thoughtful effort to visit our display table.  He expressed his appreciation for our efforts and graciously offered his support should we need it in the future. With a natural warmth and ability to connect with others, he left a lasting impression. We have much to learn.
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-02-Willy_Frank_III.jpeg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-02-LWVWA_Convention_VAC_workshop.jpeg)
 
-At the 2025 LWVWA Conference in Vancouver, WA, we set up both a display table and a workshop table to share information about this civics education program. Willie Frank III, son of Billy Frank Jr who was national recognized for advocating for tribal rights and salmon conservation, made a thoughtful effort to visit our display table.  He expressed his appreciation for our efforts and graciously offered his support should we need it in the future. With a natural warmth and ability to connect with others, he left a lasting impression. We have much to learn.
+All of the artworks were on display at the Libey Gallery at the Whitman County Library in Colfax from May 21 to June 4, 2025. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-21-Libey_gallery_Colfax.JPG)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-21-Libey_gallery_Colfax_display.jpeg)
 
-All of the artworks were on display at the Libey Gallery at the Whitman County Library in Colfax from May 21 to June 4, 2025. 
+All of the artworks were on display in a store front window for the Downtown Pullman Art Walk during the weekend of May 17 - a “walkable gallery experience.”  Another showing was installed in the Libey Gallery at Whitman County Library in Colfax from May 21- June 4th.  
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-VAC_DIsplays.jpg)
 
-All of the artworks were on display in a store front window for the Downtown Pullman Art Walk during the weekend of May 17 - a “walkable gallery experience.”  Another showing was installed in the Libey Gallery at Whitman County Library in Colfax from May 21- June 4th.  
+Lucky to have an amazing committee again this year.  Thanks for all the hard work. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-VACC_members.JPG)
 
-Lucky to have an amazing committee again this year.  Thanks for all the hard work. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-Winners_Collage_Poster.jpg)
 
