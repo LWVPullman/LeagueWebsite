@@ -23,7 +23,11 @@ The League of Women Voters of Pullman and Whitman County will hold two primary c
 
 The Ward 1 forum is on Tuesday, July 15th from 5:30 to 7 pm at Neill Public Library. The candidates for Ward 1 are Bobbi Bennett-Wolcott, John-Mark Mahnkey, Cindy Kothandaraman, James Pitzer Randy Cross and Bryan MacDonald. 
 
-Due to the large candidate pool questions for the forum are being solicited ahead of time until July 14th.  Questions may be sent to lwvpull@yahoo.com. The forums will be on zoom also and recorded.
+Due to the large candidate pool, questions for the forum are being solicited from the public ahead of time. Questions may be sent to lwvpull@yahoo.com until Monday, July 14th. The forum will also be available live on zoom and recorded for later viewing.
+
+Please note you can only vote for the candidates in your Ward. [What Council Ward Am I In?](https://gis.pullman-wa.gov/portal/apps/instant/lookup/index.html?appid=81968c2f279249308509b19375715336)
+
+Ballots will be mailed on July 18th and the Primary is August 5. 
 
 [Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
 
