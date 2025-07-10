@@ -47,6 +47,10 @@ Community Service:  For 25 years I was a 4-H leader and council member.  In 199
 
 Statement:  I believe my service on the planning commission gives me invaluable insight into the challenges facing our county.  Years of volunteer service has allowed me to work with many diverse groups throughout Whitman County.  As a farrier I have been able to travel all of our county.  I believe my experience in leadership, will help move Whitman County successfully into the future, by balancing responsible growth and preserving our rural heritage.  My success as a small business owner will guide me when balancing budgets. 
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-07-09-WhitCoComm_Forum.JPG)
+
+Mary Collins was moderator and Sue Hinz, Roger Crawford, and Brian Anderson were question sorters.
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-07-09-Whitman_Co_Commissioner_Forum.jpg)
 
 Copyright LWV of Pullman
