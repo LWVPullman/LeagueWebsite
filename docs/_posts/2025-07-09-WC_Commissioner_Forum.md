@@ -2,7 +2,7 @@
 title:  Whitman County Commissioner District 3 Forum
 header:
   video:
-    id: 
+    id: LBRtULK-GRU
     provider: youtube
 categories:
   - Evening meeting
@@ -17,17 +17,10 @@ Coordinator: Deb Olson
 
 Program Description:
 
-The League of Women Voters of Pullman and Whitman County will hold a candidate forum for the Whitman County Commissioner District 3 Position on Wednesday, July 9th at the Whitman County Library in Colfax from 5:30 to 7:00 pm. The candidates are Tucker Senter, Cody Finch and Chad Whetzel.
+The League of Women Voters of Pullman and Whitman County held a candidate forum for the Whitman County Commissioner District 3 Position on Wednesday, July 9th at the Whitman County Library in Colfax from 5:30 to 7:00 pm. The candidates were Tucker Senter, Cody Finch and Chad Whetzel.
 
-The League will be accepting questions from the public by email through Tuesday, July 8. Please send your questions to lwvpull@yahoo.com with “Whitman County Commissioner Forum” in the subject line, and be sure to indicate which candidate your question is for.  The League will also be taking questions from the audience at the forum. 
+The League accepted questions from the public by email and also took questions from the audience at the forum. 
 
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
-
-Zoom Meeting ID: 823 8718 5069
-
-Passcode: 906666
-
-[One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
 
 ## Tucker Senter
 
