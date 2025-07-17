@@ -2,7 +2,7 @@
 title:  Pullman City Council Ward 3 Cadidate Forum
 header:
   video:
-    id: 
+    id: bHmE0rY7VFo
     provider: youtube
 categories:
   - Evening meeting
