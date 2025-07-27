@@ -8,15 +8,15 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 ## Excecutive Board:
 
-**President:**  Position is OPEN -- please volunteer
-
-**Vice President:** Mary Collins
+**Executive Team:**  Mary Collins, Tricia Grantham, and Paul Spencer
 
 **Secretary:**  Lennis Boyer Watts
 
 **Treasurer:**  Kat Odell
 
-We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  Board Meetings will be held on the 2nd Saturday of each month from 9:30 – 11:30 PM, September – May.    The location will be Neill’s Coffee Shop on Main St. in Pullman unless stated otherwise. The Board Meeting dates are: 9/14, 10/12, 11/9, 12/14, 1/11, 2/8, 3/8, 4/12, and 5/10.  Non-members may attend if interested and should contact the league by sending an email to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) for meeting information.
+We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  
+
+The Board Meeting dates and location will be updated after the planning meeting on August 12th.  Non-members may attend if interested and should contact the League by sending an email to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) for meeting information.
 
 
 
@@ -26,11 +26,11 @@ We have a **“Board of the Whole”** so all league members are welcome to atte
 
 **Community Outreach Coordinator:**  Libby Walker
 
-**Community Update Editor:**  Anne Lewis
+**Community Update Editor:**  OPEN
 
 **Finance Drive Coordinator:** Libby Walker 
 
-**MELD Coordinators:**  Paul Spencer, Patricia Grantham 
+**MELD Coordinators:**  Paul Spencer, Tricia Grantham 
 
 **Membership Chair:**  Kat Odell
 
@@ -38,17 +38,17 @@ We have a **“Board of the Whole”** so all league members are welcome to atte
 
 **Observer Corps Chair:**  Roger Crawford
 
-**Social Media:**  Carolyn Joswig-Jones
+**Social Media:**  Carolyn Joswig-Jones and OPEN
 
 **The Voter Publication:**  Anne Lewis
 
-**TRY Coordinator:**  Susan Daniels
+**TRY Coordinator:**  OPEN
 
 **Voter Services Coordinator:**  Deb Olson
 
 **Visual Arts Competition Chair:**  Carolyn Joswig-Jones
 
-**Website:**  Leah Zulas, Helen Catanese, Paul Spencer, and Carolyn Joswig-Jones
+**Website:**  Leah Zulas, Paul Spencer, and Carolyn Joswig-Jones
 
 
 
