@@ -13,7 +13,7 @@ tags:
 
 Coordinators: Executive Team Members - Contact Tricia Grantham if you have any questions.
 
-Date: Tuesday, August 6, 2024, 6-8:00 PM
+Date: Tuesday, August 12th, 2025, 5:30-7:30 PM
 
 Program Description: This event is open to the public!
 
