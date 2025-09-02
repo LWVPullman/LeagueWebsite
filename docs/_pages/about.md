@@ -6,14 +6,17 @@ excerpt: "The League of Women Voters, a nonpartisan political organization, enco
 layouts_gallery:
   - url: /assets/images/original_league.jpg
     image_path: /assets/images/original_league.jpg
-    alt: "Picture of the original League Members"
+    alt: "Picture of the original League Members pic from 1954"
   - url: /assets/images/group_photo.jpg
     image_path: /assets/images/group_photo.jpg
-    alt: "Recent photo of the League"
+    alt: "Photo of the League members recieving lifetime memberships"
   - url: /assets/images/we_luv.jpg
     image_path: /assets/images/we_luv.jpg
-    alt: "Photo of League Members on Zoom meeting"
-last_modified_at: 2021-03-016T20:54:41-05:00
+    alt: "Photo of League Members on Zoom meeting during Covid"
+  - url: /assets/images/2025-08-16-Lentil_Parade.JPG
+    image_path: /assets/images/2025-08-16-Lentil_Parade.JPG
+    alt: "Photo of League Members marching the Lentil parade for 75th anniversary 2025"
+last_modified_at: 2025-09-02 CJJ 2021-03-016T20:54:41-05:00
 redirect_from:
   - /theme-setup/
 toc: true
