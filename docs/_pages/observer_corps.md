@@ -55,7 +55,7 @@ There are 14 public entities that hold meetings open for observation. Currently,
 
 * Pullman Regional Hospital Board of Commissioners / <b>Lennis Boyer-Watts</b>
 
-* Pullman School District Board of Directors / <b>Carol Ndambuki</b>
+* Pullman School District Board of Directors / <b>Brian Anderson</b>
 
 * Pullman-Moscow Regional Airport Board / <b>_____________</b>
 
