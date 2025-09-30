@@ -217,7 +217,9 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman School Board Observer Report 2024-9-25](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-9-25-Pub.pdf)
 * [Pullman School Board Observer Report 2024-10-9](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2024-10-9-Pub.pdf)
 * [Pullman School Board Observer Report 2025-1-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2025-1-8-Pub.pdf)
-
+* [Pullman School Board Observer Report 2025-08-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2025-08-13-Pub.pdf)
+* [Pullman School Board Observer Report 2025-08-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2025-08-27-Pub.pdf)
+* [Pullman School Board Observer Report 2025-09-10](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSchoolBoard-2025-09-10-Pub.pdf)
 
 
 ## Whitman County Commissioners
