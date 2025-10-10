@@ -2,7 +2,7 @@
 title:  Whitman County Commissioner District 3 Forum
 header:
   video:
-    id:
+    id: WoDg-1h9GVw
     provider: youtube
 categories:
   - Evening meeting
@@ -19,9 +19,9 @@ Program Description:
 
 The League of Women Voters of Pullman and Whitman County will be holding three Candidate forums for the General Election on November 4. All three forums will be held at Neill Public Library in Pullman from 5:30 to 7:00 pm. The forums will also be on zoom and will be recorded.
 
-The first forum will be on Thursday, October 9th for the Whitman County Commissioner District 3 position. The two candidates are Cody Finch and Chad Whetzel.
+The first forum was on Thursday, October 9th for the Whitman County Commissioner District 3 position. The two candidates are Cody Finch and Chad Whetzel.
 
-The League will accept questions from the public by email [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) and also from the audience at the forum. 
+The League will accepted questions from the public by email [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) and also from the audience at the forum. 
 
 ## Cody Finch
 
