@@ -54,6 +54,10 @@ Stephanie has lived in Pullman since 1992 when she moved here to attend WSU. She
 
 I am a parent of two students in the Pullman School District; a daughter entering 5th grade and a son entering 2nd grade.  I have volunteered for their classes when they get to go on field trips and participated in field day events as well. I have a deep appreciation for our Pullman educational staff and the work they do to provide opportunities for our students. I have also volunteered as a softball coach at Pullman High School and for the Athletic Department as a football announcer and helped with other game management tasks for my wife who was the Athletics & Activities Director. I have also been a volunteer coach for Pullman Parks and Rec. as well as the Pullman Youth Baseball Association. I have over thirteen years of experience working in public works; much of that time as a heavy equipment operator but also as the maintenance coordinator for five years. Both roles gave me ample opportunity to interface directly with members of the public. As the maintenance coordinator, I supervised over 45 employees, conducted interviews, oversaw the maintenance budget, was in charge of fleet management and equipment purchasing. I commonly interacted with the Board of County Commissioners and other county officials in the course of my work. I have also been a part of the local agricultural community driving truck and combine during harvest and helping with spring and fall work as needed.  I am connected to many of our community members through our family’s involvement in many aspects of Pullman and I believe that my well-rounded professional experience has prepared me to serve our community if elected as a school board member.
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-10-14-PSD_Forum.JPG)
+
+Candidates Brandon Kruger, Stephanie A Horn, Hannah Martian, and Deena Bayoumi.  Forum moderated by Kat Odell and question sorts Libby Walker and Lennis Boyer-Watts.
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-10-14-Pullman_School_Board_Forum.jpg)
 
 
