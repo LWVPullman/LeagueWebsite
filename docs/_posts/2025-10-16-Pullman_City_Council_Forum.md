@@ -21,9 +21,13 @@ The League of Women Voters of Pullman and Whitman County will be holding three C
 
 The Pullman City Council Forum for Ward 1, 2, and 3 will be held on Thursday, October 16. For Ward 1 the candidates are John-Mark Mahnkey and Bryan MacDonald. For Ward 2 the candidates are DiDi Lubash and Trevor Vance. For Ward 3 the candidates are John Casselman and Tawny Szumlas. Please remember for the city council race you can only vote for the candidates of your ward.
 
+[Join the Forum Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
+
+Zoom Meeting ID: 823 8718 5069    Passcode: 906666
+
+[One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-10-16-Pullman_City_Council_Forum.jpg)
-
-
 
 
 Copyright LWV of Pullman
