@@ -2,7 +2,7 @@
 title:  Pullman School Board Districts 4 and 5 Forum
 header:
   video:
-    id:
+    id: yUi_8oX1KkU
     provider: youtube
 categories:
   - Evening meeting
@@ -19,9 +19,9 @@ Program Description:
 
 The League of Women Voters of Pullman and Whitman County will be holding three Candidate forums for the General Election on November 4. All three forums will be held at Neill Public Library in Pullman from 5:30 to 7:00 pm. The forums will also be on zoom and will be recorded.
 
-The second forum will be held on Tuesday, October 14th for the Pullman School Board. The four candidates are Deena Bayoumi and Hannah Martian for District 4, and Brandon Kruger and Stephanie A Horn for District 5.
+The Pullman School Boarde forum was held on Tuesday, October 14th. The four candidates are Deena Bayoumi and Hannah Martian for District 4, and Brandon Kruger and Stephanie A Horn for District 5.
 
-The League will accept questions from the public by email [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) and also from the audience at the forum. 
+The League accepted questions from the public by email [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) and also from the audience at the forum. 
 
 ## Hannah Martian (Candidate for Pullman School District 4)
 
