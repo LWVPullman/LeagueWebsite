@@ -2,7 +2,7 @@
 title:  Pullman City Council Forum
 header:
   video:
-    id:
+    id: LbOBYPinung
     provider: youtube
 categories:
   - Evening meeting
