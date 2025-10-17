@@ -23,6 +23,8 @@ The Pullman City Council Forum for Ward 1, 2, and 3 was held on Thursday, Octobe
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-10-16-City_Council_Forum_collage.JPG)
 
+Pictured above from left to right Tawny Szumlas, John Casselman, Trevor Vance, DiDi Lubash, John-Mark Mahnkey and Bryan MacDonald.  Crowe Gammons and Lennis Boyer-Watts were questions sorters and Tricia Grantham was the moderator.
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-10-16-Pullman_City_Council_Forum.jpg)
 
 
