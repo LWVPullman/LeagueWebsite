@@ -26,7 +26,7 @@ Neill Public Library, 210 N Grand Ave, Pullman
 
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-11-13-Misinfprmation_Event.jpg)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
