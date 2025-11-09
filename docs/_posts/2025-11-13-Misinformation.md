@@ -23,8 +23,15 @@ Thursday, November 13 @ 6:00pm
 
 Neill Public Library, 210 N Grand Ave, Pullman
 
+If you cannot attend in person, the program is also available via Zoom and will be recorded for later viewing on our YouTube Channel.
 
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
 
+Zoom Meeting ID: 823 8718 5069
+
+Passcode: 906666
+
+[One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-11-13-Misinfprmation_Event.jpg)
 
