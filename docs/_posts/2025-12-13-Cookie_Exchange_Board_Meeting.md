@@ -20,11 +20,9 @@ Join us for our December board meeting where we’ll take care of business and e
 
 Let’s wrap up the year with good company, good conversation, and very good cookies. 
 
-Saturday, Dec 13th, at 9:30-11:30 am.   All Members will be emailed meeting location.  
+Saturday, Dec 13th, at 9:30-11:30 am.   All members will be emailed meeting location.  
 
-We have a “Board of the Whole” so all members are encouraged to attend. Please look for an email sent to members prior to each board meeting. If you are not a member and would like to attend as a guest please email for more information. LWVPull@yahoo.com 
-
-#pullman #pullmanwa #pullmanwashington #wsu #gocougs #pullmanlocal #lwvpullman #whitmancounty #localcommunities #leagueofwomenvoters #lwvwa #nonpartisan #supportingdemocracy #communityresources #defendingdemocracy 
+We have a “Board of the Whole” so all members are encouraged to attend. If you are not a member and would like to attend as a guest please email for more information. [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-12-06-Cookie_Exchange_Board_Meeting.jpg)
 
