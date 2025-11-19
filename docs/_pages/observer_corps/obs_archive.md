@@ -97,6 +97,12 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman City Council Observer Report 2022-9-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-9-27-Pub.pdf)
 * [Pullman City Council Observer Report 2022-11-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-11-15-Pub.pdf)
 
+## Pullman's diversity equity, inclusion and Belonging Committee
+
+* [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-1-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-1-18-Pub.pdf)
+* [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-2-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-2-29-Pub.pdf)
+
+
 ## Neill Public Library Board
 
 * [Neill Public Library Board Observer Report 2018-12-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsLibrary-2018-12-12-Pub.pdf)
