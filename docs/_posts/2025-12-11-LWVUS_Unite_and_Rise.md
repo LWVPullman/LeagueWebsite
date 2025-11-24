@@ -16,19 +16,30 @@ tags:
 
 Coordinators: Tricia Grantham
 
-Program: More information coming soon.
+Speaker:  Karen Crowley (she/her), President, 2025-27 of the League of Women Voters of Washington
+
+Program:  Come meet our LWVWA President!
 
 Date and Time:  Thursday, December 11, 6:30-8:00 pm
 
-Location: Pullman Regional Hospital
+Place:  Virual Meeting via Zoom
 
-What is Unite and Rise 8.5?
+You will hear:
 
-Unite & Rise 8.5 aims to build a movement of 8.5 million individuals to unite and rise up against the anti-democratic actions of this administration. Launching in May 2025 and running until the 2026 midterm elections, this initiative is part of our Women Defend Democracy campaign. 
+* Update on both LWVUS and LWVWA priorities and work
+* Unite and Rise Playbook 3 - How you can take action
+  
+Invite a friend and come with your questions.
+
+[Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
+
+Zoom Meeting ID: 823 8718 5069    Passcode: 906666
+
+[One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
 
 [Click here for the LWVUS Unite and Rise Initiative](https://www.lwv.org/uniteandrise)
 
-<!---![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/) -->
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-11-13-Meet_LWVWA_Pres.jpg)
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
