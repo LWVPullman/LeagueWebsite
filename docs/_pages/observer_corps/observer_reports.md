@@ -58,7 +58,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman City Council Observer Report 2022-11-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-11-15-Pub.pdf)
 * [Pullman City Council Observer Report 2024-3-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2024-3-26-Pub.pdf)
 
-## Pullman's diversity equity, inclusion and Belonging Committee
+## Pullman's Diversity, Equity, Inclusion and Belonging Committee
 
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-1-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-1-18-Pub.pdf)
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-2-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-2-29-Pub.pdf)
@@ -152,6 +152,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Regional Hospital Board Observer Report 2025-5-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2025-5-7-Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2025-9-3](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2025-09-03_Pub.pdf)
 * [Pullman Regional Hospital Board Observer Report 2025-10-01](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2025-10-01_Pub.pdf)
+* [Pullman Regional Hospital Board Observer Report 2025-11-05](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPRH-2025-11-5-Pub.pdf)
   
 ## Pullman School Board
 
@@ -292,6 +293,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Whitman County Planning Commission Observer Report 2025-10-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2025-10-15_Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2025-10-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2025-10-29_Pub.pdf)
 * [Whitman County Planning Commission Observer Report 2025-11-05](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2025-11-05_Pub.pdf)
+* [Whitman County Planning Commission Observer Report 2025-11-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsWCPC-2025-11-12-Pub.pdf)
   
 ## Port of Whitman County Commissioners
 
