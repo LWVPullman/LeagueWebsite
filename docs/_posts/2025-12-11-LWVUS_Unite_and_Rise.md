@@ -22,7 +22,7 @@ Program:  Come meet our LWVWA President!
 
 Date and Time:  Thursday, December 11, 6:30-8:00 pm
 
-Place:  Virual Meeting via Zoom
+Place:  Virtual Meeting via Zoom
 
 You will hear:
 
