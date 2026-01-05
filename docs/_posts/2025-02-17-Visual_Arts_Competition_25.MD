@@ -12,6 +12,48 @@ tags:
   - Civics Education
 
 ---
+<span style="color:red; font-size:1em;"> **This competition has ended! Scroll down through this page to see all about the 2025 Visual Arts Competition.** </span>
+
+[CLICK HERE for a presentation of all the "Native America and the USA" Artworks](https://lwvpullman.org/assets/PDFs/2025-05-09-Native_Artwork_Presentation.pdf)
+
+
+At the 2025 LWVWA Conference in Vancouver, WA, we set up both a display table and a workshop table to share information about this civics education program. Willie Frank III, son of Billy Frank Jr who was national recognized for advocating for tribal rights and salmon conservation, made a thoughtful effort to visit our display table.  He expressed his appreciation for our efforts and graciously offered his support should we need it in the future. With a natural warmth and ability to connect with others, he left a lasting impression. We have much to learn.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-02-Willy_Frank_III.jpeg)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-02-LWVWA_Convention_VAC_workshop.jpeg)
+
+All of the artworks were on display at the Libey Gallery at the Whitman County Library in Colfax from May 21 to June 4, 2025. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-21-Libey_gallery_Colfax.JPG)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-21-Libey_gallery_Colfax_display.jpeg)
+
+All of the artworks were on display in a store front window for the Downtown Pullman Art Walk during the weekend of May 17 - a “walkable gallery experience.”  Another showing was installed in the Libey Gallery at Whitman County Library in Colfax from May 21- June 4th.  
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-VAC_DIsplays.jpg)
+
+Lucky to have an amazing committee again this year.  Thanks for all the hard work. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-VACC_members.JPG)
+
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-Winners_Collage_Poster.jpg)
+
+The Artists’ Reception was on April 19th at Neill Public Library where all the artists were recognized and the winning artists received their prizes.  You can go to our [YouTube Channel](https://youtu.be/ttLveRvVtGc?feature=shared) to see the presentation.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-19-VAC_Reception_Top_Ten.JPG)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-19-Judy_Oatman_Frybread.JPG)
+
+Members of the Nez Perce Tribe, Judy Oatman and her grand daughter, made us 100 pieces of fry bread using a recipe that has been in their family for 40 years. They also made huckleberry jam from their fall harvest.  What a special treat for the Artists Reception.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-VAC_Reception_invite.jpg)
+
+We sincerely appreciate our judges for generously lending their time and expertise to help us choose the artwork that best represented this year’s theme.  [Click here for more info on the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-04-11-VAC_Judges.jpg)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-02-17-VAC_Banner.jpg)
 
 This program is sponsored by the League of Women Voters of Pullman/Whitman County’s Education Fund and supported by Neill Public and Whitman County Libraries, with contributions from the Tribal Consultation Program, Office of Native Education, and the WA Office of the Superintendent of Public Instruction (OSPI).
@@ -137,7 +179,7 @@ Originality:  Uniqueness of ideas.
 
 Message:  Clearly describes the artist’s intent.
 
-[Click here for the Panel of Judges for 2025]() This will be updated by the begining of April.
+[Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 
 ## Past Competitions
 

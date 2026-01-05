@@ -6,14 +6,17 @@ excerpt: "The League of Women Voters, a nonpartisan political organization, enco
 layouts_gallery:
   - url: /assets/images/original_league.jpg
     image_path: /assets/images/original_league.jpg
-    alt: "Picture of the original League Members"
+    alt: "Picture of the original League Members pic from 1954"
   - url: /assets/images/group_photo.jpg
     image_path: /assets/images/group_photo.jpg
-    alt: "Recent photo of the League"
+    alt: "Photo of the League members recieving lifetime memberships"
   - url: /assets/images/we_luv.jpg
     image_path: /assets/images/we_luv.jpg
-    alt: "Photo of League Members on Zoom meeting"
-last_modified_at: 2021-03-016T20:54:41-05:00
+    alt: "Photo of League Members on Zoom meeting during Covid"
+  - url: /assets/images/2025-08-16-Lentil_Parade.JPG
+    image_path: /assets/images/2025-08-16-Lentil_Parade.JPG
+    alt: "Photo of League Members marching the Lentil parade for 75th anniversary 2025"
+last_modified_at: 2025-09-02 CJJ 2021-03-016T20:54:41-05:00
 redirect_from:
   - /theme-setup/
 toc: true
@@ -29,7 +32,7 @@ The League of Women Voters, a nonpartisan political organization, encourages the
 
 ## New Members
 
-New members are invited to connect with [Paul Spencer](mailto:paulrrspencer@gmail.com), our membership chair or email [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com). There are two methods for self-orientation offered. One is a short presentation called ["What You Need to Know"](https://lwvpullman.org/assets/PDFs/OnlineSelfOrientation2022-10.pdf). and the  other is The [Pullman League of Women Voters Primer](https://lwvpullman.org/assets/PDFs/PrimerRevision-11-2021.pdf), an online orientation resource manual. It also contains the Pullman League Bylaws. All members are invited to fill out an [Experience and Interests Survey](https://lwvpullman.org/assets/PDFs/2022-09-Experience_Interests_Survey.pdf) for volunteering opportunities. 
+New members are invited to connect with Kat Odell, our membership chair by emailing [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com). There are two methods for self-orientation offered. One is a short presentation called ["What You Need to Know"](https://lwvpullman.org/assets/PDFs/OnlineSelfOrientation2022-10.pdf), and the  other is the [Pullman League of Women Voters Primer](https://lwvpullman.org/assets/PDFs/PrimerRevision-11-2021.pdf), an online orientation resource manual. It also contains the Pullman League Bylaws. All members are invited to fill out an [Experience and Interests Survey](https://lwvpullman.org/assets/PDFs/2022-09-Experience_Interests_Survey.pdf) for volunteering opportunities. 
 
 ## Organization
 
@@ -39,7 +42,7 @@ The structure of the League parallels the representative system of government un
 
 The League acts in support of, or in opposition to, selected governmental issues which its members have studied. It does not support or oppose candidates, factions or political parties. League members, as individuals, are urged to work in the political party of their choice. In order to protect the League's nonpartisanship policy, guidelines regarding the political activities of the Board of Directors are reviewed frequently.
 
-The League is fully committed to diversity, equity, and inclusion in principle and practice.  These concepts are central to our current and future success in engaging all individuals, households, communities, and policy makers in creating a more perfect democracy. We acknowledge and honor the first people of the Palouse Region and their descendants including our neighbors the Nez Perce, Colville, and Coeur d’Alene Tribes.
+The League is fully committed to diversity, equity, and inclusion in principle and practice.  These concepts are central to our current and future success in engaging all individuals, households, communities, and policy makers in creating a more perfect democracy. We acknowledge and honor the sovereignty of the first peoples of the Palouse Region and their descendants including our neighbors the Nez Perce (Nimiipuu) and Palouse (Palus) Tribes, the Confederated Tribes of the Colville Reservation, and Coeur d’Alene Tribe.
 
 ## Diversity, Equity, and Inclusion
 

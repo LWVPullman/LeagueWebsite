@@ -55,8 +55,11 @@ Voter registration forms are available at public libraries, public schools, comm
 
 ## Who represents you?
 
-Find out who your legislators are and how to contact them here
-[Elected and appointed Officials Brochure](https://lwvpullman.org/docs/_pages/voter_info/2024-01-25-TRY.pdf)
+Find out who your legislators are and how to contact them here. Know your government. They Represent You!
+[Elected and Appointed Officials Guide](https://lwvpullman.org/docs/_pages/voter_info/TRY2025.pdf)
+
+This link will bring you to a brochure of Pullman's elected and appointed officals for 2025 Celebrating 75 years of the Pullman League making democracy work 1950-2025. 
+[Elected and Appointed Officials Celebrating 75 Years Brochure](https://lwvpullman.org/docs/_pages/voter_info/2025-TRY_brochure_for_website.pdf)
 
 ## Local Organizations
 

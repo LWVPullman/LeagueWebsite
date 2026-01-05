@@ -10,7 +10,7 @@ toc: true
 
 League of Women Voters members are passionate activists who support our work in all 50 states and in more than 700 communities.
 
-Joining the LWV is a great way to get involved in your community and play an active role in our democracy.
+Joining the LWV of Pullman/Whitman County is a great way to get involved in your community and play an active role in our democracy.
 
 The LWV is a nonpartisan grassroots political organization open to both women and men at least 16 years of age.
 
@@ -22,37 +22,40 @@ All members are invited to fill out an [Experience and Interests Survey](https:/
 
 If you have questions, Email: [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com)
 
-<b>Annual Membership Dues: </b>
+<span style="color:green; font-size:2em;"> **To Join or Renew Membership:** </span>
 
-The annual membership program begins on September 1st. Annual dues are due in September. However, if you are joining after February 1 and before June 30, you pay one half of the annual dues for that current program year. If you are joining in July or August, you will not pay dues until September, the start of the next program year.   
-* Single membership $65 ($67.20 with credit card transaction fee)
-* Household Membership (2 people) $90 ($92.90 with credit card transaction fee)
-* Students and Lifetime Members are FREE! (Must join by mail or email)
+Please note a new membership payment system was implemented by the National LWV as of Feb. 3, 2025. [This video](https://vimeo.com/1046821379/ac6c340f06?share=copy) will walk you through how to complete the membership form to join or renew your membership with the LWV.
 
-<span style="color:green; font-size:2em;"> **Join by Mail and Check** </span>
+[Click here to Join or Renew Your Membership](https://portal.lwv.org/membership?state=WA&league=0012E00001usONXQA2&referral_source=League%20Website)
 
+Membership dues are split between the local League of Women Voters Pullman/Whitman County (20%), LWV of Washington (47%), and LWVUS (33%). Dues are paid annually.  The recommended annual membership dues are $75.  You may choose any amount as low as $20 and paying more than the recommended amount helps support members who contribute less while keeping our budget balanced, but it does not come with additional benefits.
+
+<b>Member Portal:</b> After joining, LWV members can access the Member Portal to:
+* Update member information (e.g. change phone number, email address, etc.)
+* Access the LWV Pullman/Whitman County website
+* Access VOTE411
+* [Click here to access the Member Portal](https://portal.lwv.org/)
+  
+<b>Still prefer to join or renew by mail?</b>
 [Click here to print and fill out membership form ](https://lwvpullman.org/assets/PDFs/2022-08-Membership_Form.pdf) and submit it along with your check to the address below.
-
-Or just mail your check for the dues along with your Name(s), Address, Phone number, and Email address to the address below.  (This information is shared with League members only but please indicate any items you do not wish to share.)
 
 League of Women Voters of Pullman  
 P.O. Box 366  
 Pullman, WA 99163
 
-<span style="color:green; font-size:2em;"> **Join with Credit or Debit Card** </span> (a PayPal account is not necessary):
+<span style="color:green; font-size:2em;"> **Wish to Donate?** </span>
 
-Select the type of membership, single or family, using the up/down arrow and then click the “Buy Now” button below. <b> New Members, please enter your Name(s), Address, Phone number, and Email Address, in the Description box.</b> (This information is shared with League members only but please indicate any items you do not wish to share.)
+<b>To Donate by Check</b> - Send Name, Address, Phone number, and email address (if any) and a check to the address above.  Make check payable to <b>LWV of Pullman</b> or to <b>LWVWA Education Fund (Pullman)</b> for a <b>tax deductible donations</b>.
+
+<b>To Donate by PayPal, Credit or Debit Card</b>
+
+Name, Email Address, Phone No. and Address requested below are shared with League members only.  Please note any items which should not be shared.
+
+Click on the Donate button below.  You can make a regualr donation or in the doantion box click the down arrow for a tax deductible donation to our Education Fund. 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="KKDU5WAWU2QLY">
-<table>
-<tr><td><input type="hidden" name="on0" value="Yearly Membership">Yearly Membership for The League of Women Voters of Pullman</td></tr><tr><td><select name="os0">
-<option value="Single">Single $67.20 USD</option>
-<option value="Family">Family $92.90 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="4CWWA5ZGYNNHJ" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
