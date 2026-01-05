@@ -58,7 +58,7 @@ We sincerely appreciate our judges for generously lending their time and experti
 
 This program is sponsored by the League of Women Voters of Pullman/Whitman County’s Education Fund and supported by Neill Public and Whitman County Libraries, with contributions from the Tribal Consultation Program, Office of Native Education, and the WA Office of the Superintendent of Public Instruction (OSPI).
 
-Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Aly Welch, Sutton Mooney, Kimberly Thompson, Crowe Gammons, Carol Ndambuki
+Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, and Kimberly Thompson
 
 <span style="color:green; font-size:2em;"> **Native America and the USA** </span>
 
