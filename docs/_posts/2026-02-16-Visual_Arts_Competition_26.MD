@@ -72,11 +72,11 @@ P.O. Box 366 Pullman, WA 99163
 ATTN: Art Contest
 <br/>
 
-## Deadline for submissions: March 31, 2025
+## Deadline for submissions: March 31, 2026
 
-Winners will be notified by April 12th.
+Winners will be notified by April 11th.
 
-An artists’ reception will be held on Saturday, April 19, 2:00 p.m. at Neill Public Library in Pullman.
+An artists’ reception will be held on Saturday, April 18, 2:00 p.m. at Neill Public Library in Pullman.
 
 Please email if you have any questions.
 [lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
@@ -95,4 +95,43 @@ We have a small group of League volunteers who are prepared to give in-person pr
 <br/>
 [LWVWA Textbook Free Digital Downloads including Grades 7-12 and Spanish versions of The State We’re In: Washington](https://lwvwaef.org/collections/digital-downloads)
 <br/>
+
+**Art Competition Flyers:**
+* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2025-02-17-Art_Comp_Flyer.pdf)
+* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2025-02-17-Poster.pdf)
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2025-02-17-Quarter_Page_Flyer_Sheet.pdf)
+
+## Judges
+
+The judges are appointed by the LWV of Pullman (Whitman County).  The judges evaluate the submitted artwork using a Rubric scoring system with the following criteria.
+
+Relevance to the theme:  Development of theme through creativity. How well does artwork depict theme.
+
+Visual effectiveness:  Overall appearance. Evidence of planning and preparation.
+
+Originality:  Uniqueness of ideas.
+
+Message:  Clearly describes the artist’s intent.
+
+[Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 -->
+
+## Past Competitions
+
+[2025 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_25/) Native America and the USA: Honoring the legal, federal, and cultural relationship between Native America and the USA while highlighting Native resilience, sovereignty,and modern identity.
+
+[2024 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_24/) Why Does Voting Matter?
+
+[2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_23) Earth Art: Civics and the Natural World are connected.
+
+[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Visual_Arts_Competition_22/) What Does Democracy look like to you? 
+
+Please email if you have any questions.
+[lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
+
+Copyright LWV of Pullman
+
+Written permission required for full or partial embedding
+
+<!---the title to whatever you want the post to be titled
+change the ID out to the end of the youtube link https://youtu.be/r61ARK4Qv9c -->
