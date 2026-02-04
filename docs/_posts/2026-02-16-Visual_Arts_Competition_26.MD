@@ -14,6 +14,8 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **The 5th Annual Visual Arts Competition theme will be launched on Presidents Day, February 16, 2026.  This is for all students in grades 3-12 living in Whitman County, WA.  Check back then for all the information..** </span>
 
+<!---![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
+-->
 
 This program is sponsored by the League of Women Voters of Pullman’s Education Fund, serving all of Whitman County and is also supported by Neill Public and Whitman County Libraries.
 
