@@ -19,12 +19,12 @@ This program is sponsored by the League of Women Voters of Pullman’s Education
 
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
 
-<!---<span style="color:green; font-size:2em;"> **Native America and the USA** </span>
+<!---<span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
 
-## Honoring the legal, federal, and cultural relationship between Native America and the USA while highlighting Native resilience, sovereignty,and modern identity.
+## Between state, county, and city governments, most of the decisions that affect your daily lives happen close to home. This year’s competition highlights the power of our voices, our votes, and our actions to create change in our own communities.
 
 **Purpose:**
-This art competition invites students in grades 3–12 living in Whitman County .
+This art competition invites students in grades 3–12 living in Whitman County to showcase their artistic talents while learning about local government.  The LWV is a nonpartisan organization, and, as part of our civics education program this year, we want to encourage students to explore how local government shapes daily life and imagine the change they can create close to home.
 
 **Eligibility:**
 1.	Participant must be in grades 3 - 12.
@@ -49,13 +49,13 @@ Multiple winners will be awarded prizes within each grade grouping.  The winning
 
 **Educational Program Summary:**
 
-All participants must read the Educational Program Summary and ensure their art is respectful and relevant to the theme.  [Please click here for the Educational Program Summary](https://lwvpullman.org/assets/PDFs/2025-02-17-Program_Summary.pdf)
+All participants must read the Educational Program Summary and ensure their art is respectful and relevant to the theme.  [Please click here for the Educational Program Summary](https://lwvpullman.org/assets/PDFs/2026-02-16-VAC_Program_Summary.pdf)
 
 **How to Enter:**
 
 Our preferred method for entering is for students and parents to use the online entry form.  If it is not possible to enter online, one may submit their artwork with a signed paper version of the entry form.  
-* [Click here to Enter Online](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform)
-* [Click here to print a Paper Version of the Entry Form](https://lwvpullman.org/assets/PDFs/2025-02-17-Entry_Form.pdf)
+* [Click here to Enter Online](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform?usp=dialog)
+* [Click here to print a Paper Version of the Entry Form](https://lwvpullman.org/assets/PDFs/2026-02-16-Entry_Form_Final.pdf)
 
 **Submit artwork with an attached copy of the completed/signed entry form by either method below:**
 
@@ -97,9 +97,9 @@ We have a small group of League volunteers who are prepared to give in-person pr
 <br/>
 
 **Art Competition Flyers:**
-* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2025-02-17-Art_Comp_Flyer.pdf)
-* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2025-02-17-Poster.pdf)
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2025-02-17-Quarter_Page_Flyer_Sheet.pdf)
+* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2026-02-16-Art_Comp_Flyer_Final.pdf)
+* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2026-02-16- Poster_pulltabs_QR_Final.pdf)
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2026-02-16-4xQuarter_Page _Flyer.pdf)
 
 ## Judges
 
