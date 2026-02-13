@@ -25,10 +25,12 @@ A directory of elected and appointed officials in Whitman County [Know Your Gove
 
 ## Editorials and other Publications
 
+LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
+[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)
+
 The League is frequently in the [Pullman Community Update](https://pullmanchamber.com/live-in-pullman/pullman-community-update/) including having our own editorials.
 
 ![picture of the LWVP editorial page in the March 2023 issue of the Pullman Community Update]({{ site.url }}{{ site.baseurl }}/assets/images/2023-03-Community_Update.png)
-
 
 [The LWV of Pullman’s Board of the Whole](https://lwvwa.org/page-18629/12767181) by Bobbie Ryder, president of LWV of Pullman.  Published in LWVWA's [The Voter 04 May 2022](https://mailchi.mp/lwvwa/this-month-in-league-updates-for-lwvwa-members-2699001?e=90299d6972) issue.
 
