@@ -1,5 +1,5 @@
 ---
-title: Entrepreneurship
+title: Cultivating Entrepreneurship on the Palouse
 header:
   video:
     id: 
@@ -14,7 +14,7 @@ tags:
 ---
 
   
-# Entrepreneurship
+# Cultivating Entrepreneurship on the Palouse
 
 **Speakers:**
 
