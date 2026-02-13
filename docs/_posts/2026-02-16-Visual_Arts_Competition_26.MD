@@ -118,6 +118,9 @@ Message:  Clearly describes the artist’s intent.
 [Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 -->
 
+LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
+[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)
+
 ## Past Competitions
 
 [2025 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_25/) Native America and the USA: Honoring the legal, federal, and cultural relationship between Native America and the USA while highlighting Native resilience, sovereignty,and modern identity.
