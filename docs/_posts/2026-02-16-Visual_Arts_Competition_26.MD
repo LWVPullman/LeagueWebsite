@@ -19,6 +19,10 @@ tags:
 
 This program is sponsored by the League of Women Voters of Pullman’s Education Fund, serving all of Whitman County and is also supported by Neill Public and Whitman County Libraries.
 
+The League has a small group of trained volunteers available to provide in-person or Zoom civics presentations of up to one hour. These presentations are aligned with the competition theme and are available for classrooms, after-school programs, or other student groups living in Whitman County in grades 3-12. Educators and parents can to review the program outline and PowerPoint presentation here after launch day.
+
+Civics presentations can be requested to be held between February 17 through March 15. [Click here to fill out the Presentation Request Form.](https://forms.gle/HLaGxctjAudxkLny9)
+
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
 
 <!---<span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
