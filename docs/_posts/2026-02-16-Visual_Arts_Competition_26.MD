@@ -19,6 +19,10 @@ tags:
 
 This program is sponsored by the League of Women Voters of Pullman’s Education Fund, serving all of Whitman County and is also supported by Neill Public and Whitman County Libraries.
 
+The League has a small group of trained volunteers available to provide in-person or Zoom civics presentations of up to one hour. These presentations are aligned with the competition theme and are available for classrooms, after-school programs, or other student groups living in Whitman County in grades 3-12. Educators and parents can to review the program outline and PowerPoint presentation here after launch day.
+
+Civics presentations can be requested to be held between February 17 through March 15. [Click here to fill out the Presentation Request Form.](https://forms.gle/HLaGxctjAudxkLny9)
+
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
 
 <!---<span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
@@ -101,7 +105,7 @@ We have a small group of League volunteers who are prepared to give in-person pr
 **Art Competition Flyers:**
 * [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2026-02-16-Art_Comp_Flyer_Final.pdf)
 * [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2026-02-16- Poster_pulltabs_QR_Final.pdf)
-* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2026-02-16-4xQuarter_Page _Flyer.pdf)
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2026-02-16-4xQuarter_Page_Flyer.pdf)
 
 ## Judges
 
@@ -117,6 +121,9 @@ Message:  Clearly describes the artist’s intent.
 
 [Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 -->
+
+LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
+[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)
 
 ## Past Competitions
 
