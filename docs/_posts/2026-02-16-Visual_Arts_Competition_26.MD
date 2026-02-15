@@ -14,17 +14,23 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **The 5th Annual Visual Arts Competition theme will be launched on Presidents Day, February 16, 2026.  This is for all students in grades 3-12 living in Whitman County, WA.  Check back then for all the information..** </span>
 
+<!---![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
+-->
 
 This program is sponsored by the League of Women Voters of Pullman’s Education Fund, serving all of Whitman County and is also supported by Neill Public and Whitman County Libraries.
 
+The League has a small group of trained volunteers available to provide in-person or Zoom civics presentations of up to one hour. These presentations are aligned with the competition theme and are available for classrooms, after-school programs, or other student groups living in Whitman County in grades 3-12. Educators and parents can to review the program outline and PowerPoint presentation here after launch day.
+
+Civics presentations can be requested to be held between February 17 through March 15. [Click here to fill out the Presentation Request Form.](https://forms.gle/HLaGxctjAudxkLny9)
+
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
 
-<!---<span style="color:green; font-size:2em;"> **Native America and the USA** </span>
+<!---<span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
 
-## Honoring the legal, federal, and cultural relationship between Native America and the USA while highlighting Native resilience, sovereignty,and modern identity.
+## Between state, county, and city governments, most of the decisions that affect your daily lives happen close to home. This year’s competition highlights the power of our voices, our votes, and our actions to create change in our own communities.
 
 **Purpose:**
-This art competition invites students in grades 3–12 living in Whitman County .
+This art competition invites students in grades 3–12 living in Whitman County to showcase their artistic talents while learning about local government.  The LWV is a nonpartisan organization, and, as part of our civics education program this year, we want to encourage students to explore how local government shapes daily life and imagine the change they can create close to home.
 
 **Eligibility:**
 1.	Participant must be in grades 3 - 12.
@@ -49,13 +55,13 @@ Multiple winners will be awarded prizes within each grade grouping.  The winning
 
 **Educational Program Summary:**
 
-All participants must read the Educational Program Summary and ensure their art is respectful and relevant to the theme.  [Please click here for the Educational Program Summary](https://lwvpullman.org/assets/PDFs/2025-02-17-Program_Summary.pdf)
+All participants must read the Educational Program Summary and ensure their art is respectful and relevant to the theme.  [Please click here for the Educational Program Summary](https://lwvpullman.org/assets/PDFs/2026-02-16-VAC_Program_Summary.pdf)
 
 **How to Enter:**
 
 Our preferred method for entering is for students and parents to use the online entry form.  If it is not possible to enter online, one may submit their artwork with a signed paper version of the entry form.  
-* [Click here to Enter Online](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform)
-* [Click here to print a Paper Version of the Entry Form](https://lwvpullman.org/assets/PDFs/2025-02-17-Entry_Form.pdf)
+* [Click here to Enter Online](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform?usp=dialog)
+* [Click here to print a Paper Version of the Entry Form](https://lwvpullman.org/assets/PDFs/2026-02-16-Entry_Form_Final.pdf)
 
 **Submit artwork with an attached copy of the completed/signed entry form by either method below:**
 
@@ -72,11 +78,11 @@ P.O. Box 366 Pullman, WA 99163
 ATTN: Art Contest
 <br/>
 
-## Deadline for submissions: March 31, 2025
+## Deadline for submissions: March 31, 2026
 
-Winners will be notified by April 12th.
+Winners will be notified by April 11th.
 
-An artists’ reception will be held on Saturday, April 19, 2:00 p.m. at Neill Public Library in Pullman.
+An artists’ reception will be held on Saturday, April 18, 2:00 p.m. at Neill Public Library in Pullman.
 
 Please email if you have any questions.
 [lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
@@ -95,4 +101,46 @@ We have a small group of League volunteers who are prepared to give in-person pr
 <br/>
 [LWVWA Textbook Free Digital Downloads including Grades 7-12 and Spanish versions of The State We’re In: Washington](https://lwvwaef.org/collections/digital-downloads)
 <br/>
+
+**Art Competition Flyers:**
+* [Click here for the Art Competition Flyer](https://lwvpullman.org/assets/PDFs/2026-02-16-Art_Comp_Flyer_Final.pdf)
+* [Click here for promotional poster](https://lwvpullman.org/assets/PDFs/2026-02-16- Poster_pulltabs_QR_Final.pdf)
+* [Click here for promotional quarter sheet flyers](https://lwvpullman.org/assets/PDFs/2026-02-16-4xQuarter_Page_Flyer.pdf)
+
+## Judges
+
+The judges are appointed by the LWV of Pullman (Whitman County).  The judges evaluate the submitted artwork using a Rubric scoring system with the following criteria.
+
+Relevance to the theme:  Development of theme through creativity. How well does artwork depict theme.
+
+Visual effectiveness:  Overall appearance. Evidence of planning and preparation.
+
+Originality:  Uniqueness of ideas.
+
+Message:  Clearly describes the artist’s intent.
+
+[Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
 -->
+
+LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
+[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)
+
+## Past Competitions
+
+[2025 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_25/) Native America and the USA: Honoring the legal, federal, and cultural relationship between Native America and the USA while highlighting Native resilience, sovereignty,and modern identity.
+
+[2024 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_24/) Why Does Voting Matter?
+
+[2023 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_23) Earth Art: Civics and the Natural World are connected.
+
+[2022 Visual Arts Competition](https://lwvpullman.org/docs/art%20contest/civics%20education/Visual_Arts_Competition_22/) What Does Democracy look like to you? 
+
+Please email if you have any questions.
+[lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
+
+Copyright LWV of Pullman
+
+Written permission required for full or partial embedding
+
+<!---the title to whatever you want the post to be titled
+change the ID out to the end of the youtube link https://youtu.be/r61ARK4Qv9c -->
