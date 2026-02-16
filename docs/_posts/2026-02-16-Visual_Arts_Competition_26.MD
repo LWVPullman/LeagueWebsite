@@ -12,20 +12,15 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **The 5th Annual Visual Arts Competition theme will be launched on Presidents Day, February 16, 2026.  This is for all students in grades 3-12 living in Whitman County, WA.  Check back then for all the information..** </span>
+<span style="color:red; font-size:1em;"> **The 5th Annual Visual Arts Competition theme has offically been launched. This program is sponsored by the League of Women Voters of Pullman’s Education Fund which serves all of Whitman County. The program is supported by Neill Public and Whitman County Libraries.** </span>
 
-<!---![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
--->
+[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
-This program is sponsored by the League of Women Voters of Pullman’s Education Fund, serving all of Whitman County and is also supported by Neill Public and Whitman County Libraries.
-
-The League has a small group of trained volunteers available to provide in-person or Zoom civics presentations of up to one hour. These presentations are aligned with the competition theme and are available for classrooms, after-school programs, or other student groups living in Whitman County in grades 3-12. Educators and parents can to review the program outline and PowerPoint presentation here after launch day.
-
-Civics presentations can be requested to be held between February 17 through March 15. [Click here to fill out the Presentation Request Form.](https://forms.gle/HLaGxctjAudxkLny9)
+[image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
 
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
 
-<!---<span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
+<span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
 
 ## Between state, county, and city governments, most of the decisions that affect your daily lives happen close to home. This year’s competition highlights the power of our voices, our votes, and our actions to create change in our own communities.
 
@@ -89,11 +84,13 @@ Please email if you have any questions.
 
 ## Theme Related Civics Education Materials
 
-We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com) to schedule a presentation.
+The League has a small group of trained volunteers available to provide in-person or Zoom civics presentations of up to one hour between February 17 through March 15. These presentations are aligned with the competition theme and are available for classrooms, after-school programs, or other student groups living in Whitman County in grades 3-12. [Click here to fill out the Presentation Request Form](https://forms.gle/HLaGxctjAudxkLny9) and we will do our best to get you scheduled. 
 
+<!---
 [Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1oTDFE8e3e-5UPW-W86GCS_7T__Bj95wRQAOOAKH7C-k/edit#slide=id.p)
 
 [Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2025-02-17-Native_American_and_USA_Program1.pdf)
+ -->
 
 **Additional Resources**
 
@@ -119,11 +116,9 @@ Originality:  Uniqueness of ideas.
 
 Message:  Clearly describes the artist’s intent.
 
+<!---
 [Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
--->
-
-LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
-[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)
+ -->
 
 ## Past Competitions
 
