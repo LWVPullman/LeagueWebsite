@@ -16,7 +16,7 @@ tags:
 
 [Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jp)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
 
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
 
