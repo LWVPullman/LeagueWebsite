@@ -16,7 +16,7 @@ tags:
 
 [Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
-[image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
 
 Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
 
@@ -108,13 +108,13 @@ The League has a small group of trained volunteers available to provide in-perso
 
 The judges are appointed by the LWV of Pullman (Whitman County).  The judges evaluate the submitted artwork using a Rubric scoring system with the following criteria.
 
-Relevance to the theme:  Development of theme through creativity. How well does artwork depict theme.
+<ins>Relevance to the theme:</ins> Development of theme through creativity. How well does artwork depict theme.
 
-Visual effectiveness:  Overall appearance. Evidence of planning and preparation.
+<ins>Visual effectiveness:</ins> Overall appearance. Evidence of planning and preparation.
 
-Originality:  Uniqueness of ideas.
+<ins>Originality:</ins> Uniqueness of ideas.
 
-Message:  Clearly describes the artist’s intent.
+<ins>Message:</ins> Clearly describes the artist’s intent.
 
 <!---
 [Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
