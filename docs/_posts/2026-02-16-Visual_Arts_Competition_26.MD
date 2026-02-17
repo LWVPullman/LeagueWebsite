@@ -12,13 +12,17 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **The 5th Annual Visual Arts Competition theme has offically been launched. This program is sponsored by the League of Women Voters of Pullman’s Education Fund which serves all of Whitman County. The program is supported by Neill Public and Whitman County Libraries.** </span>
+<span style="color:red; font-size:1em;"> **A Competition Theme Presentation will be held on Thursday, February 19, 2026 from  5:30-7:00 PM at Neill Public Library in Pullman.  The public is invited.** </span>
 
 [Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
+## Welcome to the 2026 Visual Arts Program
 
-Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
+The 5th Annual Visual Arts Competition theme has offically been launched. This program is sponsored by the League of Women Voters of Pullman’s Education Fund which serves all of Whitman County. The program is supported by Neill Public and Whitman County Libraries.
+
+LWV Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
 
 <span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
 
