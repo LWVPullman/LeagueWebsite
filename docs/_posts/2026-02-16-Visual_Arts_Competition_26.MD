@@ -14,6 +14,8 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **A Competition Theme Presentation will be held on Thursday, February 19, 2026 from  5:30-7:00 PM at Neill Public Library in Pullman.  The public is invited.** </span>
 
+[Power of Our Voices, Votes, Actions to Create Change](https://lwvwa.org/This-Month-in-the-League/13599193?emci=5b3d5caa-c306-f111-832e-000d3a18942f&emdi=510a17cf-bc0d-f111-a69a-000d3a57593f&ceid=11176177)- an article in the LWV of Washington NewsLetter  - In League Newsletter, Feb 17, 2026
+
 [Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
 ## Welcome to the 2026 Visual Arts Program
