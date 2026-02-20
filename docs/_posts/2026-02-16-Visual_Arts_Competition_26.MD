@@ -61,7 +61,7 @@ All participants must read the Educational Program Summary and ensure their art 
 **How to Enter:**
 
 Our preferred method for entering is for students and parents to use the online entry form.  If it is not possible to enter online, one may submit their artwork with a signed paper version of the entry form.  
-* [Click here to Enter Online](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform?usp=dialog)
+* [Click here to Enter Online](https://forms.gle/RtPWpidDYMGDVyts5)
 * [Click here to print a Paper Version of the Entry Form](https://lwvpullman.org/assets/PDFs/2026-02-16-Entry_Form_Final.pdf)
 
 **Submit artwork with an attached copy of the completed/signed entry form by either method below:**
