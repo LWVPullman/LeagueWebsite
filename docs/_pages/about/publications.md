@@ -25,6 +25,9 @@ A directory of elected and appointed officials in Whitman County [Know Your Gove
 
 ## Editorials and other Publications
 
+LWV of Washington NewsLetter  - In League, Feb 17, 2026 
+[Power of Our Voices, Votes, Actions to Create Change](https://lwvwa.org/This-Month-in-the-League/13599193?emci=5b3d5caa-c306-f111-832e-000d3a18942f&emdi=510a17cf-bc0d-f111-a69a-000d3a57593f&ceid=11176177)
+
 LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 [Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)
 
