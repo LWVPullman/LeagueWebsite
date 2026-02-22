@@ -41,7 +41,7 @@ Curious about the League’s Visual Arts Competition but not sure where to start
 
 “I’m just a kid. How do I use my voice to make a difference in my community? What does that look like visually? Let's explore that together.”
 
-[The visual arts competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_26/) is for all students in grades 3 to 12 living in Whitman County, WA. Students will have until March 30th to enter their artwork.
+[The visual arts competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_26/) is for all students in grades 3 to 12 living in Whitman County, WA. Students will have until March 31st to enter their artwork.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-03-04-Civics_meets_art.jpg)
 
