@@ -92,8 +92,10 @@ Please email if you have any questions.
 
 The League has a small group of trained volunteers available to provide in-person or Zoom civics presentations of up to one hour between February 17 through March 15. These presentations are aligned with the competition theme and are available for classrooms, after-school programs, or other student groups living in Whitman County in grades 3-12. [Click here to fill out the Presentation Request Form](https://forms.gle/HLaGxctjAudxkLny9) and we will do our best to get you scheduled. 
 
+[Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1hnZ1dtvaP0BiZ0PIaf9NII5-t3SXneBlwQFpUx4XLBk/edit?usp=sharing)
+
 <!---
-[Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1oTDFE8e3e-5UPW-W86GCS_7T__Bj95wRQAOOAKH7C-k/edit#slide=id.p)
+[Click here for a PDF of the Slide Presentation]( )
 
 [Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2025-02-17-Native_American_and_USA_Program1.pdf)
  -->
