@@ -12,20 +12,21 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **The 5th Annual Visual Arts Competition theme will be launched on Presidents Day, February 16, 2026.  This is for all students in grades 3-12 living in Whitman County, WA.  Check back then for all the information..** </span>
+<span style="color:red; font-size:1em;"> **Where Civics Meets Art is the next visual arts competition event, Wednesday, March 4th starting at 6:00 pm.  The is a free public event for students considering entering in the competition.  [Click here to find out more about it and to RSVP.](https://lwvpullman.org/docs/evening%20meeting/visual%20arts%20competition/Where_Civics_Meets_Art_event/)** </span>
 
-<!---![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
--->
+[Power of Our Voices, Votes, Actions to Create Change](https://lwvwa.org/This-Month-in-the-League/13599193?emci=5b3d5caa-c306-f111-832e-000d3a18942f&emdi=510a17cf-bc0d-f111-a69a-000d3a57593f&ceid=11176177)- an article in the LWV of Washington NewsLetter  - In League Newsletter, Feb 17, 2026
 
-This program is sponsored by the League of Women Voters of Pullman’s Education Fund, serving all of Whitman County and is also supported by Neill Public and Whitman County Libraries.
+[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
-The League has a small group of trained volunteers available to provide in-person or Zoom civics presentations of up to one hour. These presentations are aligned with the competition theme and are available for classrooms, after-school programs, or other student groups living in Whitman County in grades 3-12. Educators and parents can to review the program outline and PowerPoint presentation here after launch day.
+## Welcome to the 2026 Visual Arts Program
 
-Civics presentations can be requested to be held between February 17 through March 15. [Click here to fill out the Presentation Request Form.](https://forms.gle/HLaGxctjAudxkLny9)
+The 5th Annual Visual Arts Competition theme has offically been launched. This program is sponsored by the League of Women Voters of Pullman’s Education Fund which serves all of Whitman County. The program is supported by Neill Public and Whitman County Libraries.
 
-Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
+LWV Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Fran Powers, and Kimberly Thompson
 
-<!---<span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-02-16-VAC_FB_Banner.jpg)
+
+<span style="color:green; font-size:2em;"> **90% Happens Locally** </span>
 
 ## Between state, county, and city governments, most of the decisions that affect your daily lives happen close to home. This year’s competition highlights the power of our voices, our votes, and our actions to create change in our own communities.
 
@@ -60,7 +61,7 @@ All participants must read the Educational Program Summary and ensure their art 
 **How to Enter:**
 
 Our preferred method for entering is for students and parents to use the online entry form.  If it is not possible to enter online, one may submit their artwork with a signed paper version of the entry form.  
-* [Click here to Enter Online](https://docs.google.com/forms/d/e/1FAIpQLSeUjaWFveya7I8TcbtVnEbqM7H3W3hK43ely4DoLRyz1UJTfA/viewform?usp=dialog)
+* [Click here to Enter Online](https://forms.gle/RtPWpidDYMGDVyts5)
 * [Click here to print a Paper Version of the Entry Form](https://lwvpullman.org/assets/PDFs/2026-02-16-Entry_Form_Final.pdf)
 
 **Submit artwork with an attached copy of the completed/signed entry form by either method below:**
@@ -89,11 +90,15 @@ Please email if you have any questions.
 
 ## Theme Related Civics Education Materials
 
-We have a small group of League volunteers who are prepared to give in-person presentations relating to our theme.  This program is up to one hour long and is for students in classrooms and organizations in Whitman County.  Below is a link to a PowerPoint and supplemental material for the program.  Please contact [Deb Olson at olsonbones@aol.com](mailto:olsonbones@aol.com) to schedule a presentation.
+The League has a small group of trained volunteers available to provide in-person or Zoom civics presentations of up to one hour between February 17 through March 15. These presentations are aligned with the competition theme and are available for classrooms, after-school programs, or other student groups living in Whitman County in grades 3-12. [Click here to fill out the Presentation Request Form](https://forms.gle/HLaGxctjAudxkLny9) and we will do our best to get you scheduled. 
 
-[Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1oTDFE8e3e-5UPW-W86GCS_7T__Bj95wRQAOOAKH7C-k/edit#slide=id.p)
+[Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1hnZ1dtvaP0BiZ0PIaf9NII5-t3SXneBlwQFpUx4XLBk/edit?usp=sharing)
+
+<!---
+[Click here for a PDF of the Slide Presentation]( )
 
 [Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2025-02-17-Native_American_and_USA_Program1.pdf)
+ -->
 
 **Additional Resources**
 
@@ -111,19 +116,17 @@ We have a small group of League volunteers who are prepared to give in-person pr
 
 The judges are appointed by the LWV of Pullman (Whitman County).  The judges evaluate the submitted artwork using a Rubric scoring system with the following criteria.
 
-Relevance to the theme:  Development of theme through creativity. How well does artwork depict theme.
+<ins>Relevance to the theme:</ins> Development of theme through creativity. How well does artwork depict theme.
 
-Visual effectiveness:  Overall appearance. Evidence of planning and preparation.
+<ins>Visual effectiveness:</ins> Overall appearance. Evidence of planning and preparation.
 
-Originality:  Uniqueness of ideas.
+<ins>Originality:</ins> Uniqueness of ideas.
 
-Message:  Clearly describes the artist’s intent.
+<ins>Message:</ins> Clearly describes the artist’s intent.
 
+<!---
 [Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
--->
-
-LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
-[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)
+ -->
 
 ## Past Competitions
 
