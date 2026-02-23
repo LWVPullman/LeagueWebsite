@@ -96,13 +96,15 @@ The League has a small group of trained volunteers available to provide in-perso
 
 <!---
 [Click here for a PDF of the Slide Presentation]( )
-
-[Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2025-02-17-Native_American_and_USA_Program1.pdf)
  -->
+
+[Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2026-02-22-VAC_Supplement_Final.pdf)
 
 **Additional Resources**
 
-[LWVWA Textbook Grades 3-5  The State We’re In: Washington: Your guide to state, tribal & local government](https://oercommons.s3.amazonaws.com/media/courseware/relatedresource/file/SWIW-ElementaryBook-2020i.pdf)
+[City of Pullman - Government Website](https://www.pullman-wa.gov)
+<br/>
+[Whitman County - Government Website](https://www.whitmancounty.gov/)
 <br/>
 [LWVWA Textbook Free Digital Downloads including Grades 7-12 and Spanish versions of The State We’re In: Washington](https://lwvwaef.org/collections/digital-downloads)
 <br/>
