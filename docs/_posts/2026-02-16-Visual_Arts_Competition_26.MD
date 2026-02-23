@@ -94,7 +94,7 @@ The League has a small group of trained volunteers available to provide in-perso
 
 [Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1hnZ1dtvaP0BiZ0PIaf9NII5-t3SXneBlwQFpUx4XLBk/edit?usp=sharing)
 
-[Click here for a PDF of the Slide Presentation](2026-02-23-VACC_Local_Gov_Power_point.pdf)
+[Click here for a PDF of the Slide Presentation](https://lwvpullman.org/assets/PDFs/2026-02-23-VACC_Local_Gov_Power_point.pdf)
 
 [Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2026-02-22-VAC_Supplement_Final.pdf)
 
