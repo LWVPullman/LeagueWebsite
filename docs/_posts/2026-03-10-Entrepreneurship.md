@@ -21,13 +21,13 @@ Come join the Pullman League of Women Voters as we explore entrepreneurship in W
 
 **Speakers:**
 
-* Kara Riebold - Executive Director of the Port of Whitman County
+* **Kara Riebold** - Executive Director of the Port of Whitman County
 
-Kara first joined the Port 13 years ago as a grant writer. She held the roles of Broadband Director and Finance Director before being named Executive Director in 2022. Kara is a proud Cougar alum receiving both her undergraduate and master's degrees from Washington State University. She makes her home near Almota with her husband and two children. 
+Kara Riebold first joined the Port 13 years ago as a grant writer. She held the roles of Broadband Director and Finance Director before being named Executive Director in 2022. Kara is a proud Cougar alum receiving both her undergraduate and master's degrees from Washington State University. She makes her home near Almota with her husband and two children. 
 
-* Marie Mayes - Interim Director, Center For Entrepreneurship, Associate Professor (Career Track), Management, Information Systems, and Entrepreneurship, Carson College of Business, WSU
+* **Marie Mayes** - Interim Director, Center For Entrepreneurship, Associate Professor (Career Track), Management, Information Systems, and Entrepreneurship, Carson College of Business, WSU
 
-Marie's current role as a leader of WSU’s entrepreneurial efforts, Marie promotes entrepreneurial engagement, scholarship and dialogue across the University. She manages CES staff, oversees the WSU Business Plan Competition, mentors and coaches student entrepreneurs in all phases of business development and encourages student engagement in entrepreneurial activities and clubs. She assists in cross-campus entrepreneurial activities by serving on the NSF I-Corps Site teaching team, Entrepreneurial Faculty Ambassadors, and Entrepreneurship Working Group. She interacts with the Frank Scholars, facilitates freshman/sophomore initiatives such as E-Connection and accompanies students on industry site visits to Silicon Valley. Marie teaches Launching New Ventures and New Venture Planning courses.
+Marie Mayes is the Interim Director of the Center for Entrepreneurship and an Associate Professor (Career Track) at the Carson College of Business at Washington State University. In her role as Director, she fosters entrepreneurial engagement, scholarship, and dialogue across the university. In May of 2026, Marie will transition into the role of Chair of the Management, Information Systems, and Entrepreneurship Department. Marie teaches courses in Launching New Ventures, New Venture Planning, and Innovation. Beyond her work at WSU, she maintains a consulting business and participates as an angel investor.
 
 **Coordinator:** Lennis Boyer
 
