@@ -2,7 +2,7 @@
 title: Cultivating Entrepreneurship on the Palouse
 header:
   video:
-    id: 
+    id: IjLoJ5whUhU
     provider: youtube
 categories:
   - Evening meeting
@@ -17,7 +17,7 @@ tags:
 
 **Program:**
 
-Come join the Pullman League of Women Voters as we explore entrepreneurship in Whitman County on Tuesday, March 10,2026, at Paradise Creek Brewery in Pullman! Our speakers are well versed in this topic. Marie Mayes, Director of the Center for Entrepreneurship at WSU, will discuss what makes a successful founder, current startup trends, and recent successful startups she has witnessed.  Kara Riebold, the Executive Director at the Port of Whitman County, will discuss the Port of Whitman County and the work they do to foster innovation and entrepreneurship in the county.  This event is also available over Zoom if you can’t make it in person and it will be recorded for later viewing. 
+The Pullman League of Women Voters as we explored entrepreneurship in Whitman County on Tuesday, March 10,2026, at Paradise Creek Brewery in Pullman! The speakers were well versed in this topic. Marie Mayes, Director of the Center for Entrepreneurship at WSU, discussed what makes a successful founder, current startup trends, and recent successful startups she has witnessed.  Kara Riebold, the Executive Director at the Port of Whitman County, discussed the Port of Whitman County and the work they do to foster innovation and entrepreneurship in the county.  This event was also available over Zoom and it was recorded - unfortunately the sound on the recording is not great due to lots of background noise. 
 
 **Speakers:**
 
@@ -37,21 +37,7 @@ Marie Mayes is the Interim Director of the Center for Entrepreneurship and an As
 
 **Location:** Paradise Creek Brewery, 245 SE Paradise St, Pullman
 
-Food and beverages are available for purchase before, during and after the event. 
-
-Can't make make the meeting in person - join us on Zoom.  This event will also be recorded for later viewing. 
-
-[Join the Zoom meeting here!](https://us02web.zoom.us/j/82387185069?pwd=YUh5b1FVbTdlRHNzV2VzeVJkcnJzdz09)
-
-Zoom Meeting ID: 823 8718 5069
-
-Passcode: 906666
-
-[One tap mobile](tel:+12532158782,,82387185069#,,,,*906666#) US (Tacoma)
-
-
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-03-10-entreprenureship_event.jpg)
-
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
