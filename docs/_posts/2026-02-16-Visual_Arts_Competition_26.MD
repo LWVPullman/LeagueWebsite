@@ -12,11 +12,7 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Where Civics Meets Art is the next visual arts competition event, Wednesday, March 4th starting at 6:00 pm.  The is a free public event for students considering entering in the competition.  [Click here to find out more about it and to RSVP.](https://lwvpullman.org/docs/evening%20meeting/visual%20arts%20competition/Where_Civics_Meets_Art_event/)** </span>
-
-[Power of Our Voices, Votes, Actions to Create Change](https://lwvwa.org/This-Month-in-the-League/13599193?emci=5b3d5caa-c306-f111-832e-000d3a18942f&emdi=510a17cf-bc0d-f111-a69a-000d3a57593f&ceid=11176177)- an article in the LWV of Washington NewsLetter  - In League Newsletter, Feb 17, 2026
-
-[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
+<span style="color:red; font-size:1em;"> **Please note the Artists’ Reception time change - Saturday, April 18th at 12:00 PM at Neill Public Library in Pullman** </span>
 
 ## Welcome to the 2026 Visual Arts Program
 
@@ -83,7 +79,7 @@ ATTN: Art Contest
 
 Winners will be notified by April 11th.
 
-An artists’ reception will be held on Saturday, April 18, 2:00 p.m. at Neill Public Library in Pullman.
+An artists’ reception will be held on Saturday, April 18, 12:00 p.m. at Neill Public Library in Pullman.
 
 Please email if you have any questions.
 [lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
@@ -127,6 +123,10 @@ The judges are appointed by the LWV of Pullman (Whitman County).  The judges eva
 <!---
 [Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
  -->
+
+[Power of Our Voices, Votes, Actions to Create Change](https://lwvwa.org/This-Month-in-the-League/13599193?emci=5b3d5caa-c306-f111-832e-000d3a18942f&emdi=510a17cf-bc0d-f111-a69a-000d3a57593f&ceid=11176177)- an article in the LWV of Washington NewsLetter  - In League Newsletter, Feb 17, 2026
+
+[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
 ## Past Competitions
 
