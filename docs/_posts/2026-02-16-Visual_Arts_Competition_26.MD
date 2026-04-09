@@ -12,7 +12,9 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Please note the Artists’ Reception time change - Saturday, April 18th at 12:00 PM at Neill Public Library in Pullman** </span>
+<span style="color:red; font-size:1em;"> **Artists, Families, and Friends are invited to the Artists Reception on Saturday, April 18th at 12:00 PM at Neill Public Library in Pullman** </span>
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-VAC_Artists_Reception_FB_Event.jpg)
 
 ## Welcome to the 2026 Visual Arts Program
 
