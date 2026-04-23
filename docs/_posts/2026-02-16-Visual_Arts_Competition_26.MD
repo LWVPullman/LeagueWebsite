@@ -12,9 +12,15 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Artists, Families, and Friends are invited to the Artists Reception on Saturday, April 18th at 12:00 PM at Neill Public Library in Pullman** </span>
+<span style="color:red; font-size:1em;"> **This completion has ended but the winning student artwork will continue to be shared throughout the community, with additional displays planned in downtown Pullman for the May ArtWalk and at the Whitman County Library’s Libey Gallery through June.** </span>
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-VAC_Artists_Reception_FB_Event.jpg)
+Here are some photos of the winning artists with their artwork, the special Choice Award winners, and the awards tables.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_Artists.jpg)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_awards.jpg)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_tables.jpg)
 
 ## Welcome to the 2026 Visual Arts Program
 
@@ -122,9 +128,9 @@ The judges are appointed by the LWV of Pullman (Whitman County).  The judges eva
 
 <ins>Message:</ins> Clearly describes the artist’s intent.
 
-<!---
-[Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
- -->
+[Click here for the ***Panel of Judges for 2026***](https://lwvpullman.org/assets/PDFs/2026-04-18-VAC_Judges_Bios.pdf)
+
+## Publications about the competition
 
 [Power of Our Voices, Votes, Actions to Create Change](https://lwvwa.org/This-Month-in-the-League/13599193?emci=5b3d5caa-c306-f111-832e-000d3a18942f&emdi=510a17cf-bc0d-f111-a69a-000d3a57593f&ceid=11176177)- an article in the LWV of Washington NewsLetter  - In League Newsletter, Feb 17, 2026
 
