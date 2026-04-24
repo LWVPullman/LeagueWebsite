@@ -16,7 +16,7 @@ tags:
 
 Here are some photos of the winning artists with their artwork, the special Choice Award winners, and the awards tables.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_Artists.jpg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_Artists.JPG)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_awards.jpg)
 
