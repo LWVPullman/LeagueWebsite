@@ -17,6 +17,8 @@ tags:
 The Artists’ Reception highlights are live on our League’s YouTube Channel. 
 [Click here to view the YouTube video](https://youtu.be/MJtKVwt3nEE?si=Vnjeglf1O_7bzWj9)
 
+[CLICK HERE for a presentation of all the “90% Happens Locally” Artworks](https://lwvpullman.org/assets/PDFs/2026-04-18-Artwork_Slide_Presentation.pdf)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-Winners_Collage_angled.jpg)
 
 Here are some photos of the winning artists with their artwork, the special Choice Award winners, and the awards tables.
