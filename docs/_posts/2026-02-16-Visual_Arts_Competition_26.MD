@@ -14,6 +14,11 @@ tags:
 ---
 <span style="color:red; font-size:1em;"> **This completion has ended but the winning student artwork will continue to be shared throughout the community, with additional displays planned in downtown Pullman for the May ArtWalk and at the Whitman County Library’s Libey Gallery through June.** </span>
 
+The Artists’ Reception highlights are live on our League’s YouTube Channel. 
+[Click here to view the YouTube video](https://youtu.be/MJtKVwt3nEE?si=Vnjeglf1O_7bzWj9)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-Winners_Collage_angled.jpg)
+
 Here are some photos of the winning artists with their artwork, the special Choice Award winners, and the awards tables.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_Artists.JPG)
