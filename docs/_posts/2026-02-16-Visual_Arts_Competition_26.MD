@@ -12,10 +12,14 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This completion has ended but the winning student artwork will continue to be shared throughout the community, with additional displays planned in downtown Pullman for the May ArtWalk and at the Whitman County Library’s Libey Gallery through June.** </span>
+<span style="color:red; font-size:1em;"> **This completion has ended but the winning student artwork will continue to be shared throughout the community, with additional displays planned in downtown Pullman for the May ArtWalk and at the Whitman County Library’s Libey Gallery end of May through June.** </span>
 
 The Artists’ Reception highlights are live on our League’s YouTube Channel. 
 [Click here to view the YouTube video](https://youtu.be/MJtKVwt3nEE?si=Vnjeglf1O_7bzWj9)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-01-YouTube_and_VACC.jpg)
+
+Thankful for the students for participating in the program (watch the YouTube) and for the committee that worked hard to pull off another successful civics education program.  Committee members in top photo from left to right: Lennis, Sutton, Deb, Kat, Carolyn, Crow, Andrea, Fran, Kimberly.
 
 [CLICK HERE for a presentation of all the “90% Happens Locally” Artworks](https://lwvpullman.org/assets/PDFs/2026-04-18-Artwork_Slide_Presentation.pdf)
 
@@ -28,6 +32,10 @@ Here are some photos of the winning artists with their artwork, the special Choi
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_awards.jpg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_tables.jpg)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_GS.jpg)
+
+Grateful to have had Pullman Girl Scout Troop 3210 participate in posting the colors at the start of the event.
 
 ## Welcome to the 2026 Visual Arts Program
 
