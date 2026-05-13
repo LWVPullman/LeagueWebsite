@@ -70,6 +70,7 @@ If you're an observer and need a copy of the form, [click here](https://lwvpullm
 * [Pullman Planning Commission Observer Report 2023-10-25](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2023-10-25-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2024-3-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2024-3-27-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2024-5-22](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2024-5-22-Pub.pdf)
+* [Pullman Planning Commission Observer Report 2026-04-22](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2026-04-22-Pub.pdf)
 
 
 ## Pullman/Moscow Regional Airport Board
