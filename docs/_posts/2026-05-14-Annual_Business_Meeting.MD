@@ -24,4 +24,6 @@ We will focus on the 2026-2027 Budget, Officers, and Bylaws, and review some suc
 
 Please join us with your presence, thoughts, and a dish to share. 
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-14-Annual_Business_Meeting_collage.jpg)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-14-Annual_Business_Meeting.jpg)
