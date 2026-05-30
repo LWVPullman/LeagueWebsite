@@ -20,7 +20,7 @@ Don't miss this special exhibit at the Libey Gallery in the Whitman County Libra
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-26-Libey_exhibit_collage.jpg)
 
-Carolyn and Cheryl had a fun time putting up the artwork as part of the May 16th Downtown Pullman Art Walk!
+Carolyn and Cheryl had fun times displaying artwork as part of the May 16th Downtown Pullman Art Walk and for the exhibition in the Libey Gallery for the month of June!
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-16-Art_Walk.jpg)
 
