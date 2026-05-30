@@ -12,7 +12,17 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This completion has ended but the winning student artwork will continue to be shared throughout the community, with additional displays planned in downtown Pullman for the May ArtWalk and at the Whitman County Library’s Libey Gallery end of May through June.** </span>
+<span style="color:red; font-size:1em;"> **This completion has ended but the winning student artwork is currently on exhibition at the Whitman County Library’s Libey Gallery through June.** </span>
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-06-01-VAC_Libey_Exhibit.jpeg)
+
+Don't miss this special exhibit at the Libey Gallery in the Whitman County Library in Colfax still on display through June.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-26-Libey_exhibit_collage.jpg)
+
+Carolyn and Cheryl had a fun time putting up the artwork as part of the May 16th Downtown Pullman Art Walk!
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-16-Art_Walk.jpg)
 
 The Artists’ Reception highlights are live on our League’s YouTube Channel. 
 [Click here to view the YouTube video](https://youtu.be/MJtKVwt3nEE?si=Vnjeglf1O_7bzWj9)
