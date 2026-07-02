@@ -54,3 +54,5 @@ David Womack (D)
 The forum will be recorded and available for viewing with in 24 hours.
 
 Ballots will be mailed starting on July 17th.  Election Day is August 4th. We suggest you use a Dropbox or if mailing, you mail your ballot  at least 10 prior to the election. Please make sure you sign your ballot.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-07-13-House_Rep_Prim_Event_Posts.jpg)
