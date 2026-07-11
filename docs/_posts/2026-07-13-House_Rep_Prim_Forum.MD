@@ -21,6 +21,8 @@ All qualified candidates for the 2026 U.S. House of Representatives Primary, Was
 
 The forum is open to all qualified candidates. Invitations were extended to every qualified candidate, and participation is voluntary.
 
+Questions for the candidates must be submitted by July 12 by emailing [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com).
+
 Date and Time: Monday, July 13th at 6:30 pm
 
 Place:  Pullman Recreation Center, Room 100, 
