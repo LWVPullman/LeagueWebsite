@@ -32,19 +32,19 @@ Candidates for the 2026 U.S. House of Representatives Primary, Washington's 5th 
 
 Michael Baumgartner (Incumbent - R)
 
-**Andrew Bartleson (I)
+**Andrew Bartleson (I)**
 
-Carmela Conroy (D)**
+**Carmela Conroy (D)**
 
 Ann Marie Danimus (I)
 
-**Kevin Fagan (D)
+**Kevin Fagan (D)**
 
-Richard Freudenberg (D)
+**Richard Freudenberg (D)**
 
-Matthew Hayes (I)
+**Matthew Hayes (I)**
 
-Bajun R Malalwalla (D)**
+**Bajun R Malalwalla (D)**
 
 Michael McGarr (D)
 
