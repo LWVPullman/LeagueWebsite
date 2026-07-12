@@ -17,9 +17,9 @@ Coordinator: Deb Olson
 
 Program Description:
 
-All qualified candidates for the 2026 U.S. House of Representatives Primary, Washington's 5th Congressional District have been invited to participate in this candidate forum. Candidate participation is still being finalized, and the final list of participants will be announced prior to the forum.
+All qualified candidates for the 2026 U.S. House of Representatives Primary, Washington's 5th Congressional District have been invited to participate in this candidate forum.
 
-The forum is open to all qualified candidates. Invitations were extended to every qualified candidate, and participation is voluntary.
+The forum is open to all qualified candidates. Invitations were extended to every qualified candidate, and participation is voluntary.  As of July 12th, the candidates in bold on the list below have confirmed that they will attend the forum.
 
 Questions for the candidates must be submitted by July 12 by emailing [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com).
 
@@ -32,27 +32,27 @@ Candidates for the 2026 U.S. House of Representatives Primary, Washington's 5th 
 
 Michael Baumgartner (Incumbent - R)
 
-Andrew Bartleson (I)
+**Andrew Bartleson (I)
 
-Carmela Conroy (D)
+Carmela Conroy (D)**
 
 Ann Marie Danimus (I)
 
-Kevin Fagan (D)
+**Kevin Fagan (D)
 
-Richard Fredenberg (D)
+Richard Freudenberg (D)
 
 Matthew Hayes (I)
 
-Bajun R Malalwalla (D)
+Bajun R Malalwalla (D)**
 
 Michael McGarr (D)
 
-Nate Powell (I)
+**Nate Powell (I)**
 
 Kyle Ursey(I)
 
-David Womack (D)
+**David Womack (D)**
 
 
 The forum will be recorded and available for viewing here and on our YouTube Channel within 24 hours of the forum.
