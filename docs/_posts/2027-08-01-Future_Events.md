@@ -9,7 +9,7 @@ tags:
 
 2026-2027 Calendar of Events coming soon.
 
-<--
+<!---
 ![Future Events]({{ site.url }}{{ site.baseurl }}/assets/images/2025-2026-LWV_Calendar.jpg)
 
 Monthly Board Meetings will be in-person on the 2nd Saturday of each month at 9:30-11:30 am. The location will be Neill’s Coffee Shop on Main St. in Pullman unless otherwise announced.
