@@ -17,9 +17,9 @@ Coordinator: Deb Olson
 
 Program Description:
 
-All qualified candidates for the 2026 U.S. House of Representatives Primary, Washington's 5th Congressional District have been invited to participate in this candidate forum. Candidate participation is still being finalized, and the final list of participants will be announced prior to the forum.
+All qualified candidates for the 2026 U.S. House of Representatives Primary, Washington's 5th Congressional District were invited to participate in this candidate forum.
 
-The forum is open to all qualified candidates. Invitations were extended to every qualified candidate, and participation is voluntary.
+The forum was open to all qualified candidates. Invitations were extended to every qualified candidate, and participation was voluntary.  The candidates in bold on the list below  attend the forum.  The forum was recorded and is availbe to watch on the LWVPullman YouTube channel.
 
 Date and Time: Monday, July 13th at 6:30 pm
 
@@ -30,31 +30,29 @@ Candidates for the 2026 U.S. House of Representatives Primary, Washington's 5th 
 
 Michael Baumgartner (Incumbent - R)
 
-Andrew Bartleson (I)
+**Andrew Bartleson (I)**
 
-Carmela Conroy (D)
+**Carmela Conroy (D)**
 
 Ann Marie Danimus (I)
 
-Kevin Fagan (D)
+**Kevin Fagan (D)**
 
-Richard Fredenberg (D)
+**Richard Freudenberg (D)**
 
-Matthew Hayes (I)
+**Matthew Hayes (I)**
 
-Bajun R Malalwalla (D)
+**Bajun R Malalwalla (D)**
 
 Michael McGarr (D)
 
-Nate Powell (I)
+**Nate Powell (I)**
 
 Kyle Ursey(I)
 
-David Womack (D)
+**David Womack (D)**
 
-
-The forum will be recorded and available for viewing here and on our YouTube Channel within 24 hours of the forum.
 
 Ballots will be mailed starting on July 17th. Election Day is August 4th. We recommend using an official ballot drop box. If you choose to mail your ballot, mail it at least 10 days before Election Day. Please make sure you sign your ballot.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-07-13-House_Rep_Prim_Event_Posts.jpg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-07-13-House_Rep_Prim_Forum_YouTube.jpg)
