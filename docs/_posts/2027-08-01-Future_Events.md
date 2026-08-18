@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-2026-2027 Calendar of Events coming soon.
+2026-2027 Calendar of Events - Draft
 
 
 ![Future Events]({{ site.url }}{{ site.baseurl }}/assets/images/2026-08-01-draft_calendar.jpg)
