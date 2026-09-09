@@ -11,7 +11,7 @@ categories:
 tags:
   - Ballot Initiatives
   - League 101
-  _ No Hate in WA State
+  - No Hate in WA State
 ---
 # Ballot Initiatives & League 101
 
