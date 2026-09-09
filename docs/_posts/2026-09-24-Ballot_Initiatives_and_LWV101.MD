@@ -31,15 +31,11 @@ When: Thursday, September 24, 2026, 7:00 - 8:30 PM
 
 Where: Pullman City Hall, Building B, Room 100, 190 SE Crestview Street, Pullman, WA
 
-
 [Click here to see the ***No Hate in WA State Flyers***](https://lwvpullman.org/assets/PDFs/2026-09-08-NoHatehalfpager.pdf)
 
-<!---
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-09-24-Initiatives_League_101_evening_program.jpg)
 
-**  **
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-08-06-planning_meeting.jpg)
 
--->
 
 Copyright LWV of Pullman
 Written permission required for full or partial embedding
