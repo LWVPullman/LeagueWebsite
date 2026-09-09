@@ -1,0 +1,44 @@
+---
+title: Ballot Initiatives & League 101
+header:
+  video:
+    id: 
+    provider: youtube
+categories:
+  - Ballot Initiatives
+  - League 101
+  - No Hate in WA State
+tags:
+  - Ballot Initiatives
+  - League 101
+  _ No Hate in WA State
+---
+# Ballot Initiatives & League 101
+
+This meeting is open to the public with more information to come soon!
+
+Coordinators: Tricia Grantham and Kat Odell 
+
+Program Description: Learn about the initiatives on the midterm ballot and get to know the League — what we stand for, what we do, and how you can be part of it.
+
+Protect Vulnerable Kids-Why We Oppose Initiative I-001 and I-638
+ 
+WA state will vote in November on two initiatives pertaining to the health and well-being of children and adolescents: I-001(regarding parents’ rights) and I-638 (regarding girls in sports). The League of Women Voters of Pullman, serving all of Whitman County, in partnership with the League of Women Voters of WA (LWVWA) are hosting this event.
+ 
+All are invited to come learn why the League opposes both measures and why we believe they are harmful to vulnerable kids, especially to girls. Come and explore what these initiatives propose and hear from our speaker, Kym Dye, a retired schoolteacher and active with the campaign, “No Hate in Washington State.” Get your questions answered and prepare yourself to be able to talk with confidence to others about why these measures are harmful.
+
+When: Thursday, September 24, 2026, 7:00 - 8:30 PM
+
+Where: Pullman City Hall, Building B, Room 100, 190 SE Crestview Street, Pullman, WA
+
+[Click here to see the ***No Hate in WA State Flyers***](https://lwvpullman.org/assets/PDFs/2026-09-08-NoHatehalfpager.pdf)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-09-24-Initiatives_League_101_evening_program.jpg)
+
+
+
+Copyright LWV of Pullman
+Written permission required for full or partial embedding
+
+<!---change the title to whatever you want the post to be titled
+change the ID out to the end of the youtube link https://youtu.be/r61ARK4Qv9c -->
