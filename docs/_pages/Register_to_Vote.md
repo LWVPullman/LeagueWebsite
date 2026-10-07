@@ -8,7 +8,7 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
-## 2026 General Election Voter Information for Whitman County
+# 2026 General Election Voter Information for Whitman County
 
 [Click here for important procedures, dates and places for the Oct 2026 Election.](https://lwvpullman.org/assets/PDFs/2026-10-06-Voter_Info_WC.pdf)
 
