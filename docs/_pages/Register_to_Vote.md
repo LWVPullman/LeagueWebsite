@@ -8,9 +8,15 @@ last_modified_at: 2021-03-016T20:54:41-05:00
 toc: true
 ---
 
+## 2026 General Election Voter Information for Whitman County
+
+[Click here for important procedures, dates and places for the Oct 2026 Election.](https://lwvpullman.org/assets/PDFs/2026-10-06-Voter_Info_WC.pdf)
+
 # Register to Vote
 
-For complete information on voter registration and elections, visit The Washington Secretary of State – Elections & Voting
+For complete information on voter registration and elections, visit The Washington Secretary of State website – [Elections & Voting](https://www.sos.wa.gov/elections) 
+
+To check/update your registration, and track your ballot go to [Vote411.org](http://www.vote411.org/)
 
 # Who can register to vote?
 
