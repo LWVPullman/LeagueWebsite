@@ -8,6 +8,10 @@ excerpt: "Included links will help you in finding all the information you might 
 
 The League of Women Voters of Pullman encourages you to learn as much as you can about candidates and the issues before casting your ballot. We hope you find the following links helpful.
 
+## 2026 General Election Voter Information for Whitman County
+
+[Click here for important procedures, dates and places for the Oct 2026 Election.](https://lwvpullman.org/assets/PDFs/2026-10-06-Voter_Info_WC.pdf)
+
 ## Other Leagues
 
 [League of Women Voters of the United States](http://www.lwv.org/)
