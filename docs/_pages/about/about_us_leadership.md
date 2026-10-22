@@ -8,11 +8,11 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 ## Excecutive Board:
 
-**Executive Team:**  Mary Collins, Tricia Grantham, and Paul Spencer
+**Executive Team:**  Kat Odell
 
 **Secretary:**  Lennis Boyer Watts
 
-**Treasurer:**  Kat Odell
+**Treasurer:**  Crowe Gammons
 
 We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  
 
@@ -48,7 +48,7 @@ The Board Meeting dates and location will be updated after the planning meeting 
 
 **Visual Arts Competition Chair:**  Carolyn Joswig-Jones
 
-**Website:**  Leah Zulas, Paul Spencer, and Carolyn Joswig-Jones
+**Website:**  Leah Zulas, Paul Spencer, Carolyn Joswig-Jones, Lori Baker-Eveleth
 
 
 
