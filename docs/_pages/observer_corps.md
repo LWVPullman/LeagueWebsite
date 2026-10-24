@@ -41,7 +41,7 @@ There are 14 public entities that hold meetings open for observation. Currently,
 
 * Pullman Arts Commission / <b>_____________</b>
 
-* Pullman City Council / <b>Roger Crawford</b>
+* Pullman City Council / <b>_______________</b>
 
 * Pullman Diversity, Equity, Inclusion & Belonging Committee / <b>Tricia Grantham</b>
 
@@ -80,12 +80,6 @@ Click below for a PDF of the Observer Corps Guidelines and FAQs.
 
 ## Short LWVP Power Point Presentation
 ["What You Need to Know"](https://lwvpullman.org/assets/PDFs/OnlineSelfOrientation2022-10.pdf)
-## Observer Corps Calendar
-
-* [January  2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-01ObsCalendar.pdf)
-* [February 2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-02ObsCalendar.pdf)
-* [March 2024](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/2024-03ObsCalendar.pdf)
-
 
 ## Observer Report Form
 
