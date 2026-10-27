@@ -10,7 +10,7 @@ Below are links to reports created by the observer corps. Each report details wh
 
 There have been so many over the years, that we now have this archive page to collect them all!
 
-## Pullman Arts Commission
+<details><summary>## Pullman Arts Commission</summary>
 * [Pullman Arts Commission Observer Report 2015-9-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2015-9-8-Pub.pdf)
 * [Pullman Arts Commission Observer Report 2018-11-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2018-11-13-Pub.pdf)
 * [Pullman Arts Commission Observer Report 2019-1-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2019-1-8-Pub.pdf)
@@ -30,7 +30,7 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman Arts Commission Observer Report 2021-4-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2021-4-13-Redacted.pdf)
 * [Pullman Arts Commission Observer Report 2021-7-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2021-7-13-Redacted.pdf)
 * [Pullman Arts Commission Observer Report 2021-10-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2021-10-12-Pub.pdf)
-
+</details>
 ## Pullman Historical Preservation Commission
 
 * [Pullman Historical Preservation Observer Report 2024-3-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-3-11-Pub.pdf)
