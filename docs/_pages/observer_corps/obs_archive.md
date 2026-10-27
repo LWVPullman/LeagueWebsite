@@ -10,6 +10,12 @@ Below are links to reports created by the observer corps. Each report details wh
 
 There have been so many over the years, that we now have this archive page to collect them all!
 
+Jump To
+| [Pullman Arts Commission](#pullman-arts-commission) | [Pullman Historical Preservation Commission](#pullman-historical-preservation-commission) |
+| [Pullman City Council](#pullman-city-council)       | [Pullman's Diversity Equity, Inclusion and Belonging Committee](#pullman's-diversity-equity,-inclusion-and-belonging-committee) |
+
+
+
 ## Pullman Arts Commission
   
 * [Pullman Arts Commission Observer Report 2015-9-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2015-9-8-Pub.pdf)
