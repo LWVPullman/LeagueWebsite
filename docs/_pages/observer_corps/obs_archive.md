@@ -11,7 +11,6 @@ Below are links to reports created by the observer corps. Each report details wh
 There have been so many over the years, that we now have this archive page to collect them all!
 
 <details>
-  
   <summary><h2>Pullman Arts Commission</h2></summary>
   
 * [Pullman Arts Commission Observer Report 2015-9-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2015-9-8-Pub.pdf)
@@ -33,22 +32,18 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman Arts Commission Observer Report 2021-4-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2021-4-13-Redacted.pdf)
 * [Pullman Arts Commission Observer Report 2021-7-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2021-7-13-Redacted.pdf)
 * [Pullman Arts Commission Observer Report 2021-10-12](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2021-10-12-Pub.pdf)
-
 </details>
 
 <details>
-
   <summary><h2>Pullman Historical Preservation Commission</h2></summary>
 
 * [Pullman Historical Preservation Observer Report 2024-3-11](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-3-11-Pub.pdf)
 * [Pullman Historic Preservation Committee Observer Report 2024-4-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-4-15-Pub.pdf)
 * [Pullman Historic Preservation Committee Observer Report 2024-5-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-5-13-Pub.pdf)
 * [Pullman Historic Preservation Committee Observer Report 2024-6-10](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsHistPresComm-2024-6-10-Pub.pdf)
-
 </details>
 
 <details>
-
   <summary><h2>Pullman City Council</h2></summary>
 
 * [Pullman City Council Observer Report 2015-7-22](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2015-7-22-Pub.pdf)
@@ -108,7 +103,6 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman City Council Observer Report 2022-9-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-9-27-Pub.pdf)
 * [Pullman City Council Observer Report 2022-11-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-11-15-Pub.pdf)
 * [Pullman City Council Observer Report 2024-3-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2024-3-26-Pub.pdf)
-
 </details>
 
 ## Pullman's diversity equity, inclusion and Belonging Committee
