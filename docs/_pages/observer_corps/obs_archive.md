@@ -13,7 +13,7 @@ There have been so many over the years, that we now have this archive page to co
 | Jump To                                        |  |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------|
 | [Pullman Arts Commission](#pullman-arts-commission) | [Pullman Historical Preservation Commission](#pullman-historical-preservation-commission) |
-| [Pullman City Council](#pullman-city-council)       | [Pullman Diversity Equity Inclusion and Belonging Committee](#pullman-diversity-equity-inclusion-and-belonging-committee) |
+| [Pullman City Council](#pullman-city-council)       | [Pullman Diversity, Equity, Inclusion and Belonging Committee](#pullman-diversity-equity-inclusion-and-belonging-committee) |
 | [Neill Public Library Board](#neill-public-library-board) | [Pullman Planning Commission](#pullman-planning-commission) |
 | [Pullman\/Moscow Regional Airport Board](#pullman\/moscow-regional-airport-board) | [Pullman Regional Hospital](#pullman-regional-hospital) |
 | [Pullman School Board](#pullman-school-board) | [Whitman County Commissioners](#whitman-county-commissioners) |
@@ -113,7 +113,7 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman City Council Observer Report 2022-11-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-11-15-Pub.pdf)
 * [Pullman City Council Observer Report 2024-3-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2024-3-26-Pub.pdf)
 
-## Pullman Diversity Equity Inclusion and Belonging Committee
+## Pullman Diversity, Equity, Inclusion and Belonging Committee
 
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-1-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-1-18-Pub.pdf)
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-2-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-2-29-Pub.pdf)
