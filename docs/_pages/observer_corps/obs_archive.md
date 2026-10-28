@@ -15,14 +15,10 @@ There have been so many over the years, that we now have this archive page to co
 | [Pullman Arts Commission](#pullman-arts-commission) | [Pullman Historical Preservation Commission](#pullman-historical-preservation-commission) |
 | [Pullman City Council](#pullman-city-council)       | [Pullman Diversity, Equity, Inclusion and Belonging Committee](#pullman-diversity-equity-inclusion-and-belonging-committee) |
 | [Neill Public Library Board](#neill-public-library-board) | [Pullman Planning Commission](#pullman-planning-commission) |
-| [Pullman\/Moscow Regional Airport Board](#pullman\/moscow-regional-airport-board) | [Pullman Regional Hospital](#pullman-regional-hospital) |
+| [Pullman-Moscow Regional Airport Board](#pullman-moscow-regional-airport-board) | [Pullman Regional Hospital](#pullman-regional-hospital) |
 | [Pullman School Board](#pullman-school-board) | [Whitman County Commissioners](#whitman-county-commissioners) |
 | [Whitman County Planning Commission](#whitman-county-planning-commission) | [Port of Whitman County Commissioners](#port-of-whitman-county-commissioners) |
 | [Solid Waste Advisory Committee for Whitman County)](#solid-waste-advisory-committee-for-whitman-county) |
-
- 
-
-
 
 ## Pullman Arts Commission
   
@@ -176,7 +172,7 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman Planning Commission Observer Report 2024-3-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2024-3-27-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2024-5-22](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2024-5-22-Pub.pdf)
 
-## Pullman/Moscow Regional Airport Board
+## Pullman-Moscow Regional Airport Board
 
 * [Pullman/Moscow Regional Airport Board Observer Report 2020-2-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2020-2-26-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2020-3-25](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2020-3-25-Pub.pdf)
