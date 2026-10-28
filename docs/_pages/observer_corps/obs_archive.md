@@ -10,12 +10,10 @@ Below are links to reports created by the observer corps. Each report details wh
 
 There have been so many over the years, that we now have this archive page to collect them all!
 
-Jump To
-
-| Column 1                                            | Column 2 |
+| Jump To                                        |  |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------|
 | [Pullman Arts Commission](#pullman-arts-commission) | [Pullman Historical Preservation Commission](#pullman-historical-preservation-commission) |
-| [Pullman City Council](#pullman-city-council)       | [Pullman's Diversity Equity, Inclusion and Belonging Committee](#pullman's-diversity-equity,-inclusion-and-belonging-committee) |
+| [Pullman City Council](#pullman-city-council)       | [Pullman Diversity Equity Inclusion and Belonging Committee](#pullman-diversity-equity-inclusion-and-belonging-committee) |
 
 
 
@@ -108,7 +106,7 @@ Jump To
 * [Pullman City Council Observer Report 2022-11-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-11-15-Pub.pdf)
 * [Pullman City Council Observer Report 2024-3-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2024-3-26-Pub.pdf)
 
-## Pullman's Diversity Equity, Inclusion and Belonging Committee
+## Pullman Diversity Equity Inclusion and Belonging Committee
 
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-1-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-1-18-Pub.pdf)
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-2-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-2-29-Pub.pdf)
