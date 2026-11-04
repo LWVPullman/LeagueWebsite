@@ -18,7 +18,7 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  
 
-The Board Meeting are held on the second Saturday of the month at 9:30 am at Neill‘s Coffeehouse in downtown Pullman. Location subject to change. Non-members may attend if interested and should contact the League by sending an email to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) for meeting information.
+Board Meetings are held on the second Saturday of the month at 9:30 am at Neill‘s Coffeehouse in downtown Pullman. Location subject to change. Non-members may attend if interested and should contact the League by sending an email to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) for meeting information.
 
 
 
