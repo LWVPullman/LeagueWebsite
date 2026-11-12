@@ -8,7 +8,9 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 ## Excecutive Board:
 
-**Executive Team:**  Kat Odell
+**President:**  Kat Odell
+
+**Vice President:**  Susan Daniels
 
 **Secretary:**  Lennis Boyer Watts
 
@@ -16,23 +18,29 @@ excerpt: "All about Pullman League of Women Voters Leadership"
 
 We have a **“Board of the Whole”** so all league members are welcome to attend Board Meetings.  
 
-The Board Meeting dates and location will be updated after the planning meeting on August 12th.  Non-members may attend if interested and should contact the League by sending an email to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) for meeting information.
+Board Meetings are held on the second Saturday of the month at 9:30 am at Neill‘s Coffeehouse in downtown Pullman. Location subject to change. Non-members may attend if interested and should contact the League by sending an email to [lwvpull@yahoo.com](mailto:lwvpull@yahoo.com) for meeting information.
 
 
 
 ## Committee Leaders:
 
+**Advocacy Chair:** Susan Daniels
+
+**Budget Chair:** Crowe Gammons
+
 **Civics Education Coordinator:** Lennis Boyer Watts
 
-**Community Outreach Coordinator:**  Libby Walker
+**Community Outreach Coordinator:**  OPEN
 
 **Community Update Editor:**  OPEN
 
 **Finance Drive Coordinator:** Libby Walker 
 
+**Gratitude coordinator:** Sutton Mooney
+
 **MELD Coordinators:**  Paul Spencer, Tricia Grantham 
 
-**Membership Chair:**  Kat Odell
+**Membership Chair:**  OPEN
 
 **Nominating Coordinator:**  Anne Lewis
 
@@ -40,7 +48,9 @@ The Board Meeting dates and location will be updated after the planning meeting 
 
 **Social Media:**  Carolyn Joswig-Jones and OPEN
 
-**The Voter Publication:**  Anne Lewis
+**The Voter Publication:**  Anne Lewis - OPEN
+
+**Tribal Relations and Community Engagement Chair:**  Cheryl Kintner
 
 **TRY Coordinator:**  OPEN
 
@@ -50,6 +60,7 @@ The Board Meeting dates and location will be updated after the planning meeting 
 
 **Website:**  Leah Zulas, Paul Spencer, Carolyn Joswig-Jones, Lori Baker-Eveleth
 
+**Youth Civics Connection Chair:** Fran Powers
 
 
 
