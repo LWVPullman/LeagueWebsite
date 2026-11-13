@@ -12,11 +12,17 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **This completion has ended but the winning student artwork is currently on exhibition at the Whitman County Library’s Libey Gallery through June.** </span>
+<span style="color:red; font-size:1em;"> **This completion has ended but scroll down to see how it unfolded.  Look for the 2027 competition launching on Feb 15, 2027 [by clicking here](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_27/).** </span>
+
+[CLICK HERE for a presentation of all the “90% Happens Locally” Artworks](https://lwvpullman.org/assets/PDFs/2026-04-18-Artwork_Slide_Presentation.pdf)
+
+Gabriella and her family had the opportunity to meet with the mayor and see her artwork, a portrait of the mayor, hung in his office for the month of October.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-09-26-Mayor_Benjiman_and_Gabriella.jpg)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-06-01-VAC_Libey_Exhibit.jpeg)
 
-Don't miss this special exhibit at the Libey Gallery in the Whitman County Library in Colfax still on display through June.
+This special exhibit at the Libey Gallery in the Whitman County Library in Colfax was on display May and June 2026.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-26-Libey_exhibit_collage.jpg)
 
