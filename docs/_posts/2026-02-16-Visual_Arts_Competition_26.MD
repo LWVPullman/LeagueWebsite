@@ -12,11 +12,40 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Where Civics Meets Art is the next visual arts competition event, Wednesday, March 4th starting at 6:00 pm.  The is a free public event for students considering entering in the competition.  [Click here to find out more about it and to RSVP.](https://lwvpullman.org/docs/evening%20meeting/visual%20arts%20competition/Where_Civics_Meets_Art_event/)** </span>
+<span style="color:red; font-size:1em;"> **This completion has ended but the winning student artwork is currently on exhibition at the Whitman County Library’s Libey Gallery through June.** </span>
 
-[Power of Our Voices, Votes, Actions to Create Change](https://lwvwa.org/This-Month-in-the-League/13599193?emci=5b3d5caa-c306-f111-832e-000d3a18942f&emdi=510a17cf-bc0d-f111-a69a-000d3a57593f&ceid=11176177)- an article in the LWV of Washington NewsLetter  - In League Newsletter, Feb 17, 2026
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-06-01-VAC_Libey_Exhibit.jpeg)
 
-[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
+Don't miss this special exhibit at the Libey Gallery in the Whitman County Library in Colfax still on display through June.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-26-Libey_exhibit_collage.jpg)
+
+Carolyn and Cheryl had fun times displaying artwork as part of the May 16th Downtown Pullman Art Walk and for the exhibition in the Libey Gallery for the month of June!
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-16-Art_Walk.jpg)
+
+The Artists’ Reception highlights are live on our League’s YouTube Channel. 
+[Click here to view the YouTube video](https://youtu.be/MJtKVwt3nEE?si=Vnjeglf1O_7bzWj9)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-05-01-YouTube_and_VACC.jpg)
+
+Thankful for the students for participating in the program (watch the YouTube) and for the committee that worked hard to pull off another successful civics education program.  Committee members in top photo from left to right: Lennis, Sutton, Deb, Kat, Carolyn, Crow, Andrea, Fran, Kimberly.
+
+[CLICK HERE for a presentation of all the “90% Happens Locally” Artworks](https://lwvpullman.org/assets/PDFs/2026-04-18-Artwork_Slide_Presentation.pdf)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-Winners_Collage_angled.jpg)
+
+Here are some photos of the winning artists with their artwork, the special Choice Award winners, and the awards tables.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_Artists.JPG)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_awards.jpg)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_tables.jpg)
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2026-04-18-collage_GS.jpg)
+
+Grateful to have had Pullman Girl Scout Troop 3210 participate in posting the colors at the start of the event.
 
 ## Welcome to the 2026 Visual Arts Program
 
@@ -83,7 +112,7 @@ ATTN: Art Contest
 
 Winners will be notified by April 11th.
 
-An artists’ reception will be held on Saturday, April 18, 2:00 p.m. at Neill Public Library in Pullman.
+An artists’ reception will be held on Saturday, April 18, 12:00 p.m. at Neill Public Library in Pullman.
 
 Please email if you have any questions.
 [lwvpullmanvacc@gmail.com](mailto:lwvpullmanvacc@gmail.com)
@@ -94,15 +123,15 @@ The League has a small group of trained volunteers available to provide in-perso
 
 [Click here for the Google Slide Presentation](https://docs.google.com/presentation/d/1hnZ1dtvaP0BiZ0PIaf9NII5-t3SXneBlwQFpUx4XLBk/edit?usp=sharing)
 
-<!---
-[Click here for a PDF of the Slide Presentation]( )
+[Click here for a PDF of the Slide Presentation](https://lwvpullman.org/assets/PDFs/2026-02-23-VACC_Local_Gov_Power_point.pdf)
 
-[Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2025-02-17-Native_American_and_USA_Program1.pdf)
- -->
+[Click here for the Supplemental Material for the Slide Presentation](https://lwvpullman.org/assets/PDFs/2026-02-22-VAC_Supplement_Final.pdf)
 
 **Additional Resources**
 
-[LWVWA Textbook Grades 3-5  The State We’re In: Washington: Your guide to state, tribal & local government](https://oercommons.s3.amazonaws.com/media/courseware/relatedresource/file/SWIW-ElementaryBook-2020i.pdf)
+[City of Pullman - Government Website](https://www.pullman-wa.gov)
+<br/>
+[Whitman County - Government Website](https://www.whitmancounty.gov/)
 <br/>
 [LWVWA Textbook Free Digital Downloads including Grades 7-12 and Spanish versions of The State We’re In: Washington](https://lwvwaef.org/collections/digital-downloads)
 <br/>
@@ -124,9 +153,13 @@ The judges are appointed by the LWV of Pullman (Whitman County).  The judges eva
 
 <ins>Message:</ins> Clearly describes the artist’s intent.
 
-<!---
-[Click here for the Panel of Judges for 2025](https://lwvpullman.org/assets/PDFs/2025-04-VAC_Judges.pdf)
- -->
+[Click here for the ***Panel of Judges for 2026***](https://lwvpullman.org/assets/PDFs/2026-04-18-VAC_Judges_Bios.pdf)
+
+## Publications about the competition
+
+[Power of Our Voices, Votes, Actions to Create Change](https://lwvwa.org/This-Month-in-the-League/13599193?emci=5b3d5caa-c306-f111-832e-000d3a18942f&emdi=510a17cf-bc0d-f111-a69a-000d3a57593f&ceid=11176177)- an article in the LWV of Washington NewsLetter  - In League Newsletter, Feb 17, 2026
+
+[Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
 ## Past Competitions
 

@@ -10,7 +10,18 @@ Below are links to reports created by the observer corps. Each report details wh
 
 There have been so many over the years, that we now have this archive page to collect them all!
 
+| Jump To                                        |  |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------------|
+| [Pullman Arts Commission](#pullman-arts-commission) | [Pullman Historical Preservation Commission](#pullman-historical-preservation-commission) |
+| [Pullman City Council](#pullman-city-council)       | [Pullman Diversity, Equity, Inclusion and Belonging Committee](#pullman-diversity-equity-inclusion-and-belonging-committee) |
+| [Neill Public Library Board](#neill-public-library-board) | [Pullman Planning Commission](#pullman-planning-commission) |
+| [Pullman-Moscow Regional Airport Board](#pullman-moscow-regional-airport-board) | [Pullman Regional Hospital](#pullman-regional-hospital) |
+| [Pullman School Board](#pullman-school-board) | [Whitman County Commissioners](#whitman-county-commissioners) |
+| [Whitman County Planning Commission](#whitman-county-planning-commission) | [Port of Whitman County Commissioners](#port-of-whitman-county-commissioners) |
+| [Solid Waste Advisory Committee for Whitman County)](#solid-waste-advisory-committee-for-whitman-county) |
+
 ## Pullman Arts Commission
+  
 * [Pullman Arts Commission Observer Report 2015-9-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2015-9-8-Pub.pdf)
 * [Pullman Arts Commission Observer Report 2018-11-13](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2018-11-13-Pub.pdf)
 * [Pullman Arts Commission Observer Report 2019-1-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsArts-2019-1-8-Pub.pdf)
@@ -98,11 +109,10 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman City Council Observer Report 2022-11-15](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2022-11-15-Pub.pdf)
 * [Pullman City Council Observer Report 2024-3-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsCityCouncil-2024-3-26-Pub.pdf)
 
-## Pullman's diversity equity, inclusion and Belonging Committee
+## Pullman Diversity, Equity, Inclusion and Belonging Committee
 
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-1-18](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-1-18-Pub.pdf)
 * [Pullman City Diversity, Equity, Inclusion and Belonging Observer Report 2024-2-29](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsDEIB-2024-2-29-Pub.pdf)
-
 
 ## Neill Public Library Board
 
@@ -162,7 +172,7 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman Planning Commission Observer Report 2024-3-27](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2024-3-27-Pub.pdf)
 * [Pullman Planning Commission Observer Report 2024-5-22](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPullPlanComm-2024-5-22-Pub.pdf)
 
-## Pullman/Moscow Regional Airport Board
+## Pullman-Moscow Regional Airport Board
 
 * [Pullman/Moscow Regional Airport Board Observer Report 2020-2-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2020-2-26-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2020-3-25](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2020-3-25-Pub.pdf)
@@ -186,7 +196,6 @@ There have been so many over the years, that we now have this archive page to co
 * [Pullman/Moscow Regional Airport Board Observer Report 2024-6-26](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-6-26-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2024-7-31](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-7-31-Pub.pdf)
 * [Pullman/Moscow Regional Airport Board Observer Report 2024-10-30](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsAirport-2024-10-30-Pub.pdf)
-
 
 ## Pullman Regional Hospital
 
@@ -466,7 +475,7 @@ There have been so many over the years, that we now have this archive page to co
 * [Port of Whitman County Commissioners Observer Report 2021-9-16](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPort-2021-9-16.pdf)
 * [Port of Whitman County Commissioners Observer Report 2021-10-7](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsPort-2021-10-7.pdf)
 
-## Solid Waste Advisory Committee for Whitman County (SWAC)
+## Solid Waste Advisory Committee for Whitman County
 
 * [Solid Waste Advisory Committee for Whitman County Observer Report 2019-12-10](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSWAC-2019-12-10-Pub.pdf)
 * [Solid Waste Advisory Committee for Whitman County Observer Report 2020-12-8](https://lwvpullman.org/assets/PDFs/ObserverCorpReports/ObsSWAC-2020-12-8-Pub.pdf)
