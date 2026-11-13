@@ -12,10 +12,11 @@ tags:
   - Civics Education
 
 ---
-<span style="color:red; font-size:1em;"> **Mark your calendars! The 6th Annual Visual Arts Competition theme will be unveiled on Presidents’ Day, February 15, 2027! Check back then for the theme, entry details, and everything you need to participate. We’re already looking forward to another year of creativity, fresh ideas, and wonderful student artwork from across Whitman County!.** </span>
+<span style="color:red; font-size:1em;"> **Mark your calendars! The 6th Annual Visual Arts Competition theme will be unveiled on Presidents’ Day, February 15, 2027! Check back then for the theme, entry details, and everything you need to participate. We’re already looking forward to another year of creativity, fresh ideas, and wonderful student artwork from across Whitman County!** </span>
 
-## New for 2027 - we increased the winning prize money to <span style="color:green; font-size:2em;"> **$100** </span>
+## New for 2027 - We increased the winning prize money to <span style="color:green; font-size:1em;"> $100 </span>
 
+LWV Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Kimberly Thompson, Andrea Kirchner-Loewus, Fran Powers, Cheryl Kintner, Mary Hoffman, Joan Swensen, Bella Ludwig.
 
 <!---
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ )
@@ -24,11 +25,9 @@ tags:
 
 The 6th Annual Visual Arts Competition theme has officially been launched. This program is sponsored by the League of Women Voters of Pullman’s Education Fund which serves all of Whitman County. The program is supported by Neill Public and Whitman County Libraries.
 
-LWV Visual Arts Competition Committee:  Carolyn Joswig-Jones (Chair), Lennis Boyer, Deb Olson, Kat Odell, Sutton Mooney, Crowe Gammons, Kimberly Thompson, Andrea Kirchner-Loewus, Fran Powers, Cheryl Kintner, Mary Hoffman, Joan Swensen, Bella Ludwig.
-
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ )
 
-<span style="color:green; font-size:2em;"> **Why Civics?** </span>
+<span style="color:purple; font-size:2em;"> **Why Civics?** </span>
 
 ## Finding our common ground through civics.
 
@@ -137,6 +136,8 @@ The judges are appointed by the LWV of Pullman (Whitman County).  The judges eva
 [Pullman Art Competition for Youth Prompts Valued Talk About Civics](https://lwvwa.org/The-Evergreen-Voter/13593698?emci=a6ade43c-2501-f111-832f-000d3a1f0e4c&emdi=ada4698b-bc02-f111-832f-000d3a1f0e4c&ceid=11176177)- an article in the LWV of Washington NewsLetter  - The Evergreen Voter, Feb 3, 2026
 
 ## Past Competitions
+
+[2026 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_26/) 90% Happens Locally
 
 [2025 Visual Arts Competition](https://lwvpullman.org/docs/art%20competition/civics%20education/Visual_Arts_Competition_25/) Native America and the USA: Honoring the legal, federal, and cultural relationship between Native America and the USA while highlighting Native resilience, sovereignty,and modern identity.
 
